@@ -25,6 +25,8 @@ def load_props():
                 parts = line.split()[1:]
                 parts = [int(p) for p in parts]
                 props.append(Prop(*parts))
+
+            props = props[:2]
             scene_props.append(props)
 
     return scene_props
@@ -62,20 +64,6 @@ def normalize_props(scene_props):
 def load_scenes(scene_props):
     scenes = []
     with open("data/abstract/SimpleSentences/SimpleSentences1_10020.txt") as sent_f:
-        #print len(scene_props)
-        #print len(sent_f.readlines())
-        #exit()
-        #for props, sent_line in zip(scene_props, sent_f):
-        #    sent_parts = sent_line.strip().split("\t")
-        #    print sent_parts
-        #    sent = sent_parts[2]
-        #    sent = sent.replace('"', "")
-        #    sent = re.sub(r"[.?!']", "", sent)
-        #    words = sent.lower().split()
-        #    words = ["<s>"] + words + ["</s>"]
-        #    word_ids = [WORD_INDEX.index(w) for w in words]
-        #    scenes.append(Scene(props, word_ids))
-
         for sent_line in sent_f:
             sent_parts = sent_line.strip().split("\t")
 
@@ -87,8 +75,11 @@ def load_scenes(scene_props):
             image_subid = scene_id % 10
             image_strid = "%d_%d" % (image_id, image_subid)
 
-            if image_subid > 0:
-                continue
+            #if image_subid > 1:
+            #    continue
+
+            #if sent_id > 0:
+            #    continue
 
             sent = sent_parts[2]
             sent = sent.replace('"', "")
