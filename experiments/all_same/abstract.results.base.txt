@@ -1,0 +1,51 @@
+id,target,distractor,similarity,model_name,speaker_score,listener_score,description
+0,814_9,814_5,0,sampling_speaker1,-18.4958965208,-0.499394416809,mike runs away from the sun
+1,814_9,814_5,0,sampling_speaker1,-13.7384574557,-0.887470245361,the sun is in the sky
+2,814_9,814_5,0,sampling_speaker1,-41.5350833576,-0.48297059536,jenny has a pink
+3,814_9,814_5,0,sampling_speaker1,-31.3351069026,-0.30017375946,jenny is calling the pizza
+4,814_9,814_5,0,sampling_speaker1,-36.5458890577,-1.10399878025,jenny was playing soccer in a picnic
+5,814_9,814_5,0,sampling_speaker1,-37.6155928044,-0.0697984695435,jenny was mad while she kicked the ball for mike
+6,814_9,814_5,0,sampling_speaker1,-12.7815836238,-0.288089334965,mike is very surprised
+7,814_9,814_5,0,sampling_speaker1,-25.0052314809,-1.29204177856,a pizza and has a ball on it
+8,814_9,814_5,0,sampling_speaker1,-31.0840681076,-1.34809827805,the soccer ball was on the table
+9,814_9,814_5,0,sampling_speaker1,-9.94849156553,-0.347129821777,mike is holding a pizza
+10,830_0,830_3,0,sampling_speaker1,-13.3165156648,-0.108135700226,jenny is running away from mike
+11,830_0,830_3,0,sampling_speaker1,-17.3563940163,-0.377524137497,jenny is happy today
+12,830_0,830_3,0,sampling_speaker1,-15.4811410452,-0.409448623657,jenny is running near a pie
+13,830_0,830_3,0,sampling_speaker1,-22.4259170622,-1.05102539062,the burgers are on the grill
+14,830_0,830_3,0,sampling_speaker1,-16.9659546936,-0.78803396225,jenny is near the pie
+15,830_0,830_3,0,sampling_speaker1,-21.2973103049,-0.447791934013,the pie is standing beside the grill
+16,830_0,830_3,0,sampling_speaker1,-21.3963881299,-0.856288015842,mike is pie is near a pie
+17,830_0,830_3,0,sampling_speaker1,-33.3260345874,-1.08236074448,the pie and is on the grill
+18,830_0,830_3,0,sampling_speaker1,-10.6041053669,-0.573667287827,jenny is beside the pie
+19,830_0,830_3,0,sampling_speaker1,-25.0609646751,-0.737646102905,the pie are on the grill
+20,861_1,861_6,0,sampling_speaker1,-14.1320422927,-0.782788276672,jenny is standing next to the yellow table
+21,861_1,861_6,0,sampling_speaker1,-43.1732182938,-0.132318496704,jenny is wearing a chefs hat while matt and would goggles
+22,861_1,861_6,0,sampling_speaker1,-15.9775533102,-0.681195735931,jenny is between mike and the pizza
+23,861_1,861_6,0,sampling_speaker1,-11.9643012253,-0.510385513306,there is a pizza on the picnic table
+24,861_1,861_6,0,sampling_speaker1,-27.7314580069,-0.818487644196,a bear is arms up
+25,861_1,861_6,0,sampling_speaker1,-22.1230279652,-0.272651672363,the bear is wearing a chefs hat and white star
+26,861_1,861_6,0,sampling_speaker1,-21.1016441001,-1.06041479111,the bear is standing on the table
+27,861_1,861_6,0,sampling_speaker1,-27.6056624698,-0.603052377701,a bear runs away
+28,861_1,861_6,0,sampling_speaker1,-26.4746158186,-0.196110725403,the bear is wearing a chef snow hat
+29,861_1,861_6,0,sampling_speaker1,-11.3467733729,-0.183598995209,mike is wearing the hat
+30,807_1,807_5,0,sampling_speaker1,-26.9547759853,-0.693147182465,jenny angrily forgot her pie
+31,807_1,807_5,0,sampling_speaker1,-35.9998991637,-0.693147659302,a bear floats jennys kite
+32,807_1,807_5,0,sampling_speaker1,-34.4546017861,-0.693146705627,a pie took the bear hat
+33,807_1,807_5,0,sampling_speaker1,-25.7534247092,-0.693147659302,a kite flew flying a kite and the sky
+34,807_1,807_5,0,sampling_speaker1,-42.5477537118,-0.693146705627,the bear is trip on the hamburger
+35,807_1,807_5,0,sampling_speaker1,-28.7725761902,-0.693147182465,the bear is very hungry
+36,807_1,807_5,0,sampling_speaker1,-35.6251635391,-0.693147182465,a kite flies away
+37,807_1,807_5,0,sampling_speaker1,-34.1509053832,-0.693147182465,the cat and the kite are in the sandbox
+38,807_1,807_5,0,sampling_speaker1,-11.9880239427,-0.693146705627,the bear is holding a pie
+39,807_1,807_5,0,sampling_speaker1,-47.6137089266,-0.693147182465,jenny kicks the bear in the air so he wanted she thinks
+40,806_1,806_3,0,sampling_speaker1,-25.5890200211,-0.829500079155,jenny kicked the soccer ball
+41,806_1,806_3,0,sampling_speaker1,-23.6349218747,-0.58728313446,the soccer ball is next to the duck
+42,806_1,806_3,0,sampling_speaker1,-26.4173684677,-0.900748431683,mike is wearing blue shoes
+43,806_1,806_3,0,sampling_speaker1,-15.8379137566,-1.01080155373,the duck is standing next to the dog
+44,806_1,806_3,0,sampling_speaker1,-14.8475185264,-1.14019489288,the helicopter is sitting in the sky
+45,806_1,806_3,0,sampling_speaker1,-22.5001219666,-1.02371811867,jenny kicks the soccer ball
+46,806_1,806_3,0,sampling_speaker1,-40.7815992485,-0.481217384338,the duck is on the goose
+47,806_1,806_3,0,sampling_speaker1,-29.5934711298,-1.0629222393,jenny and mike are playing soccer with the soccer ball
+48,806_1,806_3,0,sampling_speaker1,-19.4968198232,-1.03498339653,a dog is standing next to jenny
+49,806_1,806_3,0,sampling_speaker1,-32.1210000257,-1.26665174961,the is brown dog kicked the soccer ball

@@ -3,6 +3,7 @@
 from indices import WORD_INDEX
 
 from apollocaffe.layers import *
+from corpus import Scene, Bird
 import numpy as np
 from scipy.misc import logsumexp
 
@@ -52,13 +53,56 @@ class EuclideanScorer(object):
         loss = net.f(SoftmaxWithLoss(l_loss, bottoms=[l_reduce, l_label]))
         denominators = logsumexp(net.blobs[l_reduce].data, axis=1)
         chosen_logprobs = net.blobs[l_reduce].data[range(batch_size), labels.astype(int)]
-        chosen_probs = np.exp(chosen_logprobs - denominators)
+        chosen_logprobs -= denominators
 
         predictions = np.argmax(net.blobs[l_reduce].data, axis=1)
         acc = np.mean(predictions==labels)
         accs = predictions == labels
 
-        return chosen_probs, accs
+        return chosen_logprobs, accs
+
+class MlpScorer(object):
+    def __init__(self, name, apollo_net, config):
+        self.name = name
+        self.apollo_net = apollo_net
+        self.config = config
+
+    def forward(self, prefix, l_query, ll_targets, labels):
+        net = self.apollo_net
+
+        batch_size, n_dims = net.blobs[l_query].shape
+        n_targets = len(ll_targets)
+
+        l_cat = "MlpScorer_%s_%s_cat" % (self.name, prefix)
+        l_tile_query = "MlpScorer_%s_%s_tile_query" % (self.name, prefix)
+        l_sum = "MlpScorer_%s_%s_sum" % (self.name, prefix)
+        l_relu = "MlpScorer_%s_%s_relu" % (self.name, prefix)
+        l_ip = "MlpScorer_%s_%s_ip" % (self.name, prefix)
+        l_label = "MlpScorer_%s_%s_label" % (self.name, prefix)
+        l_loss = "MlpScorer_%s_%s_loss" % (self.name, prefix)
+
+        p_ip = ["MlpScorer_%s_weight", "MlpScorer_%s_bias"]
+
+        for l_target in ll_targets:
+            net.blobs[l_target].reshape((batch_size, 1, n_dims))
+        net.blobs[l_query].reshape((batch_size, 1, n_dims))
+        net.f(Concat(l_cat, axis=1, bottoms=ll_targets))
+        net.f(Tile(l_tile_query, tiles=n_targets, axis=1, bottoms=[l_query]))
+        net.f(Eltwise(l_sum, "SUM", bottoms=[l_tile_query, l_cat]))
+        net.f(ReLU(l_relu, bottoms=[l_sum]))
+        net.f(InnerProduct(l_ip, 1, bottoms=[l_relu], axis=2, param_names=p_ip))
+        net.blobs[l_ip].reshape((batch_size, n_targets))
+        net.f(NumpyData(l_label, labels))
+        loss = net.f(SoftmaxWithLoss(l_loss, bottoms=[l_ip, l_label]))
+
+        denominators = logsumexp(net.blobs[l_ip].data, axis=1)
+        chosen_logprobs = net.blobs[l_ip].data[range(batch_size), labels.astype(int)]
+        chosen_logprobs -= denominators
+
+        predictions = np.argmax(net.blobs[l_ip].data, axis=1)
+        accs = predictions == labels
+
+        return chosen_logprobs, accs
 
 class LinearSceneEncoder(object):
     def __init__(self, name, apollo_net, config):
@@ -69,34 +113,33 @@ class LinearSceneEncoder(object):
     def forward(self, prefix, scenes, dropout):
         net = self.apollo_net
 
-        feature_data = np.zeros((len(scenes), N_PROP_TYPES * N_PROP_OBJECTS))
-        #feature_data = np.zeros((len(scenes), 1))
-        for i_scene, scene in enumerate(scenes):
-            for prop in scene.props:
-                #if (prop.type_index, prop.object_index) != (4, 0):
-                #    continue
-                feature_data[i_scene, prop.type_index * N_PROP_OBJECTS +
-                        prop.object_index] += 1
-                #feature_data[i_scene, 0] = 1
+        if isinstance(scenes[0], Scene):
+            feature_data = np.zeros((len(scenes), N_PROP_TYPES * N_PROP_OBJECTS))
+            for i_scene, scene in enumerate(scenes):
+                for prop in scene.props:
+                    feature_data[i_scene, prop.type_index * N_PROP_OBJECTS +
+                            prop.object_index] = 1
+        else:
+            assert isinstance(scenes[0], Bird)
+            feature_data = np.zeros((len(scenes), len(scenes[0].features)))
+            for i_scene, scene in enumerate(scenes):
+                feature_data[i_scene, :] = scenes[i_scene].features
 
-        l_data = "LinearSceneEncoder_%s_%s_data" % (self.name, prefix)
-        l_ip1 = "LinearSceneEncoder_%s_%s_ip1" % (self.name, prefix)
-        l_relu1 = "LinearSceneEncoder_%s_%s_relu1" % (self.name, prefix)
-        l_ip2 = "LinearSceneEncoder_%s_%s_ip2" % (self.name, prefix)
+        l_data = "LinearSceneEncoder%s_%s_data" % (self.name, prefix)
+        l_drop = "LinearSceneEncoder%s_%s_drop" % (self.name, prefix)
+        l_ip1 = "LinearSceneEncoder%s_%s_ip1" % (self.name, prefix)
+        l_relu1 = "LinearSceneEncoder%s_%s_relu1" % (self.name, prefix)
+        l_ip2 = "LinearSceneEncoder%s_%s_ip2" % (self.name, prefix)
 
-        p_ip1 = ["LinearSceneEncoder_%s_ip1_weight" % self.name,
-                 "LinearSceneEncoder_%s_ip1_bias" % self.name]
-        p_ip2 = ["LinearSceneEncoder_%s_ip2_weight" % self.name,
-                 "LinearSceneEncoder_%s_ip2_bias" % self.name]
+        p_ip1 = ["LinearSceneEncoder%s_ip1_weight" % self.name,
+                 "LinearSceneEncoder%s_ip1_bias" % self.name]
+        p_ip2 = ["LinearSceneEncoder%s_ip2_weight" % self.name,
+                 "LinearSceneEncoder%s_ip2_bias" % self.name]
 
         net.f(NumpyData(l_data, feature_data))
         net.f(InnerProduct(
                 l_ip1, self.config.hidden_size, bottoms=[l_data],
                 param_names=p_ip1))
-        #net.f(ReLU(l_relu1, bottoms=[l_ip1]))
-        #net.f(InnerProduct(
-        #        l_ip2, self.config.hidden_size, bottoms=[l_relu1],
-        #        param_names=p_ip2))
 
         return l_ip1
 
@@ -110,17 +153,9 @@ class LinearStringEncoder(object):
         net = self.apollo_net
 
         feature_data = np.zeros((len(scenes), len(WORD_INDEX)))
-        #feature_data = np.zeros((len(scenes), 1))
         for i_scene, scene in enumerate(scenes):
-            #print " ".join([WORD_INDEX.get(w) for w in scene.description])
             for word in scene.description:
-                #if WORD_INDEX.get(word) != "bear":
-                #    continue
                 feature_data[i_scene, word] += 1
-                #feature_data[i_scene, 0] = 1
-                #print " ".join([WORD_INDEX.get(w) for w in scene.description])
-
-        #print feature_data.sum()
 
         l_data = "LinearStringEncoder_%s_%s_data" % (self.name, prefix)
         l_ip = "LinearStringEncoder_%s_%s_ip" % (self.name, prefix)
@@ -185,7 +220,7 @@ class BowSceneEncoder(object):
 
             net.f(NumpyData(l_type_i, type_data[:, i_step]))
             net.f(NumpyData(l_object_i, object_data[:, i_step]))
-            #net.f(NumpyData(l_feature_i, feature_data[:, i_step]))
+            net.f(NumpyData(l_feature_i, feature_data[:, i_step]))
             net.f(Wordvec(
                     l_type_vec_i, self.config.prop_embedding_size, N_PROP_TYPES,
                     bottoms=[l_type_i], param_names=p_type_vec))
@@ -194,11 +229,10 @@ class BowSceneEncoder(object):
                     bottoms=[l_object_i], param_names=p_object_vec))
             net.f(Concat(
                     l_prop_i, 
-                    #bottoms=[l_type_vec_i, l_object_vec_i, l_feature_i]))
-                    bottoms=[l_type_vec_i, l_object_vec_i]))
+                    bottoms=[l_type_vec_i, l_object_vec_i, l_feature_i]))
 
         net.f(Eltwise(
-                l_all_props, "MAX", 
+                l_all_props, "SUM", 
                 bottoms=[l_prop % (self.name, prefix, i_step)
                          for i_step in range(max_props)]))
         if dropout:
@@ -210,10 +244,6 @@ class BowSceneEncoder(object):
         net.f(InnerProduct(
                 l_ip1, self.config.hidden_size, bottoms=[l_p], 
                 param_names=p_ip1))
-        #net.f(ReLU(l_relu1, bottoms=[l_ip1]))
-        #net.f(InnerProduct(
-        #        l_ip2, self.config.hidden_size, bottoms=[l_relu1], 
-        #        param_names=p_ip2))
 
         return l_ip1
 
@@ -293,8 +323,9 @@ class MlpStringDecoder(object):
         last_features = np.zeros((len(scenes), max_words, len(WORD_INDEX)))
         targets = np.zeros((len(scenes), max_words))
         for i_scene, scene in enumerate(scenes):
-            offset = max_words - len(scene.description)
             for i_word, word in enumerate(scene.description):
+                if word == 0:
+                    continue
                 for ii_word in range(i_word + 1, len(scene.description)):
                     history_features[i_scene, ii_word, word] += 1
                 last_features[i_scene, i_word, word] += 1
@@ -339,16 +370,20 @@ class MlpStringDecoder(object):
                 l_ip2_i, len(WORD_INDEX), bottoms=[l_relu1_i],
                 param_names=p_ip2))
             net.f(NumpyData(l_target_i, targets[:,i_step]))
-            loss += net.f(SoftmaxWithLoss(l_loss_i, bottoms=[l_ip2_i, l_target_i]))
+            loss += net.f(SoftmaxWithLoss(
+                l_loss_i, bottoms=[l_ip2_i, l_target_i], 
+                ignore_label=0, normalize=False))
 
-        return loss
+        return -np.asarray(loss)
 
-    def sample(self, prefix, encoding):
+    #@profile
+    def sample(self, prefix, encoding, viterbi):
         net = self.apollo_net
 
         max_words = 20
         batch_size = net.blobs[encoding].shape[0]
 
+        out_logprobs = np.zeros((batch_size,))
         samples = np.zeros((batch_size, max_words))
         history_features = np.zeros((batch_size, len(WORD_INDEX)))
         last_features = np.zeros((batch_size, len(WORD_INDEX)))
@@ -379,8 +414,12 @@ class MlpStringDecoder(object):
             l_ip2_i = l_ip2 % (self.name, prefix, i_step)
             l_softmax_i = l_softmax % (self.name, prefix, i_step)
 
-            net.f(NumpyData(l_history_data_i, history_features))
-            net.f(NumpyData(l_last_data_i, last_features))
+            net.f(DummyData(l_history_data_i, (1,1,1,1)))
+            net.blobs[l_history_data_i].reshape(history_features.shape)
+            net.f(DummyData(l_last_data_i, (1,1,1,1)))
+            net.blobs[l_last_data_i].reshape(last_features.shape)
+            net.blobs[l_history_data_i].data[...] = history_features
+            net.blobs[l_last_data_i].data[...] = last_features
             net.f(Concat(l_cat_features_i, bottoms=[l_history_data_i, l_last_data_i]))
             net.f(InnerProduct(
                 l_ip1_i, self.config.hidden_size, bottoms=[l_cat_features_i],
@@ -392,15 +431,19 @@ class MlpStringDecoder(object):
                 param_names=p_ip2))
             net.f(Softmax(l_softmax_i, bottoms=[l_ip2_i]))
 
-            probs = net.blobs[l_softmax_i].data.astype(np.float64)
+            probs = net.blobs[l_softmax_i].data
             history_features += last_features
             last_features[...] = 0
             for i_datum in range(batch_size):
-                d_probs = probs[i_datum,:]
+                d_probs = probs[i_datum,:].astype(float)
                 d_probs /= d_probs.sum()
-                choice = np.random.choice(len(WORD_INDEX), p=d_probs)
+                if viterbi:
+                    choice = d_probs.argmax()
+                else:
+                    choice = np.random.multinomial(1, d_probs).argmax()
                 samples[i_datum, i_step] = choice
                 last_features[i_datum, choice] += 1
+                out_logprobs[i_datum] += np.log(d_probs[choice])
 
         out_samples = []
         for i in range(samples.shape[0]):
@@ -411,8 +454,10 @@ class MlpStringDecoder(object):
                 this_sample.append(samples[i,j])
                 if word == "</s>":
                     break
+            if this_sample[-1] != WORD_INDEX["</s>"]:
+                this_sample.append(WORD_INDEX["</s>"])
             out_samples.append(this_sample)
-        return out_samples
+        return out_logprobs, out_samples
 
 class LstmStringDecoder(object):
     def __init__(self, name, apollo_net, config):
@@ -503,10 +548,10 @@ class LstmStringDecoder(object):
                     #l_loss_i, bottoms=[l_output_i, l_target_i]))
                     l_loss_i, ignore_label=0, bottoms=[l_output_i, l_target_i]))
 
-        return loss
+        return np.asarray(loss)
 
     # TODO consolidate
-    def sample(self, prefix, encoding):
+    def sample(self, prefix, encoding, viterbi):
         net = self.apollo_net
 
         batch_size = net.blobs[encoding].shape[0]
@@ -572,8 +617,10 @@ class LstmStringDecoder(object):
             for i in range(batch_size):
                 probs = net.blobs[l_softmax_i].data[i,:].astype(np.float64)
                 probs /= probs.sum()
-                choices.append(np.random.choice(len(WORD_INDEX), p=probs))
-                #choices.append(np.argmax(probs))
+                if viterbi:
+                    choices.append(np.argmax(probs))
+                else:
+                    choices.append(np.random.choice(len(WORD_INDEX), p=probs))
             samples[:, i_step] = choices
 
         out_samples = []
@@ -581,7 +628,6 @@ class LstmStringDecoder(object):
             this_sample = []
             for j in range(samples.shape[1]):
                 word = WORD_INDEX.get(samples[i,j])
-                #this_sample.append(word)
                 this_sample.append(samples[i,j])
                 if word == "</s>":
                     break

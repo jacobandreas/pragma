@@ -1,0 +1,51 @@
+target,distractor,similarity,model_name,speaker_score,listener_score,description
+814_9,814_6,0,sampling_speaker1,-12.0754188339,-0.329793930054,jenny kicked the pizza
+814_9,814_6,0,sampling_speaker1,-7.6545876432,-0.716388940811,jenny is catching the soccer ball
+814_9,814_6,0,sampling_speaker1,-16.6299628155,-0.617628335953,mike hit the soccer ball
+814_9,814_6,0,sampling_speaker1,-4.28681453138,-1.02518177032,there is a pizza on the table
+814_9,814_6,0,sampling_speaker1,-13.4366698835,-0.494345188141,jenny is ready to the pizza
+814_9,814_6,0,sampling_speaker1,-8.80170702195,-0.354798793793,jenny is holding a pizza
+814_9,814_6,0,sampling_speaker1,-6.22297323607,-0.292856216431,mike kicked the soccer ball
+814_9,814_6,0,sampling_speaker1,-6.76077697491,-0.776737689972,jenny is standing by the picnic table
+814_9,814_6,0,sampling_speaker1,-16.3365419001,-0.292856216431,mike kicked the soccer ball
+814_9,814_6,0,sampling_speaker1,-13.916810037,-0.42963552475,mike has kicked a soccer ball
+830_3,830_6,0,sampling_speaker1,-4.04759594433,-0.612158238888,the pie is on the table
+830_3,830_6,0,sampling_speaker1,-7.99465805244,-1.41044092178,it is raining on the pie and pie
+830_3,830_6,0,sampling_speaker1,-13.6295796349,-0.261640310287,it is raining on mike
+830_3,830_6,0,sampling_speaker1,-8.765449474,-0.612158238888,the pie is on the table
+830_3,830_6,0,sampling_speaker1,-17.570661775,-0.330328941345,it is a crown on jennys head
+830_3,830_6,0,sampling_speaker1,-39.4568597981,-0.319480657578,the kids else hats raises a pie
+830_3,830_6,0,sampling_speaker1,-5.76256627998,-0.655898332596,mike is wearing the crown
+830_3,830_6,0,sampling_speaker1,-10.2088519828,-0.513864517212,mike is wearing a crown
+830_3,830_6,0,sampling_speaker1,-15.7122264156,-0.395397663116,a pie and burned are on the table
+830_3,830_6,0,sampling_speaker1,-39.9755919095,-0.434710264206,the bouncing slice but jenny is very pitch
+861_0,861_1,0,sampling_speaker1,-15.1052216342,-0.528174877167,jenny and mike are their picnic in the park
+861_0,861_1,0,sampling_speaker1,-8.54782163149,-1.42931938171,theres a bear between mike and jenny
+861_0,861_1,0,sampling_speaker1,-10.7222507381,-1.4609849453,jenny is surprised at the bear
+861_0,861_1,0,sampling_speaker1,-13.3721908762,-1.39240860939,a bear is standing near mike
+861_0,861_1,0,sampling_speaker1,-9.17733306852,-1.03580212593,jenny is jumping up and down
+861_0,861_1,0,sampling_speaker1,-5.38335471875,-1.70108747482,the bear is holding a pizza
+861_0,861_1,0,sampling_speaker1,-18.1934863995,-1.15796041489,the bear likes their pizza on it
+861_0,861_1,0,sampling_speaker1,-7.13244032516,-1.07008361816,a bear is wearing a chef hat
+861_0,861_1,0,sampling_speaker1,-16.6307816484,-0.305960655212,mike and jenny are happy
+861_0,861_1,0,sampling_speaker1,-6.19522376763,-0.86092710495,a bear is standing on the picnic table
+807_2,807_5,0,sampling_speaker1,-15.6567241026,-0.693146705627,a bear has a hamburger
+807_2,807_5,0,sampling_speaker1,-9.28157175509,-0.693146705627,a bear is holding a hamburger
+807_2,807_5,0,sampling_speaker1,-20.4549307892,-0.693147182465,there is a pie near the cat
+807_2,807_5,0,sampling_speaker1,-13.7992180067,-0.693147182465,the bear is near a cat
+807_2,807_5,0,sampling_speaker1,-26.802963334,-0.693147182465,side cries is flying in the kite
+807_2,807_5,0,sampling_speaker1,-22.7067944359,-0.693147182465,jenny does not want to eat piece the cat
+807_2,807_5,0,sampling_speaker1,-10.8659234855,-0.693147182465,a bear scares jenny
+807_2,807_5,0,sampling_speaker1,-17.0231898249,-0.693147182465,jenny has a kite in the right tail
+807_2,807_5,0,sampling_speaker1,-15.615058259,-0.693147182465,jenny is riding a kite
+807_2,807_5,0,sampling_speaker1,-6.18007891721,-0.693146705627,the bear wants to eat jennys hamburger
+806_3,806_7,0,sampling_speaker1,-16.2029218119,-0.550526380539,the duck is in the dog
+806_3,806_7,0,sampling_speaker1,-5.89526292506,-0.808904051781,jenny is kicking the soccer ball to mike
+806_3,806_7,0,sampling_speaker1,-12.4458295556,-0.814574956894,jenny is standing in front of the pit
+806_3,806_7,0,sampling_speaker1,-9.65683046559,-0.577666640282,the dog is on the helicopter
+806_3,806_7,0,sampling_speaker1,-7.19680849864,-0.706229448318,the duck is standing under the tree
+806_3,806_7,0,sampling_speaker1,-10.4417174613,-0.755872249603,mike is kicking the ball to the duck
+806_3,806_7,0,sampling_speaker1,-12.3130617024,-0.679392576218,jenny throws the ball to the dog
+806_3,806_7,0,sampling_speaker1,-7.66772241946,-0.702266216278,the dog is watching mike and jenny play
+806_3,806_7,0,sampling_speaker1,-12.9751917549,-0.355371594429,jenny is very smiling
+806_3,806_7,0,sampling_speaker1,-10.1954532846,-0.449992656708,the helicopter is by the helicopter

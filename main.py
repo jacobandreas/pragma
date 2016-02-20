@@ -8,16 +8,20 @@ import util
 
 import apollocaffe
 from apollocaffe import ApolloNet
+from apollocaffe.layers import Concat
+from collections import defaultdict
+import itertools
 import logging
 import numpy as np
 import shutil
+import sys
 import yaml
 
 CONFIG = """
 opt:
-    epochs: 20
+    epochs: 10
     batch_size: 100
-    alternatives: 9
+    alternatives: 1
 
     rho: 0.95
     eps: 0.000001
@@ -30,17 +34,20 @@ model:
     hidden_size: 100
 """
 
+N_TEST_IMAGES = 100
+N_TEST = N_TEST_IMAGES * 10
+
+N_EXPERIMENT_PAIRS = 100
 
 class Listener0Model(object):
     def __init__(self, apollo_net, config):
-        #self.string_encoder = LinearStringEncoder("Listener0", apollo_net, config)
-        #self.scene_encoder = BowSceneEncoder("Listener0", apollo_net, config)
-
         self.scene_encoder = LinearSceneEncoder("Listener0", apollo_net, config)
         self.string_encoder = LinearStringEncoder("Listener0", apollo_net, config)
-        self.scorer = EuclideanScorer("Listener0", apollo_net, config)
+        self.scorer = MlpScorer("Listener0", apollo_net, config)
+        self.apollo_net = apollo_net
 
     def forward(self, data, alt_data, dropout):
+        self.apollo_net.clear_forward()
         l_true_scene_enc = self.scene_encoder.forward("true", data, dropout)
         ll_alt_scene_enc = \
                 [self.scene_encoder.forward("alt%d" % i, alt, dropout)
@@ -49,35 +56,68 @@ class Listener0Model(object):
 
         ll_scenes = [l_true_scene_enc] + ll_alt_scene_enc
         labels = np.zeros((len(data),))
-        losses, accs = self.scorer.forward("", l_string_enc, ll_scenes, labels)
+        logprobs, accs = self.scorer.forward("", l_string_enc, ll_scenes, labels)
 
-        return losses, accs
+        return logprobs, accs
 
 class Speaker0Model(object):
     def __init__(self, apollo_net, config):
         self.scene_encoder = LinearSceneEncoder("Speaker0", apollo_net, config)
         self.string_decoder = MlpStringDecoder("Speaker0", apollo_net, config)
-        #self.scene_encoder = BowSceneEncoder("Speaker0", apollo_net, config)
-        #self.string_decoder = LstmStringDecoder("Speaker0", apollo_net, config)
 
         self.apollo_net = apollo_net
 
     def forward(self, data, alt_data, dropout):
+        self.apollo_net.clear_forward()
         l_scene_enc = self.scene_encoder.forward("", data, dropout)
-        loss = self.string_decoder.forward("", l_scene_enc, data, dropout)
+        losses = self.string_decoder.forward("", l_scene_enc, data, dropout)
 
-        return loss, 0
+        return losses, np.asarray(0)
 
-    def sample(self, data, alt_data, dropout):
+    def sample(self, data, alt_data, dropout, viterbi, quantile=None):
+        self.apollo_net.clear_forward()
         l_scene_enc = self.scene_encoder.forward("", data, dropout)
-        #print self.apollo_net.blobs[l_scene_enc].data
-        sample = self.string_decoder.sample("", l_scene_enc)
-        return sample
-        #return self.string_decoder.sample("", l_scene_enc)
+        probs, sample = self.string_decoder.sample("", l_scene_enc, viterbi)
+        return probs, np.zeros(probs.shape), sample
 
 class CompiledSpeaker1Model(object):
     def __init__(self, apollo_net, config):
-        self.speaker1 = SamplingSpeaker1Model(apollo_net, config)
+        self.sampler = SamplingSpeaker1Model(apollo_net, config)
+        self.scene_encoder = LinearSceneEncoder("CompSpeaker1Model", apollo_net, config)
+        self.string_decoder = MlpStringDecoder("CompSpeaker1Model", apollo_net, config)
+
+        self.apollo_net = apollo_net
+
+    def forward(self, data, alt_data, dropout):
+        self.apollo_net.clear_forward()
+        _, _, samples = self.sampler.sample(data, alt_data, dropout, True)
+
+        l_true_scene_enc = self.scene_encoder.forward("true", data, dropout)
+        ll_alt_scene_enc = \
+                [self.scene_encoder.forward("alt%d" % i, alt, dropout)
+                 for i, alt in enumerate(alt_data)]
+        l_cat = "CompSpeaker1Model_concat"
+        self.apollo_net.f(Concat(
+            l_cat, bottoms=[l_true_scene_enc] + ll_alt_scene_enc))
+
+        fake_data = [d._replace(description=s) for d, s in zip(data, samples)]
+
+        losses = self.string_decoder.forward("", l_cat, fake_data, dropout)
+        return losses, np.asarray(0)
+
+    def sample(self, data, alt_data, dropout, viterbi, quantile=None):
+        self.apollo_net.clear_forward()
+        l_true_scene_enc = self.scene_encoder.forward("true", data, dropout)
+        ll_alt_scene_enc = \
+                [self.scene_encoder.forward("alt%d" % i, alt, dropout)
+                        for i, alt in enumerate(alt_data)]
+        l_cat = "CompSpeakerModel1_concat"
+        self.apollo_net.f(Concat(
+            l_cat, bottoms=[l_true_scene_enc] + ll_alt_scene_enc))
+
+        probs, sample = self.string_decoder.sample("", l_cat, viterbi)
+        return probs, np.zeros(probs.shape), sample
+
 
 class SamplingSpeaker1Model(object):
     def __init__(self, apollo_net, config):
@@ -86,33 +126,50 @@ class SamplingSpeaker1Model(object):
 
         self.apollo_net = apollo_net
 
-    def sample(self, data, alt_data, dropout):
-        N_SAMPLES = 50
+    def sample(self, data, alt_data, dropout, viterbi, quantile=None):
+        self.apollo_net.clear_forward()
+        if viterbi or quantile is not None:
+            n_samples = 10
+        else:
+            n_samples = 1
 
-        scores = np.zeros((len(data), N_SAMPLES))
+        speaker_scores = np.zeros((len(data), n_samples))
+        listener_scores = np.zeros((len(data), n_samples))
 
         all_fake_scenes = []
-        for i_sample in range(N_SAMPLES):
-            self.apollo_net.clear_forward()
-            sample = self.speaker0.sample(data, alt_data, dropout)
+        for i_sample in range(n_samples):
+            speaker_logprobs, _, sample = self.speaker0.sample(data, alt_data, dropout, viterbi=False)
 
             fake_scenes = []
             for i in range(len(data)):
                 fake_scenes.append(data[i]._replace(description=sample[i]))
             all_fake_scenes.append(fake_scenes)
 
-            self.apollo_net.clear_forward()
-            probs, accs = self.listener0.forward(fake_scenes, alt_data, dropout)
-            scores[:,i_sample] = probs
+            listener_logprobs, accs = self.listener0.forward(fake_scenes, alt_data, dropout)
+            speaker_scores[:,i_sample] = speaker_logprobs
+            listener_scores[:,i_sample] = listener_logprobs
 
+        scores = listener_scores
+
+        out_sentences = []
+        out_speaker_scores = np.zeros(len(data))
+        out_listener_scores = np.zeros(len(data))
         for i in range(len(data)):
-            q_order = np.argsort(scores[i,:])
-            print all_fake_scenes[0][i].image_id
-            for q in q_order[-10:]:
-                print "%0.3f" % scores[i, q], 
-                print " ".join([WORD_INDEX.get(w) for w in
-                    all_fake_scenes[q][i].description])
-            print
+            if viterbi:
+                q = scores[i,:].argmax()
+            elif quantile is not None:
+                idx = int(n_samples * quantile)
+                if idx == n_samples:
+                    q = scores.argmax()
+                else:
+                    q = scores[i,:].argsort()[idx]
+            else:
+                q = 0
+            out_sentences.append(all_fake_scenes[q][i].description)
+            out_speaker_scores[i] = speaker_scores[i][q]
+            out_listener_scores[i] = listener_scores[i][q]
+
+        return out_speaker_scores, out_listener_scores, out_sentences
 
 def train(train_scenes, test_scenes, model, apollo_net, config):
     n_train = len(train_scenes)
@@ -140,38 +197,13 @@ def train(train_scenes, test_scenes, model, apollo_net, config):
                      for i_alt in range(config.alternatives)]
             alt_data = [[train_scenes[i] for i in alt] for alt in alt_indices]
             
-            apollo_net.clear_forward()
-            loss, acc = model.forward(batch_data, alt_data, dropout=True)
+            #apollo_net.clear_forward()
+            lls, accs = model.forward(batch_data, alt_data, dropout=True)
             apollo_net.backward()
             adadelta.update(apollo_net, opt_state, config)
-            #apollo_net.update(lr=0.01, clip_gradients=10, momentum=0.9)
 
-            #if i_batch == 0:
-            #    print apollo_net.blobs["EuclideanScorer_Listener0__reduce"].data
-
-            e_train_loss += loss
-            e_train_acc += acc
-
-        ##with open("vis.html", "a") as vis_f:
-        ##    samples = []
-        ##    for i in range(5):
-        ##        apollo_net.clear_forward()
-        ##        sample = model.sample(batch_data, alt_data, dropout=False)
-        ##        samples.append(sample)
-        ##    #for sample in samples[:10]:
-        ##    #    print sample
-        ##    for i in range(10):
-        ##        print >>vis_f, "<tr>"
-        ##        print >>vis_f, "<td><img src='data/abstract/RenderedScenes/Scene%s.png'></td>" % batch_data[i].image_id
-        ##        print >>vis_f, "<td>"
-        ##        for j in range(5):
-        ##            print >>vis_f, "%s<br/>" % " ".join(samples[j][i][1:-1])
-        ##        print >>vis_f, "</td>"
-        ##        print >>vis_f, "</tr>"
-        ##        #print [WORD_INDEX.get(w) for w in batch_data[i].description]
-        ##        #print batch_data[i].image_id
-        ##        #print
-        ##    print >>vis_f, "<tr style='border-bottom: 3px solid #000'><td colspan='3'></td></tr>"
+            e_train_loss -= lls.sum()
+            e_train_acc += accs.sum()
 
         n_test_batches = n_test / config.batch_size
         for i_batch in range(n_test_batches):
@@ -182,14 +214,10 @@ def train(train_scenes, test_scenes, model, apollo_net, config):
                      for i_alt in range(config.alternatives)]
             alt_data = [[test_scenes[i] for i in alt] for alt in alt_indices]
             
-            apollo_net.clear_forward()
-            loss, acc = model.forward(batch_data, alt_data, dropout=False)
+            lls, accs = model.forward(batch_data, alt_data, dropout=False)
 
-            #if i_batch == 0:
-            #    print apollo_net.blobs["LinearStringEncoder_Listener0__data"].data
-
-            e_test_loss += loss
-            e_test_acc += acc
+            e_test_loss -= lls.sum()
+            e_test_acc += accs.sum()
 
         with open("vis.html", "a") as vis_f:
             print >>vis_f, "</table></body></html>"
@@ -212,38 +240,102 @@ def demo(scenes, model, apollo_net, config):
              for i_alt in range(config.alternatives)]
     alt_data = [[scenes[i] for i in alt] for alt in alt_indices]
 
-    model.forward(data, alt_data, dropout=False)
+    _, samples = model.sample(data, alt_data, dropout=False)
+    for i in range(10):
+        sample = samples[i]
+        print data[i].image_id
+        print " ".join([WORD_INDEX.get(i) for i in sample])
+        print
 
+def run_experiment(name, cname, rname, models, data):
+    data_by_image = defaultdict(list)
+    for datum in data:
+        data_by_image[datum.image_id].append(datum)
+
+    with open("experiments/%s/%s.ids.txt" % (name, cname)) as id_f, \
+         open("experiments/%s/%s.results.%s.txt" % (name, cname, rname), "w") as results_f:
+        print >>results_f, "id,target,distractor,similarity,model_name,speaker_score,listener_score,description"
+        counter = 0
+        for line in id_f:
+            img1, img2, similarity = line.strip().split(",")
+            assert img1 in data_by_image and img2 in data_by_image
+            d1 = data_by_image[img1][0]
+            d2 = data_by_image[img2][0]
+            for model_name, model in models.items():
+                for i_sample in range(10):
+                    speaker_scores, listener_scores, samples = \
+                            model.sample([d1], [[d2]], dropout=False, viterbi=False)
+                    parts = [
+                        counter,
+                        img1,
+                        img2,
+                        similarity,
+                        model_name,
+                        speaker_scores[0],
+                        listener_scores[0],
+                        " ".join([WORD_INDEX.get(i) for i in samples[0][1:-1]])
+                    ]
+                    print >>results_f, ",".join([str(s) for s in parts])
+                    counter += 1
 
 def main():
     apollocaffe.set_device(0)
+    #apollocaffe.set_cpp_loglevel(0)
+    apollocaffe.set_random_seed(0)
     np.random.seed(0)
 
+    job = sys.argv[1]
+    corpus_name = sys.argv[2]
+
     config = util.Struct(**yaml.load(CONFIG))
-    scenes = corpus.load()
-    np.random.shuffle(scenes)
-    train_scenes = scenes[:-1000]
-    test_scenes = scenes[-1000:]
-    #train_scenes = scenes[:100]
-    #test_scenes = scenes[-100:]
-    #train_scenes = scenes[:10]
-    #test_scenes = scenes[-10:]
+    if corpus_name == "abstract":
+        train_scenes, dev_scenes, test_scenes = corpus.load_abstract()
+    else:
+        assert corpus_name == "birds"
+        train_scenes, dev_scenes, test_scenes = corpus.load_birds()
     apollo_net = ApolloNet()
+    print "loaded data"
+    print "%d training examples" % len(train_scenes)
 
     listener0_model = Listener0Model(apollo_net, config.model)
     speaker0_model = Speaker0Model(apollo_net, config.model)
-
-    #train(train_scenes, test_scenes, listener0_model, apollo_net, config.opt)
-    #apollo_net.save("listener0_model.caffemodel")
-
-    #train(train_scenes, test_scenes, speaker0_model, apollo_net, config.opt)
-    #apollo_net.save("speaker0_model.caffemodel")
-
-    apollo_net.load("listener0_model.caffemodel")
-    apollo_net.load("speaker0_model.caffemodel")
-
     sampling_speaker1_model = SamplingSpeaker1Model(apollo_net, config.model)
-    demo(test_scenes, sampling_speaker1_model, apollo_net, config.opt)
+    compiled_speaker1_model = CompiledSpeaker1Model(apollo_net, config.model)
+
+    if job == "train.base":
+        train(train_scenes, dev_scenes, listener0_model, apollo_net, config.opt)
+        train(train_scenes, dev_scenes, speaker0_model, apollo_net, config.opt)
+        apollo_net.save("models/%s.base.caffemodel" % corpus_name)
+        exit()
+
+    if job == "train.compiled":
+        apollo_net.load("models/%s.base.caffemodel" % corpus_name)
+        print "loaded model"
+        train(train_scenes, dev_scenes, compiled_speaker1_model, apollo_net,
+                config.opt)
+        apollo_net.save("models/%s.compiled.caffemodel" % corpus_name)
+        exit()
+
+    if job in ("sample.base", "sample.compiled"):
+        if job == "sample.base":
+            apollo_net.load("models/%s.base.caffemodel" % corpus_name)
+        else:
+            apollo_net.load("models/%s.compiled.caffemodel" % corpus_name)
+        print "loaded model"
+        if job == "sample.base":
+            models = {
+                "sampling_speaker1": sampling_speaker1_model,
+            }
+        elif job == "sample.compiled":
+            models = {
+                "compiled_speaker1": compiled_speaker1_model,
+            }
+
+        name = job.split(".")[1]
+
+        run_experiment("one_different", corpus_name, name, models, dev_scenes)
+        run_experiment("by_similarity", corpus_name, name, models, dev_scenes)
+        run_experiment("all_same", corpus_name, name, models, dev_scenes)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,50 @@
+0 objects in common
+1 objects in common
+< k objects in common
+
+  DEV
+  draw samples
+  test various weightings
+  human acc judgments ("left", "right", "neither", "both")
+  human quality judgments
+
+build fixed sampler w best weighing
+train compiled model
+train opt model?
+
+  TEST
+  get mode
+  human acc judgments
+  human quality judgments
+  
+
+#no objects in common
+#  speaker weight vs listener acc
+#  speaker weight vs human acc
+#  listener acc vs human acc
+#  human quality
+#
+#one object in common
+#  speaker weight vs listener acc
+#  speaker weight vs human acc
+#  listener acc vs human acc
+#  human quality
+#
+#by similarity
+#  similarity vs listener acc
+#  similarity vs human acc
+#  listener acc vs human acc
+#  human quality
+#
+#birds
+#  speaker weight vs listener acc
+#  speaker weight vs human acc
+#  human quality
+#
+#
+#model name
+#speaker acc
+#listener acc
+#target id
+#distractor id
+#sentence

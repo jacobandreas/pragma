@@ -1,0 +1,1001 @@
+target,distractor,similarity,model_name,speaker_score,listener_score,description
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-66.0163499324,-0.954473257065,a black bird with a pointed beak coverlets crown is solid grey give throat and pointy small feet
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-44.8152545818,-1.15512573719,small round , small bird along with black beak and eye rings when compared to its body
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-52.9141047799,-0.817247331142,a thin bird with a flat beak and black crown compared to large downward body
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-35.9921665257,-0.706987679005,this bird has a light gray belly with black wings and a small hooked black bill
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-63.8214314745,-0.961466431618,a solid light black bird with hints of thick purple although its small straight gray beak
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-21.9313066262,-0.840063333511,this smaller bird is completely black and has a short beak
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-52.2145210213,-0.937609910965,a small bird with a medium sized bill , and black feet , but with orange-black a vent
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-49.4824325409,-0.689678072929,this bird's head is an entirely black bill is double and a curved
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-69.7136903606,-0.619308710098,beautiful dark black crow , light colored body , solid yellow black wings and has a light beak on
+Shiny_Cowbird_0056_24321.jpg,Pelagic_Cormorant_0002_23680.jpg,0,sampling_speaker1,-70.8936850156,-0.675835609436,the bird has a medium curved beak and black shoulders the top gray-black auburn at the crown the secondary
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-35.4848103905,-0.985650062561,the body of the bird is black with a black and the tail is white
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-42.4185874281,-1.52472400665,the body is a white and black all over the bird , the wings are among
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-31.6176976633,-1.48287200928,this is a large black bird with white beak
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-32.0554637406,-1.8165320158,this large black bird is all white bird with brown wings and has a red tarsus and feet
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-33.2602623752,-1.62622642517,white bird has brown body feathers , dark black and black beak
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-32.6148145812,-0.993872761726,this large all black bird , has a short bill , and a white wing , , a black
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-39.5354667367,-1.79499840736,a black and white bird with large curved and small hooked bill
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-36.9816739185,-1.42046308517,the bird has a large pointed beak , a black and orange beak is feet
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-46.6117442212,-1.5304890871,this bird is all white except for the black , and curved wing
+Pigeon_Guillemot_0041_39807.jpg,American_Three_Toed_Woodpecker_0023_179909.jpg,0,sampling_speaker1,-37.7678035453,-2.11256885529,this hummingbird has a long , red bill , this bird is small , and a white and a
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-10.7873964276,-0.574606835842,this bird has a speckled belly and breast with a short pointy bill
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-36.6365941348,-0.0350551605225,this bird is yellow with brown and has a very short pointy running beak
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-33.6755265825,-0.0290999412537,this little bird has a brown crown and a yellow breast
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-35.5369767755,-1.05891871452,this is a black and light brown bird with brown stripes on its wings
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-32.9635744997,-0.0133147239685,bird has brown body feathers , yellow feathers , and brown beak , thin legs , with yellow beak
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-34.7685480588,-0.0394794940948,bird with yellow throat , breast , belly , brown cheek patches and brown , and bill
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-44.0551974751,-0.0420413017273,a small bird with brown crown and a small poitned yellow eyebrow , with greenish brown and white wingbars
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-33.265240927,-1.1703299284,a bird with a brown crown , and a white belly
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-43.541732789,-1.95838856697,a bird with a yellowish white breast and grey body
+Cape_May_Warbler_0088_163149.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-26.2294951142,-0.125870466232,this bird is yellow in color , with a yellow crown and black eye rings
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-29.405544297,-0.0572292804718,the bird has a yellow breast and a small bill , a black and belly
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-29.8977006627,-0.0857534408569,this bird is a black , with a white wing and a small yellow beak
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-42.6165442897,-0.695545434952,a bird with a black crown , colorful beak and throat , abdomen and back , and striped with
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-43.9479130831,-0.626289367676,a very colorful bird with black back and tail , it's wings with a black body , and wings
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-38.0354301003,-0.185675263405,a brown bird with yellow belly and black wingbars and white coverts and secondaries
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-23.6338522813,-0.0924689769745,this bird has a short black bill , and a white and a yellow wing
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-41.5843908778,-0.0953438282013,a black and white body bird with yellow nape , blue crown , and white wingbars , and black
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-44.1681300248,-0.0346019268036,a small , and bird that is yellow with a mostly black wings and a black crown
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-24.6316744908,-0.158054113388,this bird is black and yellow with a long pointy beak
+Evening_Grosbeak_0078_38051.jpg,Eared_Grebe_0045_34212.jpg,0,sampling_speaker1,-34.1722719348,-0.810510218143,a small bird with small pointed bill and is black wings
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-58.0649378578,-0.0473564267159,bird , red and random coverts , with black wing bars , tail , and head
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-60.3786197087,-0.111992865801,small puffy and orange bird with dark black and a deep red plume wing feathers , along it's body
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-33.8526171986,-0.0371047668159,this is a red bird with a black pointy black beak
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-45.1778018565,-0.29087126255,this bird is yellowish with a distinctive red head , a small black , a small pointed beak
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-34.1229974259,-0.0779896155,red bird with black cheek patches , white breast and throat
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-28.1078421106,-0.142065286636,this is a white bird with black wings and a small pointed black beak
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-33.0269066484,-0.131285458803,a very small colorful bird with a red head and black beak and a scarlet wings
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-37.0086978719,-0.0301032848656,bird with red body feathers all over the exception of black cheek patches , and a black rump and
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-65.2085150414,-0.052672881633,medium sized all black and vibrant bird with red beak , ruby towards
+Vermilion_Flycatcher_0020_42498.jpg,Vesper_Sparrow_0079_125579.jpg,0,sampling_speaker1,-51.0435142002,-0.0509644001722,this bird has an orange neck and red primaries and secondary wings , an head
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-27.6614771481,-1.13689792156,the bird has a small beak that is slightly curved as well
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-32.811340935,-1.14081978798,a small bird that is cream colored brown and gray , with a short beak
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-28.6583041513,-0.143979310989,small brown and brown bird with tan tarsus and brown speckled primaries
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-39.5460904543,-1.95538723469,the body is white and brown and black speckled on the bill
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-16.5530500696,-0.516741991043,this is a brown and white bird in color with brown beak , and brown eye rings
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-51.0223148125,-1.02178895473,bird with brown speckles , brown beak and tan cheek patch throughout with a white throat and lighter breast
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-42.0308747421,-1.32089781761,small bird with black colored body and brown secondaries , white beak
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-19.3182685883,-1.14215826988,the bird has a small bill that is curved
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-27.1856393606,-0.908127605915,the bird is brown with grey wings and a brown tarsals and a short beak
+Lincoln_Sparrow_0088_117634.jpg,Louisiana_Waterthrush_0041_795279.jpg,0,sampling_speaker1,-28.3680836732,-1.38386058807,a small grey bird with brown markings and a white beak
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-49.0315449405,-0.708319067955,a multi colored bird with a yellowish beak and black secondaries
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-36.2346394625,-0.28991985321,this is a green and grey bird with a black cheek patch
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-38.9079882216,-0.105727910995,a small bird with a gray crown , and a yellow underside
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-40.4797317329,-0.348505437374,medium sized bird with yellow , and white markings around the eyes and a red head and a beak
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-37.8446201909,-1.42287862301,this bird has a beige head , a long bill , that is curved , and black , and
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-37.0100176822,-0.0398073196411,this small to be yellow bird with some brown and medium sized beak is small
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-28.0525959937,-0.184495329857,this is a small bird with a black belly , yellow breast and a white secondary and a pointy
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-39.108507759,-0.156561553478,a small bird with a small crown , a short beak , and a grey chest , brown tarsus
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-54.3216632206,-0.122236967087,a small bird with a white belly dramatic black breast with yellow eyebrows
+Yellow_Billed_Cuckoo_0045_26685.jpg,Glaucous_Winged_Gull_0061_44852.jpg,0,sampling_speaker1,-49.696296525,-0.106590270996,this bird has a very round bill its eyering for a yellow
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-30.4966034872,-0.312876224518,a bird with a black crown , a white belly , and a orange bill
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-49.4233575272,-0.502132296562,a bird with a short straight beak , a white and tan wing with orange stripe
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-32.622691089,-0.473872482777,this bird has a head , a small bill , white throat , grey and a white breast
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-47.6265270831,-0.55207669735,this bird has a very fluffy white breast , stubby head , and belly
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-29.0339829718,-0.513390183449,a grey and white bird with a white belly and grey feathers and a stubby orange beak
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-23.1792551594,-0.435262352228,a small bird with a white belly , and a white throat and black breast and orange beak
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-26.2369620606,-0.684269368649,a gray sparrow with orange throat and breast and belly
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-41.8052167307,-0.310804784298,this small bird has black cap , white wings , a white beak , the head , and is
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-40.5492593378,-1.42353510857,a small brown sparrow with orange throat and white crown , a small hooked bill
+Harris_Sparrow_0001_116398.jpg,Brewer_Sparrow_0071_107446.jpg,0,sampling_speaker1,-41.0745277707,-1.48395371437,a small bird with a silky colored nape and a white and brown crown
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-23.2039732737,-0.381339222193,this bird has a orange bill , a black head , and orange belly , a black breast and
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-42.3021900564,-0.343930244446,this bird has a small orange black black beak and orange flank with medium black primaries
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-43.0155011333,-0.707403719425,small bird with orange on tail , orange , black head and yellow beak
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-18.1756452941,-0.453081130981,this bird is black and yellow in color with a short orange beak , black eye rings
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-22.0767310088,-0.773426651955,the bird has a small crown and a round orange bill that is black
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-43.9244184111,-0.445390403271,small orange black bird with black beak , orange tarsus and feet
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-41.531018648,-0.710858106613,orange and black bird with orange bill , dark orange feet
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-30.001851449,-0.493098676205,bird has brown body feathers , orange breast feather , and small beak
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-29.0671377941,-0.548622965813,this is a bird with a orange belly and orange beak , black feet
+Eastern_Towhee_0002_22318.jpg,Red_Cockaded_Woodpecker_0004_182340.jpg,0,sampling_speaker1,-34.0399505907,-0.483782947063,the black small bird has orange eyes , orange wingbars , and a black beak
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-48.336745353,-0.680029630661,the beak is small very long tarsus is brown with grey and skinny medium brown
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-41.5679331013,-0.931484341621,small chubby bird with a small beak with brown body and tan stomach
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-40.5900734222,-1.4679377079,a small bird with grey wings and a very dark eyes
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-39.0640907508,-1.42582631111,bird has brown wings , gray breast feathers and crown and wingbars
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-38.5216396871,-1.56090712547,small bird with short black tarsus and short beak
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-57.1277755882,-0.845915436745,a large all sparrow with grey body , brown crown leading to back , brown tarsus and throat ,
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-37.4970750048,-1.4308962822,this large bird has a white belly and breast , and short beak with stripes
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-29.2500719723,-0.876013278961,a small bird with brown wings , cream colored breast and belly and a short dark grey bill
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-43.4765788432,-1.05026364326,this small bird has skinny tarsuses and brown crown , black and feet and a brown
+Vesper_Sparrow_0033_125568.jpg,Black_Throated_Sparrow_0015_107079.jpg,0,sampling_speaker1,-34.2297905849,-1.54499459267,the bird has a yellow body with short black eyes
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-35.2539956671,-1.87046766281,this is a very light gray bird that is black with a white on its head and white ,
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-22.474004529,-1.45950186253,this is a grey bird with black wings and a white throat
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-45.9629145486,-1.37047874928,this bird has a gray head , it's wings , with white wingbars , tail and belly is smaller
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-37.0652836555,-1.35442495346,the bird has black tail , white wings are black tarsus and feet and a black beak with gray
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-31.8243835523,-2.58438944817,this bird has a gray crown , a long rounded bill , and a white belly , the rest
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-45.4874188353,-1.25298142433,grey bird with small pointed bill , black and white belly with black mask and red cheek patch and
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-29.2605484341,-1.00988638401,this bird has a white belly with a small black bill and a black nape
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-47.9095147061,-2.13557195663,a small bird mostly grey forest a black bird with long pointed bill and white feathers
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-30.2636872355,-1.98350405693,a black and white bird with a white streak across its eye patch of the tip of the birds
+Loggerhead_Shrike_0086_105005.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-41.4038375527,-1.10912799835,this bird is white and white with a black primary and a small head and light silver wing feathers
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-45.6652894124,-0.086537361145,this bird has ornate , brown speckles , gray body with white wingbars and a short pointed beak
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-10.4231419376,-0.0909878015518,this bird is brown with white on its chest and has a very short beak
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-31.6339294252,-0.284724593163,the bird has a long pointed beak with a white belly and a striped breast
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-55.3460538045,-0.11755490303,a small bird with a brown chested speckled black wings
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-17.0653328067,-0.209070086479,this bird has a speckled belly and breast with a long pointy bill
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-19.5742524707,-0.0447750091553,a small sized bird that has multiple tones of yellow and brown and a curved bill
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-46.4105357194,-0.0232571363449,medium bird with lighter brown wings , a brown back and tail , and a grey breast
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-48.9261984881,-2.15699791908,an orange bird with a pointy black beak and black sharp very long and tail
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-41.3990628213,-0.25756329298,this bird is spotted with a small orange beak and large and a yellow on its body size
+Brown_Thrasher_0019_155216.jpg,Red_Faced_Cormorant_0026_796289.jpg,0,sampling_speaker1,-23.8533061138,-1.22736620903,this bird has a black breast and a long bill
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-44.5859810018,-1.8677200079,this bird is a black and who is a white eyering
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-44.7013220255,-0.583834767342,this bird is plump with a strong out , lighter brown belly and a black feet and pointed beak
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-36.7092232103,-0.687015175819,the bird has a black beak and a lighter brown breast
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-24.0607168218,-0.447426587343,bird has gray body feathers , brown breast feathers , and gray beak
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-47.5269893911,-0.144517540932,a small bird that is brown and black striped with thick claws and light brown beak
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-43.5932424708,-2.03544163704,this medium sized bird is a very dark grey with a large downward hooked bill
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-62.166397269,-1.49073040485,a small bird with a brownish bill , stark long point with white eyering of black eyes and olive
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-39.4764175345,-0.501737356186,a small smal bird with a black head , and a sharp bill and a brown chest , and
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-34.8128527155,-0.858452320099,this bird has a black body and a brown undertones and a hooked bill
+Chuck_Will_Widow_0008_796968.jpg,Mallard_0141_76977.jpg,0,sampling_speaker1,-35.4050523103,-0.157099723816,this bird is brown bird with grey wings and a pale brown at the end
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-51.9795635071,-0.142934560776,a light brown sparrow with a orange crown and gray eyebrow and its black streaked with brown wings
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-27.6286548658,-1.15784108639,this is a yellow bird with a white eyebrow and a black crown
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-58.1583930091,-0.099681019783,small yellow splotches over it's wings and orange beak and a brown wings
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-41.3199148787,-0.155144929886,the bird has brown beak and small feet and orange head
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-59.5060927465,-1.33593606949,this bird had the feathers and a multicolored body are gray and orange , brindle of an orange
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-49.9719955828,-1.0395655632,a grey bird with a grey and yellow in the wings and black tail
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-37.648324707,-0.15289247036,the bird has a brown body with red feather and tail and a short yellow beak
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-24.0906721477,-0.542152643204,this bird is brown , orange in color , and has a sharp beak with a black eye rings
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-35.5267447121,-0.214010834694,a mostly white bird that has tones of brown with a short pointed bill and one in the eyes
+Gray_Crowned_Rosy_Finch_0038_797309.jpg,Pigeon_Guillemot_0038_40035.jpg,0,sampling_speaker1,-37.637833831,-0.994409263134,this beautiful little bird has a gray crown and eyebrow , and an orange cheek patch , a white
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-60.6408749969,-1.41882753372,bird has a black body with some grey patch and around the shortly his eyes has a long black
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-51.2696020113,-1.49142253399,this black bird has a thick black beak tapered crown and nape , and tail
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-33.3647321125,-1.62945568562,this bird has a long legs and a somewhat bill that curves down at the tip
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-38.91472572,-1.34804856777,a medium sized entirely black bird with a smooth hue and white thick bill
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-72.6814518914,-1.94813096523,coarse fat bird that is round with black details eyes
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-47.559515829,-2.23656463623,small bird with black feathers and curved white eyes brown tarsus and medium beak
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-54.5166029913,-2.34803462029,the bird has a gray bill , a points nature entirely black breast , and brown tarsi
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-48.6068657187,-2.08902192116,a large bird with multi colored feathers with a yellow and black eyes
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-47.4245851677,-2.30924701691,small , solid black bird with grey beak and small wings and slightly curved , including the whole body
+American_Crow_0014_25287.jpg,Scarlet_Tanager_0092_138688.jpg,0,sampling_speaker1,-39.4712838895,-1.71599900723,this bird has a black head , black eyes , and a cool yellow bill and a dark grey
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-54.3226509136,-0.42393887043,the bird has a black beak
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-25.2814587597,-1.13186466694,a small sized bird with a grey belly , and a beak that curves downwards
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-29.8108366704,-0.0457479953766,this bird is overall black with yellow and has a very short bill
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-45.2534293582,-0.14180123806,this bird is a bright white and brown striped yellow in color and black red eye ring
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-38.6347963263,-0.0325747728348,a very small bird with a black head and red crown , the beak is yellow chest
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-32.1999674895,-1.85876953602,the bird has a brown crown , small bill , chest , and skinny tarsus and feet
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-20.7752643284,-0.909609377384,this bird has a speckled belly and breast with a short pointy bill
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-33.9043289568,-1.39939987659,this bird is primarily brown with a white breast and a black and black wing
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-20.6770541814,-0.0357208251953,this bird is yellow in color with a sharp beak , and black eye rings
+Yellow_Billed_Cuckoo_0045_26685.jpg,Chipping_Sparrow_0041_108370.jpg,0,sampling_speaker1,-41.4572718339,-1.63921713829,the underbelly is a colorful top , with a small bill is brown and pointed , the head is
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-38.4304824541,-0.195630282164,a long bird with a big long tail , white body with a black beak
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-39.3236706466,-1.11357951164,a larger bird with a brown crown and long orange bill
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-42.8757223527,-0.16696305573,the bird has a white crown the head and a black eye patch the breast are black bill
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-44.7991390538,-0.230114012957,a bird with medium sized beak , large white belly , and black and white eye and dark pink
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-34.6124095033,-0.290331125259,a big black bird with a grey beak and white wing feathers
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-42.5257938216,-0.146243780851,the bird has a large head a long back , with orange bill and white wings
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-44.1481330147,-1.45304882526,a brown bird with white wingbars and a long white bill with a brown crown and secondaries
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-32.3213507716,-0.156030416489,this black and white , has a long tail , orange beak
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-35.4534686982,-0.260249227285,the bird has a very large , a head , the bill is a white throat with a dark
+Red_Breasted_Merganser_0082_79214.jpg,Sage_Thrasher_0038_155498.jpg,0,sampling_speaker1,-30.5563957671,-0.133259266615,a bird with a black head , white and a bright yellow breast with a black bill , and
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-43.9373673288,-1.41679930687,a bird with brown throat , light colored brown and black head , eye ring , breast , and
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-27.7325603003,-0.320920616388,this bird has a speckled head and neck with a short pointy bill
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-33.5976570676,-1.03744077682,this bird has a white and brown head , brown back , orange patches on neck and wings ,
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-48.2581268313,-0.194933354855,brown waterbird body with orange eyes and a flat , and a short tail , long black bill
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-35.4061877434,-0.159300789237,the bird has a white throat as well as a red abdomen and breast
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-25.2006458025,-0.0421402491629,this bird has a red eye and a long pointed beak , a grey head and a white nape
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-39.7114247706,-0.663098990917,a larger , white bird with brown feathers and a very short orange bill
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-31.170988111,-0.0482589900494,this bird has a red face , throat , white breast , and neck and black beak
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-42.7064138192,-0.363996982574,a very very medium sized bird with a white head and bill with a dark brown nape
+Horned_Grebe_0040_34548.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-41.5672897152,-0.0290874987841,a big and red bird with black neck and white neck and gray head
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-34.721896923,-0.520284414291,this bird is white with black wings and a long and a pointy beak
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-56.158720058,-0.320416718721,white and black bird with some bits of black crown
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-40.3105809242,-0.450230151415,this green bird has a gray and red and black crown and white wings
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-31.0681800804,-1.02012741566,a very small bird with a flat bill and a white neck and a brown plumage
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-28.6522627183,-0.699022829533,this is a brown bird with a white patch on it has a very long , wings and a
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-31.9924751411,-0.118698358536,a larger bird with a long black beak and a very long neck compared to its rest of it's
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-42.5682499841,-0.947346150875,a very dark brown bird with tan crown and wings
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-38.5515052808,-0.893857359886,this small curious bird has a black bill , a white and a dark brown breast
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-33.8319395993,-0.846316993237,the bird is white with black and white patches of brown and a very a small beak
+Brandt_Cormorant_0078_23203.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-41.5765923066,-0.410332411528,the bird has a long clawed bill that is white and is very skinny
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-35.0019615442,-0.0949501991272,medium orange to large black bird with white and medium tarsus and black beak
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-42.2806254432,-0.433440923691,this bird has a dark orange , yellow feet and a orange bill that curves downward curved gray tarsus
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-34.0052816451,-0.173029705882,very black and orange bird with a sharp beak and black tarsus
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-42.1750311569,-0.650984287262,bird with a colorful feathers and covert , a orange beak
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-31.5544735017,-0.712208867073,this bird is mostly yellow with black wings and has a skinny black beak
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-31.9048637962,-0.410134315491,bird with black and grey feathers , a white wingbars , and yellow bill
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-40.3987709828,-0.287516057491,this bird has a small orange beak and speckled black feet , a small pointed black body
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-51.3080937632,-2.24594688416,this small bird has a black and yellow claws
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-45.6694495638,-1.59530508518,a tiny gray bird with a tops yellow bill
+Scott_Oriole_0014_795827.jpg,Wilson_Warbler_0132_175600.jpg,0,sampling_speaker1,-31.2242033699,-0.711559891701,this bird has a white belly , and a yellow breast with black bill
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-7.89122864272,-0.365360885859,this bird is white and black in color with a black beak , and black eye rings
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-39.5269946284,-1.30007052422,this is a black and a spotted white bird with a grey head and yellow side and a long
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-28.445659872,-0.421817660332,this is a large , black bird , white , and dark gray speckled with a long bill
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-38.0687943224,-1.44103646278,a bird with with white eyebrow and side and speckled pattern , with the rest of black body in
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-39.2890950388,-1.48958003521,small colorful bird with black beak and white and long and white is small head and medium size
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-33.757922744,-1.29570841789,this bird is mottled black with a white and flat , and a pointy beak
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-43.4524629408,-1.04143619537,this is a bird white and black and a white spotted colored breast
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-28.067091377,-0.165155187249,this white and black bird has a long black bill and a black spotted teal
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-50.746279106,-0.507867693901,black and very thin bird has a long but its head and long beak with gray body
+Pied_Kingfisher_0093_72465.jpg,Long_Tailed_Jaeger_0033_60955.jpg,0,sampling_speaker1,-47.226320812,-0.922782123089,a small thin bird with white speckles , black large beak and white breast , and dark eye
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-26.5546738041,-0.0296397209167,this is a bird with a white belly and a yellow nape a small beak
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-38.9408667433,-0.0366544723511,the bird has a yellow body with a long black tail and wings , pointed yellow beak
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-50.5252245442,-0.00180435180664,a petite yellow beaked perching bird with grey head , back , a small but a small yellow under
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-33.6423919996,-0.040992975235,the bird has a white head , a gray breast , throat , with a yellow back , and
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-46.380726449,-0.0947993993759,this yellow bird is gray and has a white stripes all over the crown
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-56.6032822509,-0.00229501724243,a small green bird with yellow throat and feet and dark grey and vibrantly yellow face
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-46.2974848742,-1.99821984768,this small to large bird is crescent in size in color with a black ring around black eye ring
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-29.0777854225,-0.234761357307,this bird has a yellow and white belly and neck , a black wings with a black crown
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-56.4751182621,-0.443614304066,this petite bird is yellow with a greyish white breast and black and long thin beak and a chartreuse
+Yellow_Throated_Vireo_0084_159639.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-56.4491756662,-0.141657829285,a fluffy bird , light yellow split with black and white underbelly
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-28.4297113811,-2.9703400135,this bird has a light brown body and a black bill that curves down
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-52.0329332402,-0.238990426064,this bird is brown with a little reflects yellow and white underside and a darker feathering on the bird
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-31.0070161209,-1.89243400097,the small bird has a black crown and a brown body with a medium length bill
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-30.7482726818,-1.72015893459,this bird has a speckled belly and a short pointy bill
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-60.7000973131,-1.27811312675,beautiful fluffy beige underside , small bird , dark brown primaries , grayish brown bil , golden 2 bil
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-57.9899524301,-0.297583699226,this magnificent looking bird has an elongated body with brownish yellow wingbars and a darker rump
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-92.0658270931,-5.1615281105,a completely black band coverlets spread bulky plume though white bird of soft from the eyes to a rock
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-73.8511895463,-0.820769071579,this bird has a songbird look distinctly easy golden yellow body feathers also light grey head with black primaries
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-55.7526084415,-3.64884972572,this petite bird has an almost very distinctive extended set of brown feathers , dark black eyes , which
+Tennessee_Warbler_0080_167714.jpg,Red_Breasted_Merganser_0070_79570.jpg,0,sampling_speaker1,-44.3947693632,-0.340995430946,this bird has a yellow wingbar and dark golden crown
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-34.1581797832,-0.327806502581,a large bird with long neck , dark gray breast and crown , and head is yellow beak
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-29.0679654965,-0.0402538254857,a yellow bird with black wings and a black crown , and a long , and large black bill
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-24.4437127849,-0.462888777256,this is a large bird with a long neck and a large beak
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-31.493291541,-0.104200005531,this bird has a yellow , black head , and nape , nape , and wings , a white
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-36.9555923313,-0.573918282986,the bird has a long bill that is long neck and in color
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-20.9534473467,-1.06562852859,this is a black and brown bird with a long neck and a white breast
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-40.7971178619,-0.279195725918,a bird with a long neck , and a long funny neck , a white breast , pointed black
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-32.5901739082,-0.185695886612,the bird has a particularly body with a black head and neck and long beak
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-43.6437373665,-0.107378557324,the head of the bird is black with black and has a white neck
+Pelagic_Cormorant_0041_23763.jpg,Least_Tern_0109_154127.jpg,0,sampling_speaker1,-32.6315190714,-0.581053733826,a large bird with a long bill , large eyes , has a white belly
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-38.9568979653,-0.496656358242,this little bird has a small bill of light gray feathers , a green colored body
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-21.8653033147,-0.506144106388,a bird with a bill that curves downwards , and brown wings
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-61.5435858456,-0.51982998848,this is fellow , with yellow , grey feathers and a thick bill
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-51.4338003842,-0.503597259521,a medium bird with its back with dark brown and wings and a light gray surrounding a white beak
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-39.5747294041,-0.455919742584,a small bird with a brown stomach and a very long pointed beak
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-26.3723694891,-0.521911263466,a large bird with a small straight beak , a green in comparison to its body size , and
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-54.7778834824,-0.42584502697,this dark green bird has a small brown wing and a light butt than the entire body
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-44.583638272,-0.522312521935,this is a brown bird with a dark-colored white breast and orange feet and black bill
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-29.9310098085,-0.612416565418,this little bird has a gray crown , a short , orange bill , and white nape
+White_Eyed_Vireo_0122_159284.jpg,Red_Breasted_Merganser_0078_79393.jpg,0,sampling_speaker1,-34.5332551187,-0.512736022472,a green bird with a large pointed bill , white wings and a brown head
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-45.050583816,-1.12824833393,a small bird with a dark black beak , cheetah feathers on the tarsus and feet , the head
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-31.4325460109,-0.199117064476,the bird has a white body and a short beak that is brown and pointed orange as well as
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-36.0467219302,-0.132668495178,this is a small , gray bird , brown , and tan , that has a white beak with
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-54.486957799,-0.798421621323,a large flat beak which are black with the body , and gray wings are white and brown with
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-66.4186006617,-0.290190696716,it , and mostly mostly covering its entire body but it has small but a dull speckled , also
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-43.0956907672,-0.386398792267,the bird has a black supercillary , white speckled brown breast , and a curved beak
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-46.6755213596,-1.5660738945,a gray breast and black striped bird with a long orange beak
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-68.5443108012,-0.167951881886,medium size bird with longer beak , brown tail is slightly range tand
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-47.9864823026,-0.491286993027,the bird has a dark brown wingbar and a black curled shaped bill
+Geococcyx_0099_104134.jpg,Ivory_Gull_0099_49218.jpg,0,sampling_speaker1,-53.2301925546,-2.05837917328,this bird has black underneath , two white spots covering his tail feathers and a bright red head which
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-42.5757179826,-0.847593307495,a medium sized black bird with black eyes and skinny blue and white tail , small black beak
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-15.2907825844,-0.415838241577,a small sized bird that has tones of blue and grey and white with a pointed bill
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-37.8148431198,-0.446381568909,bird has a blue beak and tarsus with white wingbars , brown crown
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-22.2296267654,-0.169498339295,a small bird with a white belly , a blue back and a blue crown
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-30.2144126333,-0.824985682964,this is a black and white bird with a white and blue on the face
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-38.036754736,-0.870984017849,the bird has a white body and white abdomen
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-36.7187229587,-0.173626214266,a small bird with a white belly , a short , bill and black back on the crown and
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-26.3235647974,-0.28022095561,this bird is blue with white on its wings and a blue belly
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-27.2639157709,-0.380385190248,this bird has a white breast and belly with a black eyes
+Black_Throated_Blue_Warbler_0079_161194.jpg,Common_Raven_0093_102058.jpg,0,sampling_speaker1,-29.8304318253,-0.481356203556,the bird is white belly with blue wings and black and a black striped head
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-34.0353018538,-0.0353153944016,a black and white bird with a long tail , sharp black bill and yellow belly
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-44.8125708664,-0.19898802042,a small bird with a white wingbars under belly , white chest , dark yellow bill a black crown
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-53.1282463927,-0.130063548684,a grey bird with black beak , and black tarsus and white and grayish medium sized patterned speckled wings
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-42.7481683662,-0.0252275466919,a large , bright yellow bird , white striped black , yellow , white breast feather , and grey
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-33.7345971075,-0.147230744362,this bird features a yellow and black top of the bird along its face with a white belly and
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-35.1118854902,-0.176146894693,this bird has a white belly , black breast , neck , and a large wingbars , sharp gray
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-46.2222931793,-0.329215317965,this unique bird has a white and black wings and gray striped crown and a grey with white pattern
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-41.0402645716,-0.241503238678,this bird has a yellow belly with white speckles on its face
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-37.0924474293,-0.129011869431,this bird has a white head and black body with brown wingbars , white secondaries , yellow and black
+Chestnut_Sided_Warbler_0041_163944.jpg,Green_Tailed_Towhee_0060_154820.jpg,0,sampling_speaker1,-42.8551664237,-0.068903490901,bird with white , and black crown , white superciliary , and black throat
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-37.9076582153,-0.411811351776,this bird has a short larsus and curved bill the body and bill that is white
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-41.0199946205,-0.074858725071,this is a large bird with a grey bill black and a black head
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-27.1977936039,-0.322905600071,this little bird has a gray body , and white wings , gray tarsuses and feet , and tarsus
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-53.9876890337,-0.141590148211,this bird has a peculiar heavy yellow body for at the legs and a black crown
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-37.6218659968,-1.1349029541,this is a bird with a very small beak and skinny tarsus and a white eyering
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-46.5146727295,-0.491083979607,the bird has a gray body with pointy beak , the tip and inner and gray wings and pointed
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-28.0164932387,-0.0837273299694,this large bird is mostly white and grey in color , an orange beak with black eye rings
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-44.9811729001,-0.399326324463,small bird that is that has orange larsus and dark gray larsus and feet with white and black eyering
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-32.0435927068,-0.572366058826,this bird is mostly gray with a white belly and back , and a gray feet
+Ivory_Gull_0074_49698.jpg,House_Wren_0087_187946.jpg,0,sampling_speaker1,-47.2766941561,-0.0948548167944,this bird is yellow with black webbed feet the an orange claws
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-39.8592879243,-0.899898529053,this bird has black feet and legs
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-15.2201532758,-0.70253020525,this bird is black and white in color with a black beak , and black eye rings
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-43.1525181219,-1.12230885029,this big bird is a small , one grey , and black , and white bird
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-12.3115518121,-1.22028660774,this bird is white with red on its stomach and has a long , pointy beak
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-19.8619623109,-1.53336346149,a small sized bird that has tones of brown all over and a medium sized bill
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-66.9877017615,-1.26874697208,the birth with sharp , chest and orange bill is nearly all wingbars are white
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-39.197187507,-0.813839554787,the bird has a curved beak and black color all over the tarsus
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-46.6220976507,-1.03491222858,the bird has a black crown and white belly with white markings
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-28.6256048635,-1.26560282707,this is a bird with white wing and red feet
+Pigeon_Guillemot_0014_40040.jpg,Heermann_Gull_0013_45771.jpg,0,sampling_speaker1,-55.6830914254,-1.06784653664,this is a bird with proportionate to his feet and is long , pointy flat bill is colored all
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-33.1807883259,-0.651104807854,this small bird has a white abdomen , brown all over its neck and has a long and body
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-30.3478661052,-0.574235856533,this bird is brown with a black and a white throat and a brown beak
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-47.7200687974,-0.97907269001,a small bird with a brown striped back and black head with white long tan body
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-47.5244145121,-1.61922478676,this little bird has a mostly white belly and throat , black superciliary eyebrow with white is short and
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-32.1742917438,-1.85244011879,a small bird with a gray bill and black cheek patch
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-22.4498971015,-1.02615499496,this is a small bird with a grey head and a small pointy beak
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-41.0849352498,-0.685779631138,a brown sparrow with black beak and brown and eye rings
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-35.5945511153,-0.657166838646,a small , light brown and orange bird with a short bill white belly , and a black eyes
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-29.8039137564,-1.24356281757,this small bird has a black bill and a black and brown on its face
+Song_Sparrow_0116_121211.jpg,Mockingbird_0026_81214.jpg,0,sampling_speaker1,-42.7834263827,-0.899636864662,this medium sized bird with a brown and has a short orange , thin bill , and a tiny
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-30.9311412009,-0.0175999552011,this bird has a mostly black crown and breast , a white throat and long black bill
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-47.8351876316,-0.931699633598,a large brown bird with a white belly and a short head
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-42.1726971533,-0.0212356001139,this is a bird with white superciliary and a long tail feathers and long beak
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-24.9332367781,-0.0390810519457,this bird has a black head , white breast , and an orange bill with a white belly ,
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-26.2667967832,-2.13464331627,this bird has a white belly , brown wing and a black head and breast and a brown patch
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-30.1615128182,-0.0812280327082,the bird has a thick beak with white and a white belly and black wings and a black crown
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-35.4961295465,-0.0974023044109,this bird has a brown body , dark grey wings with a white nape and white black beak
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-37.2344039755,-0.00857409834862,this bird has a large bill , black wings with white and white primaries
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-32.0257998338,-0.168105244637,a large bird with a white chest and brown and black crown
+Long_Tailed_Jaeger_0014_797086.jpg,Vesper_Sparrow_0076_125737.jpg,0,sampling_speaker1,-50.689705025,-0.0059772580862,a white bird with black wings and large head and long beak
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-38.9388441731,-0.12894821167,this bird is light gray speckled with brown and specks of brown on its belly and a tiny beak
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-37.462972583,-0.35863929987,a small , cream brown and brown bird with a long grey beak
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-36.9166280273,-0.96967458725,a medium bird with a short bill , and gray and wide brown body
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-31.676360684,-1.21639931202,this is a brown spotted bird with a short and black beak
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-31.4527839941,-0.0888137817383,a small brown bird with a brown crown and light brown and white and white speckled wings
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-32.1005548224,-0.128684997559,a small bird , with a tiny brown and brown and white tail feathers , a short beak
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-43.0358799503,-0.0568480491638,small bird with the bill and pointed brownish plumage is brown , the bird is brown and is brown
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-20.7855467322,-0.512745261192,this bird is brown and brown in color with a tan beak , and black eyes
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-24.461461897,-0.414024800062,a small bird with a white belly , brown speckled back and tail
+Lincoln_Sparrow_0088_117634.jpg,Black_Footed_Albatross_0057_796106.jpg,0,sampling_speaker1,-42.1623830477,-1.46616435051,a brown , gray and white bird with wide grey beak that is sharp claws
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-39.9876952618,-0.555454134941,this black bird has black eyes , a red beak , and black superciliaries
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-60.3248336583,-0.553524136543,this large bird has a piercing white body , peacock colors with black eye patch mixed to red and
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-51.9471375252,-0.200068622828,medium brown bright yellow and blue bird with white feathers over
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-33.5542071976,-0.471760213375,this bird has a very sharp black pointed beak and head with a bright red eyes
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-32.7497288599,-0.22148680687,this aquatic bird has a dark brown inner and outer rectrices , a patch , red eyering and a
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-38.3962188999,-0.517705023289,the bird's head is long , with red breast is yellow , and long and pointy bill
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-39.0124376746,-0.527620017529,this bird has a bright yellow crown and a narrow black bill , with a black bill
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-45.7430072572,-0.391247063875,a medium sized brown bird with a black stripe and very long tail , and short yellow red eyes
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-42.8326666337,-0.236334294081,this very small bird has a small head and neck , and a long grey back , short bill
+Eared_Grebe_0045_34212.jpg,Least_Tern_0048_153550.jpg,0,sampling_speaker1,-23.1635455172,-0.636896729469,this bird has a grey crown , a red eyering , a black bill and a white breast
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-67.8690252508,-0.36260831356,the bird has a grey crown and a turned abstract who being the wingbar with distinct parts being a
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-57.6239123839,-0.229531511664,this bird has a grey body seems contrasted , grey breast and vibrant red sides and a yellow bill
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-60.9224965268,-0.0472904741764,a medium size bird with a orange then grey splotchy breast and long orange bill
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-75.0096683441,-0.316321283579,the bird's body is brown sky ad path coverts and white while the exception of its rectrice foul to
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-44.2840678121,-0.327813446522,this bird has a dainty , a mottled colors being orange , brown and white and orange beak
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-71.1970108172,-1.3373734951,a small beige bird with greyish transitions blacks brown patterned masked tips and a small bill with a bright
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-50.3287669811,-0.16744402051,a small bird with blue feathers and a red neck
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-72.6010557645,-0.229546785355,this bird has a exception of grey feet; tuft on appearance beauty its head textured feathers
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-103.708978726,-0.462948799133,parts looking puffy brown and lemon bil
+Whip_Poor_Will_0021_796426.jpg,American_Pipit_0073_99642.jpg,0,sampling_speaker1,-92.4036260856,-0.78977060318,this bird has a patching fringe it torso of brown close bill the rump and a sharp spikey tan
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-34.2521843344,-0.065559387207,this large bird has web body feathers , a long neck , head with a long black neck ,
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-27.459285845,-0.069351926446,this bird is black and a medium sized with a large head , pointed , and a long bill
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-19.562257144,-0.0627792775631,a large bird with a gray neck , a long neck , and a black crown
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-32.4533307453,-0.701352477074,the bird has a long neck and yellow breast and black head
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-35.5503985486,-0.214964583516,this medium sized bird is all white with a blue head , and black feathers
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-34.3017205274,-0.334388554096,a large bird with a brown head and neck and wings
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-18.7903779013,-0.167415589094,this bird has a white breast and belly and neck with a long pointy black beak
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-39.6588413536,-0.0620805621147,a large bird with oily head , neck , long black feathers , to a neck , and a
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-47.1340118271,-0.130596593022,black bird with large head and neck and beak with orange body
+Pelagic_Cormorant_0041_23763.jpg,Indigo_Bunting_0004_13195.jpg,0,sampling_speaker1,-19.1563450756,-0.526524662971,this is a brown bird with a white belly and a pointed beak
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-72.2686139738,-1.64619326591,a small , round distinctively looking gray , erect bird with lemon head and reddish-brown , brownish gray body
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-38.0725793295,-0.137713462114,this is a large gray bird with a bill white breast and a gray wing and black at the
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-67.1503042734,-0.62802451849,this bird is white and a a tropical and a brown back with a bill
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-35.8231323872,-0.0923750847578,this bird has a large bill , a rounded face , the back , and a white throat ,
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-46.6668887144,-0.435986191034,a small bird with orange head , and beak , white body
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-52.8271462054,-0.0439813733101,this whit among white bird with black spots and has a very long , long pointy beak
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-48.2979190952,-1.54852426052,it is a large bird with brown on the throat , brown wings and striped stomach
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-45.3135275828,-0.125648662448,this bird is a brown breast and a long beak with a white head and large , thick pointy
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-23.5049240356,-1.87972104549,this is a blue bird with a white belly , grey wing and a green head and a brown
+Green_Kingfisher_0066_71200.jpg,Sayornis_0130_98678.jpg,0,sampling_speaker1,-36.4669356216,-0.962418138981,the bird has a white eyering and brown relative to its body and a thick grey crown
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-40.9418316501,-0.044931769371,a dark bird , a large black patch , large , flat black beak , a long neck ,
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-46.3511438057,-0.328381121159,the neck of this bird is a long and a large beak a large head
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-36.9197264177,-0.132320731878,this bird has black feathers , a black breast area , and a long beak
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-43.742404394,-0.26770272851,this bird is covered in all over except for the neck , yellow hsa it's neck and black ,
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-28.4661328299,-0.189295306802,a small bird with a long neck , pointed bill , a black and a blue back and black
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-39.6064989709,-0.793982863426,this young bird has a blue and white and long neck , with a pointy beak
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-27.800204225,-0.058889567852,this is a large black bird with long neck and a black pointy beak
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-42.0055382647,-0.313629865646,this bird has a long neck , a black and suitable striped body
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-47.1180464242,-0.0367255210876,the body of the bird covered all black has a black patches , black feathers is green and neck
+Brandt_Cormorant_0045_22916.jpg,Herring_Gull_0042_46637.jpg,0,sampling_speaker1,-43.7986148406,-0.891582667828,this is a yellow and shorter brown bird with a black beak
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-31.2729974945,-0.857725739479,this is a brown bird with a white spotted breast , brown wings and a black cheek patch a
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-23.9317645261,-0.929712414742,this is a white bird with breast and a brown back and a pointy beak
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-38.5368685043,-1.2515039444,the beak with the bird is a skinny are brown
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-27.5706150884,-0.941322565079,a bird with a small feet and a body with a black bill and a brown crown
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-29.1649853376,-1.60226666927,this bird has a white belly and breast with a gray crown and a pointed bill
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-19.1633502253,-0.43204125762,this bird has a white belly and breast with a brown crown and throat
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-29.9801822641,-0.0846469402313,a bird with a small , grey belly , and a brown back and a pale breast
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-31.4656587725,-0.469557315111,the bird has a white breast and chest with a brown crown and tail feathers and a sharp pointed
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-22.3480695134,-0.0347278118134,the bird has a yellow breast and belly that is brown as well as a skinny brown
+Carolina_Wren_0062_186390.jpg,California_Gull_0026_41386.jpg,0,sampling_speaker1,-18.8815333631,-0.280670523643,this is a bird with a brown breast , a white belly and a brown wing
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-36.8194454772,-0.871656656265,a small brown bird with a small yellow beak
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-22.4385099947,-0.313951253891,this is a small bird with a yellow bill and a green head
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-37.6732715692,-1.58498597145,a small bird with a white belly and green , black chest and grey wings and white feathers covering
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-40.0449732196,-0.235471963882,a small yellow bird with black head and body feathers
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-37.1485104132,-0.746252298355,small bird with white underbelly and beak , brown and small yellow eyes
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-42.1543396605,-3.10767126083,this very yellow-green bird is a dark grey with a light grey beak and throat
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-40.0954942425,-0.236990213394,a dark green bird with a dark yellow head and light grey , a black tail and light eyes
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-36.9535649001,-0.164515733719,a black and black bird with a yellow eye ring , with a white breast , and a olive
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-35.33055234,-2.76697874069,this bird has a white belly and grey wings
+Yellow_Throated_Vireo_0073_159583.jpg,Carolina_Wren_0047_186928.jpg,0,sampling_speaker1,-44.8164171615,-0.325355768204,small green and gray bird with medium to grey breast and black pointed , yellow beak , and white
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-37.3696863808,-0.773522913456,this bird has a small head in comparison to its body size , but a bright yellow breast undertail
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-48.4017923647,-0.416662365198,this vibrant bird has a yellow underside , blue primaries , secondaries , and a dark red crest hints
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-56.7103141148,-0.814211189747,the bird has a modest otherwise mixture of brown body covered with two white patches near its dark green
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-64.4590093562,-0.507863938808,this unique billed bird has a green winged three teal cheek patches and blue
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-46.933559812,-0.69480663538,this bird's entire body is covered in mixture for its bronze which is teal
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-61.1532362981,-0.717962145805,this is a teal looking bird with black everywhere on most of its dark superciliary
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-74.1174092006,-0.716892361641,a medium sized brownish bird containing different shades of variegated footed color tint from eyes to tail feathers that
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-46.7259907867,-0.673559546471,a yellowish head looking bird with black wings , and tail , inner and outer rectrices , and sleek
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-65.1791282272,-0.588138580322,this is a jet black bird with an exotic front of a very brilliant green eye tinge round body
+Boat_Tailed_Grackle_0017_33480.jpg,Great_Grey_Shrike_0062_106628.jpg,0,sampling_speaker1,-82.4766235481,-0.70502948761,the bird has a white belly and orange and pointy prominent abnormally horizontally strips leaves gray-white cheek patches
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-52.2866523425,-1.10025703907,this bird has an ivory head , with a gray breast , and back and a so slightly curved
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-37.7223013922,-0.132317915559,this bird has white wingbars , and a black crown , white breast , and black eyebrows
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-34.1193953587,-0.204638838768,a white bird with grey feathers all over
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-23.6623502445,-0.322018027306,this bird is white , grey and blue in color with a very skinny beak and black eye rings
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-33.8047206191,-0.13799700141,this is a grey bird with a white wings and black face with a black eye patch
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-44.1191892988,-0.0972536802292,this is a black bird with a white throat and breast three downward pointing a white colored crown
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-26.7753656945,-0.380349636078,this is a bird with a white belly and chest , black and a gray back and a gray
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-23.7973831787,-0.187534689903,this bird has a dark gray body , a pointed black bill , and a white belly , and
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-38.9257510968,-0.112429201603,this is a little black bird has a white belly , and white undertail & gray beak with a
+White_Breasted_Nuthatch_0039_86166.jpg,Pine_Warbler_0046_171452.jpg,0,sampling_speaker1,-62.4397184777,-0.579592347145,this bird has some brighter into a grey belly and secondaries , with its a long , gray pointed
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-30.9454346704,-0.547663092613,this small bird has a small , a pointed crown , white throat and a white belly
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-37.4933139137,-0.536410689354,a white bird with black throat , breast , belly , wings and a white as well
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-30.1542706856,-0.636594891548,this is a bird with a white breast , grey wing , and a white belly and a forked
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-27.5802889474,-0.539077401161,this small bird has a white breast and a blue head
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-28.3192929861,-1.02223336697,a black bird with white throat and white breast and a white wings
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-29.2037899017,-0.594459056854,this bird has a white belly and chest with a black wings with white tips
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-31.1979913161,-0.472585886717,this bird has a white belly and breast and head
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-25.852772983,-0.562978744507,a medium sized bird with a small , black crown and a white cheek patch , and a white
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-19.4398702432,-0.892498970032,this medium sized bird has a white breast and a black bill
+Tree_Swallow_0117_134925.jpg,Vermilion_Flycatcher_0020_42498.jpg,0,sampling_speaker1,-16.1696010997,-0.678547799587,this bird has a black crown , a white throat , breast and a blue back and a white
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-46.9392906093,-0.790610909462,a striking bird with a blue crown and back area
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-37.1259393969,-1.82953107357,this small bird has shiny black eyes and a dark black beak , a white spots on it's breast
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-81.043774539,-0.288369059563,it's green and thing white , small bird is round and black , small dark green covert standing dagger
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-53.2339371785,-0.268907368183,this bird's sheen to be a dark green , white , with yellow eyering and a very skinny bill
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-68.9583323718,-1.77572727203,this tiny bird has odd-looking colors of auburn tails to shiny with dark gray and white feathers
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-67.2640410517,-0.20517385006,a small bird that is largely or small , almost entirely stark black vivid yellow except for green tarsus
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-48.5860116982,-0.991157054901,small blue bird stands on this bird with long and coverts and wingbars , black rectrices
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-70.4473003864,-1.72769868374,a black glossy orange-brown , small beaked , metallic bird that is mostly light red feathered around the tips
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-56.2774304087,-1.92037582397,the bird has a curved beak and comes with a white throat
+Brewer_Blackbird_0090_2658.jpg,Mockingbird_0069_79760.jpg,0,sampling_speaker1,-42.4944845001,-0.56341779232,a medium size bird with a deep red crown , and green and head with black wings with black
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-31.21743108,-1.6171245575,the bird has a brown body and a blue crown and a thick bill that is very round black
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-42.0373156393,-1.72746694088,this is a small , fully yellow bird with a shiny black head and a grey beak and traces
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-51.5374282968,-1.03557693958,this small black and fat bird has a long thin bill , splashes of purple plumage
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-35.0919803905,-0.658304691315,this small bird is completely black except for a very large , yellow bill
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-58.9269938074,-1.57045650482,this large picture , solid small bird is all over and magnificent attached , including its body except for
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-75.9326457878,-2.53701162338,a jet brown bird chocolate all over except appendages and green color appear blue feathers over whose yellow eyes
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-49.4688848611,-3.27787399292,this small billed bird has a all-black head , a brown and striped wings
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-87.4863257922,-0.575693130493,this silky grays and surroundings looking dark black bird has a strong legs reflect very large forward , very
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-52.2343595401,-1.51719379425,this very royal footed bird is short , blue , and fat with a slightly curved legs
+Fish_Crow_0073_25977.jpg,Black_Billed_Cuckoo_0061_795327.jpg,0,sampling_speaker1,-31.2026832312,-1.81468117237,a small bird that is green and black facial markings and has a gray beak
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-48.8146110198,-0.0344857014716,the bird's beak is off-white and white and black and black crown
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-35.0576669368,-0.0283826589584,this large white bird has a yellow tipped head and black wings and a orange bill
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-20.7019603701,-0.023664072156,this is a white bird with black wings and a black crown
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-23.2198339932,-0.161607384682,this bird is nearly all gray with a black superciliary and white superciliary
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-51.8441000595,-0.440074920654,a medium sized bird with big wings and flat bill
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-34.456663134,-0.034799143672,this bird is white and is black in color with a black patch over catching beak , and eye
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-44.4818892214,-0.0734947919846,this bird has black and orange tarsus and feet , a long beak
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-34.1263884792,-0.0204587429762,this bird has a white body belly and crown , black wings , and head are black
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-44.667033359,-0.0218955874443,this bird has a black crown with a white tail; fuchsia black and white throat and yellow bill that
+Elegant_Tern_0030_151067.jpg,Chuck_Will_Widow_0015_796962.jpg,0,sampling_speaker1,-27.8807571543,-0.0629737377167,this is a white bird with a red throat and black crown
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-27.9140047018,-0.698075532913,this bird has a grey body and black crown , a white wing feathers
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-32.2631878174,-0.186351105571,this bird has a big head with a grey bill and a white belly and dark gray wings and
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-42.2908026356,-0.230293467641,this bird has a grey crown , and a rounded bill white back
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-23.2335190963,-0.427373558283,this is a bird with gray wings and a white belly and a pointy black beak
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-50.180617751,-0.464343398809,bird with fluffy orange beak and gray crown , chest , pointed , breast , black abdomen and belly
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-28.850964763,-0.134135827422,this is a dark grey bird with a darker brown crown and a short pointy beak
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-38.3012292252,-0.423446297646,an large bird that is brown and white with a dark brown tarsus , a medium sized beak
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-56.8333841258,-0.338307023048,a small bird with grey and a sharp pointed beak , white feathers , look fluffed black and long
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-58.8415941136,-0.319447159767,this large grey bird right looks like its body is brown and large and a round
+Gray_Kingbird_0018_70241.jpg,Pigeon_Guillemot_0014_40040.jpg,0,sampling_speaker1,-39.3258827635,-0.166578233242,a round gray bird with a thin straight beak and a white breast and belly
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-31.9478711325,-0.266781687737,this bird has a white and white eyering , a yellow crown , a black feet
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-29.8462647561,-0.20538175106,the bird has a yellow body and white head and a black wings
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-32.4988442776,-0.243962526321,this bird has a white body and is brown crown , yellow wings and a black and a pointy
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-33.419442836,-1.21157050133,the wings have white eyebrow , the bill is small and pointed and the neck is red and the
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-33.2396499698,-0.96952188015,a colorful bird with a black body , has a pointed orange beak , and white wing
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-28.1141684051,-0.140445709229,this bird has a white crown , a bright red head , chest , and a yellow breast and
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-24.7363837249,-2.28325390816,this bird is mostly white with a black bill and red head
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-42.2266471984,-0.599282383919,bird with white on the crown and stomach and has a black along with a black and a black
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-61.0603580812,-0.94453471899,this fat bird with a white coloring in the black head and darker grey and white small beak and
+European_Goldfinch_0058_794665.jpg,White_Necked_Raven_0070_102645.jpg,0,sampling_speaker1,-44.4209976513,-1.35208165646,brown and white bird has a very thick feathers and a beak
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-30.6047475664,-0.0866524875164,this black bird has a large white and white body and a curved beak
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-44.3607293949,-0.116923518479,this bird has a gray and head , black and pointy bill , white feathers covering its short wingspan
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-18.9744090273,-0.239423155785,this is a bird with a white breast and a white beak
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-29.356849185,-0.0659071356058,this bird has black and white body feathers , white and a large head
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-20.1834899961,-0.070165745914,this is a large black bird with a white beak and has a large wingspan
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-35.2770018528,-0.140831440687,a bird with white breast , and black feathers and a white beak and a very large tarsus and
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-29.862477361,-0.230623692274,this bird has a white belly and breast , with orange feet and its body
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-18.5994236071,-0.215871632099,this bird is white with white on its chest and has a very curved beak
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-21.2176631978,-0.219782218337,this is a white bird with black feet and a small beak
+Northern_Fulmar_0074_43955.jpg,Fox_Sparrow_0094_114634.jpg,0,sampling_speaker1,-36.5235739284,-0.208788245916,a white bird with black and white covering its back and a wide , and white and a short
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-32.4581840213,-0.189415097237,a bird with a large pointed bill and a yellow crown
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-45.0196332733,-0.719940245152,a round bird with an all yellow underbelly , and a long black upper body
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-20.5169738344,-0.0511164665222,this bird is brown and yellow in color along with a skinny black beak and white eye rings
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-29.7183138704,-0.041711807251,this bird has a white throat , belly with a yellow and a black and grey breast
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-27.9496406221,-0.0806999206543,a bird with a white belly and chest , has a black crown , a yellow face
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-29.2179089928,-0.0709049701691,this medium sized bird has a yellow belly and breast with a black head , beak
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-24.0904707481,-2.49554777145,this bird is grey in color with a black beak and white eye rings
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-30.719342223,-0.0341136455536,the bird has a curved bill with a white belly and throat with brown and yellow chest
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-31.8107740037,-0.236013412476,the underside of the bird is yellow and the bird is white with the tail is white patches
+Tropical_Kingbird_0041_69954.jpg,Brewer_Blackbird_0004_2345.jpg,0,sampling_speaker1,-22.4686039322,-0.00339651107788,this bird has a yellow belly , a brown crown and a small bill , and breast , and
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-33.0798374962,-0.0364016294479,a bird with a wide wingspan , a large sized , and a long neck
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-32.5667951614,-0.818361759186,this bird is green and it has a very long beak
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-46.6876947295,-0.0929307639599,a bird with a long neck , skinny black cheek patch and face
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-46.7207603679,-0.00131699442863,a large light colored bird with long pointed red face , black beak and blue throat with dark black
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-39.6884263066,-0.00289735198021,a large bird with large neck and tails , wide black and long beak
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-33.2422687241,-0.0422134995461,this is a dark black bird with a yellowish cheek patch , a long neck
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-56.0967491954,-0.683463573456,this bird is a path bell , blue and has a black head that is brown stripe
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-34.5890323408,-0.620024204254,this bird with a blue head and back , its throat is proportional to its body
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-37.4854379626,-0.0511695146561,this bird has a thin black bill , skinny thighs , a black cheek patch and a black broken
+Brandt_Cormorant_0045_22916.jpg,White_Eyed_Vireo_0029_159334.jpg,0,sampling_speaker1,-26.9485028989,-0.055063277483,this bird is covered in the neck and has a black feathers with a black nape
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-25.3334845781,-0.0552971363068,a small bird with a yellow belly , long pointy bill , and yellow feathers
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-30.5160293075,-0.368294477463,this bird has a golden yellow breast and belly with brown wings with white wing bars and a black
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-24.3860211334,-0.0653824806213,a small bird with a yellow breast and belly , a black crown
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-23.6335852772,-0.347086131573,this is a yellow and brown bird in color with a flat sharp beak and black eye ring
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-39.4864064825,-0.003746509552,this yellow bird is mostly gray and black and fat yellow on the wings
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-28.023344112,-0.0629464387894,this bird has a yellow belly and black wings with white stripes along it's head
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-31.8203655735,-0.00452327728271,this is a distinctly bird with a yellow belly , black wings and a yellow beak
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-40.2831881141,-0.00430393218994,this is a bird is colorful , yellow and grey , black , and yellow belly
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-34.8261511402,-0.00498628616333,this bird is yellow with light yellow wings and a black beak
+American_Goldfinch_0061_32281.jpg,Lincoln_Sparrow_0047_117442.jpg,0,sampling_speaker1,-29.4781627773,-0.00402402877808,this is a colorful small yellow and black bird it has a yellow beak and a black tail
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-36.5301997151,-0.145109891891,a small bird with a yellow breast and side and the bill is yellow and grey and brown mixed
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-52.3033160867,-0.915423810482,this pudgy fellow has a brown sparrow that blends in the point , with brown on the rest of
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-57.8348430587,-0.129832267761,this small yellow bird had a roundish yellow eyerings , a light brown hue on wings and head
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-49.8049074812,-0.224083662033,the bird has a yellow underbelly and is round
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-38.8153426471,-0.274576306343,the bird is brown and tiny in color with a small sharp beak , and light grey the cheek
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-58.0474007099,-0.674322009087,beautiful wings and a brownish yellow-green bird with a white throat , and face , greenish brown chest and
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-29.0738114117,-0.138194084167,this colorful bird has a yellow throat and breast & belly , the rest of his body is brown
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-50.7455816071,-0.139595866203,a small bird with a slightly blackish yellow eyes and nape , wings that are tan with a small
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-16.5940870176,-0.593743681908,this bird is brown and brown in color with a skinny curved beak and black eye rings
+Great_Crested_Flycatcher_0132_29300.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-47.1548900513,-0.266929596663,a small brown bird with muted beige belly and a light green head
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-47.0506035999,-0.11721521616,this is a bird with a small head , neon mix of brown , and grey and a striped
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-45.6379565615,-0.269857555628,a medium sized bird with darker shades of all over its body
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-45.1982654245,-0.324485778809,a small bird with a colorful long bill and a red spot in comparison to the nape
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-42.0600120674,-0.244001746178,this is a gray bird with dark wings and a short bill
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-35.6392639858,-0.323268294334,this colorful bird has a white throat and a brown crown with a narrow bill that is red
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-41.6345553581,-0.0986541509628,this bird is brown with a stubby light-brown on its head
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-41.9602475039,-0.721178412437,this bird is mostly black with a white superciliaries
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-55.4864902717,-0.551959395409,a small black the elsewhere bird with a yellow bill along with a white nape and throat
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-42.3860005035,-0.361055731773,a smaller bird body" with a medium length pointed bill and a white belly and back
+Olive_Sided_Flycatcher_0013_30550.jpg,Chestnut_Sided_Warbler_0041_163944.jpg,0,sampling_speaker1,-29.9274000734,-0.733540296555,the bird has a black eye and a small bill that is black and a yellow nape
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-21.5358894526,-0.757767319679,this bird is yellow and grey in color with a green in the black beak and brown eye rings
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-44.5228111519,-0.889034688473,a very big bird that is green and large flat , black eyes are dark green , the beak
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-19.6395805079,-0.693165779114,a green and green bird with a long neck , and a green body
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-44.5351678568,-0.893949568272,a black duck with a yellow curved neck , medium bill , and blue feathers and green wings ,
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-34.8220121116,-0.736289620399,a very big green bird with long tarsus and a black beak
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-31.9124717357,-0.250050604343,this is a green bird with blue head and beak and yellow and brown and brown feathers
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-31.5747688358,-0.278028249741,a large green bird with black chest , and long , and white feathers
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-31.637562736,-0.508348822594,this is a large green bird with a brown green and green bill
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-29.2148911225,-0.393658012152,this bird is green in color with a long , and a very long beak
+Mallard_0141_76977.jpg,Boat_Tailed_Grackle_0017_33480.jpg,0,sampling_speaker1,-33.2114103478,-0.925554811954,the head is green , flat bill is sharp , the body and the beak is black and the
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-49.6250774076,-0.0156898498535,this stout , small fluffy perching bird has a long yellow bill , and eyering as well as small
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-49.4359061579,-0.00653266906738,a small bird with a yellow breast , a multi-colored line eyebrows and belly
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-45.9557084545,-0.0148599147797,a very small yellow and white bird with soft feathers with a very small brown beak
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-44.186501937,-0.0181243419647,this somewhat protruding bird is yellow with brown chest and has a tiny pointed beak
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-60.384894895,-0.0100209712982,a dark colored bird with very small pale yellow , brown secondaries on tail , stomach area , a
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-47.364311253,-0.00683903694153,this is a brown bird with some yellow black/white spots on its undertail on it wings and a small
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-63.3953298959,-2.63948130608,a large bird that is different shades from beak for - gull to belly , pink tarsus , inner
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-47.8413009959,-0.00706624984741,a small bird containing a very colorful pudgy grey underbelly and dark brown and yellow head
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-51.5275536967,-0.988115847111,a medium sized bird with eyepatch , brown inner and outer retrices and a short bill
+Tennessee_Warbler_0042_175092.jpg,Western_Gull_0009_54768.jpg,0,sampling_speaker1,-37.6784480662,-0.120639443398,this is a bird with a pale yellow chest and orange eye and pointy black beak
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-48.0560062628,-0.644831418991,this brown bird has a spiky crown and yellow foot
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-37.7660383986,-0.186242043972,this is a small brown bird with black and white on it orange eyes
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-26.5530441636,-0.105628371239,a bird , with pointed triangular beak , white throat , and brown feathers covering the rest of its
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-35.3611832818,-2.43755197525,this bird has a short black beak , tarsus and feet , yellow , and white eyebrow
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-38.5596558831,-0.0566747784615,this bird has a white belly , brown breast , throat and abdomen and rump
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-45.9856652378,-0.348933815956,a multi colored bird with a tan , a short silver bill
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-38.5145013633,-1.06153512001,this brown bird has a yellow head and pointed bill , a white chest and black striped feathers
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-12.6176613344,-0.0237131714821,this bird is black and white in color with a brown beak , and brown eye rings
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-22.6562939964,-0.467388391495,a medium sized bird that has tones of brown and yellow throughout
+Savannah_Sparrow_0023_120326.jpg,Common_Yellowthroat_0010_190572.jpg,0,sampling_speaker1,-63.2342240538,-0.273549377918,small , white breasted and grey spiked bird with spots of feathers
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-36.260252946,-0.731682598591,this bird is predominately grey with brown wingbars with a green head and a pointed bill
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-34.8846069062,-0.777718544006,the bird has a blue overall body color except from the head and throat area which is sitting from
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-56.7861261093,-0.833204627037,a smaller bird , with a short bill out of green feathers and dark grey in its body with
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-49.0336239796,-0.791268348694,this medium sized bird visible has a shiny green crown , a little black bill
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-72.0894434862,-0.73216933012,a small bird with rich blue eyeing and coverts , we additionally very thin beak
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-69.8897450375,-0.604467988014,small brightly colored royal blue finch with black tips and yellow-brown wing bars extra medium sized bird
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-63.4414662824,-0.794406592846,small bird with a brilliant grey blue body together markings and a longer beak
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-57.8415850399,-1.06145858765,a small bird with a royal a white crown and triangular bill blue eyebrows and secondary and bright orange
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-43.3793931111,-0.830777525902,a bird with a short beak , and vibrant stark vibrant pink tarsus , with a blue plumage
+Lazuli_Bunting_0086_14992.jpg,Long_Tailed_Jaeger_0014_797086.jpg,0,sampling_speaker1,-40.8095510917,-0.782370507717,this bird has a purple head and throat , a little black body with a triangular bill with bright
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-44.3735608595,-2.08529543877,a round curvy bird that has a small crown and orange wingbar
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-68.7887954513,-1.39604759216,a small magnificent golden fluffy off orange beak , the topside brown and topside
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-61.1958624912,-0.160594344139,this bird has a yellow superciliary and a small orange flank
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-48.470824014,-0.539333760738,the bird has a small yellow body with a grey and a thick white bill
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-49.6566704447,-0.0781404972076,this bright yellow bird has a short flat beak with brown coloring areas from the face to its secondaries
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-37.4340302592,-4.14766597748,the bird has a puffy breast , a white body and a thick grey bill
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-42.7318430097,-3.41132307053,this bird is mostly brown with a forked flat black rectrices and white spot near the eye
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-31.3934332214,-2.08612298965,this little bird has a medium sized bill , a small head , and a golden golden body and
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-46.3062640969,-0.0125274658203,a small orange bird with small beak , brown crown , yellow eyes , tarus , light brown colors
+Tennessee_Warbler_0080_167714.jpg,Ringed_Kingfisher_0071_72958.jpg,0,sampling_speaker1,-66.3290529454,-3.47991847992,this oddly green and looking bird has a short beak , tarsus except for the black and red face
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-37.0390206856,-0.145850598812,bird with large black wings and a white and a large head , and brown nape
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-19.491848674,-0.215014398098,a medium sized black bird that has tones and a large sized bill that curves downwards
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-34.8485768758,-0.463679522276,a medium sized bird with black wings and a brown neck
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-13.7114167053,-0.824077963829,the bird has a black bill that is black and a black eyering
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-37.3159940696,-0.04139033705,a black bird with a white , large flat red beak , a white neck and brown wings with
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-34.669494203,-0.401770174503,this large bird has black feathers , a white and black eye
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-19.0206735495,-0.163745507598,the bird has a long orange bill that is black as well as white
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-20.0402230549,-0.794681549072,this bird is medium black and white in color with a black beak and black eye rings
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-31.1206924929,-0.0695422142744,a large aquatic bird with a white neck , and a large body
+Brandt_Cormorant_0064_22849.jpg,Eastern_Towhee_0002_22318.jpg,0,sampling_speaker1,-45.1073476998,-0.158543795347,a large bird with a narrow bill and a white nape
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-56.5529196953,-0.341554701328,a petite sparrow-like bird with brown poitned wingspan , grey , and white striped rectrices and black primary and
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-65.4478478273,-0.17422491312,this large flecks is brown including a tan and orange bird with pointy beak
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-41.5490134592,-0.628639698029,this baby bird has a really long tail and straight bill white primaries
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-23.3183788063,-1.42090177536,this bird is black with white on its wings and has a long , pointy beak
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-62.7472300886,-0.916993379593,a small triangular black bird with gray beak with white nape and grayish band and beige tarsus
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-55.2466062497,-0.197527289391,a small strong light colored bird with short and short pointed beak
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-41.4848369871,-0.938707113266,this bird has gray breast , gray wings and tail , white superciliaries and a tiny dark gray bill
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-48.4161614819,-0.166912555695,a small beaked bird with multiple brown and predominantly white wings
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-33.4674490417,-0.782636880875,this bird has a rather long outer retrices and a rounded breast , thin , thin bill
+Warbling_Vireo_0118_158285.jpg,Lazuli_Bunting_0102_14605.jpg,0,sampling_speaker1,-41.3209618852,-0.969949483871,this is a smaller bird with a long thin bill , there is mostly gray wings , along with
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-57.3671236649,-0.224931061268,bird with brown tarsus iridescent grey throat , white coverts and crown , breast , and feet
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-51.001300287,-0.702539801598,this small bird has black rectrices , blue body , black beak and long wide black eyes
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-70.5142413868,-0.317290276289,this large bird has a longer hawk body , rimmed spread neck with brown breast feathers , large claws
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-65.8277294033,-0.107624530792,the bottom and gray feathers has a gray belly feathers with brown bill
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-35.7968503295,-0.528382539749,a colorful bird with gray upper body , brown and head , black covering the rest of its body
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-37.241029745,-0.189666628838,this bird is brown with its stomach and has a very long beak
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-60.804856303,-0.152943372726,a small bill , this bird is brown , and teal with minuscule her feet , and teal and
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-69.4135313587,-0.308965802193,a large brown with a long tailed cream colored bird so light orange bill , and a rather greys
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-61.8278193713,-0.725510835648,this all black finch looking bird yellow/black fluorescent feathers and medium sized bird has a short orange bill
+Ruby_Throated_Hummingbird_0008_58204.jpg,Green_Kingfisher_0066_71200.jpg,0,sampling_speaker1,-44.9595012919,-0.419326722622,the bird is fan breast with a black back and wings and abdomen with a brown crown
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-35.6938501444,-0.0311495885253,this bird has a black woodpecker pointed red beak , black and white feathers , and black tarsus and
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-36.6437455785,-0.295443445444,the head of this bird is red , and feet and black , black and a small bird with
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-27.2197718393,-0.0137139027938,a red bird with a black crown , red and nape , and white striped wings
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-27.9779833328,-0.160093277693,this bird has a black crown , a red wings and a white breast , belly
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-43.1896126388,-0.00348211359233,this long wings of red bird a white , black and black bill
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-28.4777868476,-0.156273931265,a bird with a medium sized black head and a black body
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-20.5650238186,-0.0822536274791,this is a black bird with red and white markings on the face
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-42.0275573405,-0.0798530206084,small red bird with black spots wings and a black and a white bill
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-33.5218610349,-0.0551378615201,a bird with a black head , red body , and black markings
+Pileated_Woodpecker_0009_180460.jpg,Nashville_Warbler_0120_167149.jpg,0,sampling_speaker1,-34.6065656027,-0.0181021969765,this bird has a black head , red beak and tarsus , with black wing bars and red feet
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-45.0390054456,-0.885768592358,small black bird with black wings , and medium size bill and white belly
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-34.3476522207,-1.70792758465,this is a large black and white bird with a short beak
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-27.6149600178,-0.749916791916,small grey bird with a black pointed bill , and black tarsus and feet
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-34.5470315837,-1.15000247955,this bird is white with black feathers and a small bill
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-28.3669991838,-1.25220012665,this is a black bird and a white and black in color with light grey beak
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-27.016139308,-0.559290587902,the bird has a black eyering that is quite small and a small black
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-27.4025749118,-0.503924906254,this little bird has a gray body and breast , black wings , and a black tarsus
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-38.1248898953,-0.678641319275,the bird has a grey head , and a black tail , while it's body and pointed beak is
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-23.0150561649,-0.879072844982,this bird has a grey body , a black crown and a short black bill
+Loggerhead_Shrike_0090_106461.jpg,White_Necked_Raven_0019_797377.jpg,0,sampling_speaker1,-48.6339664996,-1.69325661659,small all black except for white and white patch on this tail wings , but a black on its
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-32.3737525695,-0.138401150703,this is a small bird with brown crown and brown wings and a thick beak , and a white
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-31.6919876638,-0.144317269325,this bird has a light brown head with a dark brown crown and white speckles , and a short
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-36.9520878745,-0.500441849232,this bird has a white speckled breast and breast with brown side and crown with a flat bill and
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-26.1196771883,-1.08721482754,this bird is brown and white on its stomach is black
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-28.2627864115,-0.362997055054,a small brown bird with a white striped wings , and a small head
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-51.3211338698,-2.25820088387,a large perching bird with black streaked wings with white markings and a pointed tail and cream beak
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-51.0173652342,-0.0885736942291,a small bird with a small beak , small round body and gray crown and brown cream colored in
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-42.3283894021,-0.19449365139,this little bird has brown body feathers and brown chest , and a grey wing
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-33.2506512265,-2.21038269997,this bird has a light grey breast , tarsus & feet , a black crown and a cream belly
+Vesper_Sparrow_0033_125568.jpg,Indigo_Bunting_0082_11907.jpg,0,sampling_speaker1,-40.1730508563,-0.467951804399,this bird has a light colored breast that is mostly brown , the top of a short but short
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-35.0709316576,-0.0237188339233,a small brown grey bird with a brown wing and wings and a yellow beak
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-39.460841231,-0.0695735216141,a spikey brown bird with sharp and brown wings and a grey beak
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-50.3860057343,-0.120371222496,a brown bird with nice head is brown cheek patch
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-35.1538965664,-0.120256185532,small bird with white throat and brown and belly , brown crown , and a black wings , and
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-24.2300682267,-1.41489958763,this bird has a brown body with a white throat and a bright orange crown
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-39.1207046456,-0.0761290788651,this bird has a brown body with a reflect , brown and grey cheek patches
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-25.0153936596,-0.297665953636,bird has brown body feathers with brown breast feathers and black beak
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-26.3387489039,-0.210670053959,a small , brown bird with black eyerings , white cheek patch , and a brown crown and a
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-16.9688918322,-0.897277355194,this small bird is brown and white in color with a black beak , and dark eye rings
+Field_Sparrow_0067_113448.jpg,Pelagic_Cormorant_0054_23812.jpg,0,sampling_speaker1,-39.3648335005,-0.0467813014984,a bird with brown underbelly and grey and a light brown wings
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-61.2426862585,-1.8324444294,brown colored on white on its head and body with dashes bird
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-48.9092655272,-1.69451451302,this bird has small hooked both pale gray tarsus and webbed feet , a rounded belly , and secondary
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-41.9293404174,-0.845714569092,a gray body , black wing feathers , and a large off white bill
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-41.9414223401,-0.96663826704,this bird has a square overall body color with a dark gray crown and nape , white , tarsus
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-50.1079386742,-0.767612993717,a larger bird with black secondaries and a downward curving white tarsus'
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-53.4885385259,-1.35378539562,bird with snow grey wings , and a grey foot and a wide body
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-68.9302335118,-1.04044175148,aquatic bird has curved neck hued body color , white belly , throat and feet , and a brownish
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-25.8815027381,-0.764443278313,the bird has a long black bill and a grey bill
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-41.6721939788,-0.834373831749,this bird has a black crown , pure white nape , and a beak that curves downward at it
+California_Gull_0089_40716.jpg,Eastern_Towhee_0115_22304.jpg,0,sampling_speaker1,-40.731508531,-0.820947289467,this bird has a black back , white coverts , white all over the rump and rectrices with a
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-36.8361311531,-0.0963308513165,this bird has a black beak and feet with a dark gray color with black eyes and tarsus
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-29.8184941322,-0.256364524364,this small white bird has grey wings and a black tail
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-27.9184009247,-0.213090956211,a small blue bird with white wings and a small black beak
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-31.3772099192,-0.1748483181,a white bird with a dark blue wings , white throat , and tail , belly and head
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-35.4219074196,-0.937905371189,this is a bird with a grey belly , and a small head
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-31.018747468,-0.443524688482,a small blue bird with a white belly , wings and tail
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-42.0449876836,-0.646425962448,this bird has a short beak and tarsus , a white breast and combined for a dark gray back
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-34.6064641267,-0.234283328056,the crown of black and a small bird the bird is white
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-31.745396324,-1.9964069128,a small bird with with a grey belly and a small beak
+Tree_Swallow_0117_134925.jpg,Lincoln_Sparrow_0099_117482.jpg,0,sampling_speaker1,-29.6980476159,-0.12425994873,this bird has a small , white breast , breast , black bill , belly and dark blue crown
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-35.2955230406,-0.0662362575531,this bird is black , white and brown and white on the breast that is a a brown ,
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-31.903114241,-0.913530349731,small white and black bird with a small head , pointed beak , tarsus , with white breast ,
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-18.428909756,-1.26669383049,this bird has a white belly and breast with a black wings and a white eyebrow
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-31.7360209465,-0.0733643770218,a small bird with a fat light brown crown , a light brown chest , black eyes , white
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-35.0714604654,-0.13072681427,this bird has a brown body and a white striped pattern
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-15.8962878798,-0.533229410648,this bird has a speckled belly and breast with a short pointy bill
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-32.3534107875,-0.763747572899,a small , small bird with a black crown , and a pointed beak
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-20.8102852631,-0.132981777191,this bird has a brown belly and breast with a white eyebrow
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-36.7289296262,-0.0488889217377,the bird has a white belly that is light brown and breast is brown
+Black_Throated_Sparrow_0015_107079.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-24.8082610975,-0.902350366116,a medium sized bird with a white belly , white striped wings , and a black bill with a
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-28.3780446139,-0.278064101934,a gray bird with a white breast and gray wings , and black bill
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-28.812688937,-0.114006891847,this bird is dark in color with a black head and white wings and a large flat beak
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-30.9170815975,-0.138793990016,a bird with a large white body and a black head with a yellow nape
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-27.7202665116,-0.389800310135,this bird has a white belly and black crown and a white back
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-54.2945397419,-0.253714799881,a bird with black , white throat and tail feathers that are grey to the beak good
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-42.2082265285,-0.0391570627689,the crown and a large black bill is black and wings are yellow
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-31.4314139006,-0.315342873335,this bird has a white breast and black bill and abdomen on its body and coverts
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-31.3364350864,-0.571667611599,this bird has a gray body and a white abdomen
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-41.4709461418,-0.129894196987,a medium bird with a black wings with white head and long tail a grey tipped beak
+Long_Tailed_Jaeger_0005_797062.jpg,Rusty_Blackbird_0096_6846.jpg,0,sampling_speaker1,-27.6714099588,-0.662381231785,this bird has a white belly , gray wings and wingbars , breast
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-32.1714374473,-0.298787236214,a bird with brown feathers on it's body and a long black beak
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-13.6832020414,-2.21404409409,this bird is brown and white in color with a brown beak and dark eye rings
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-28.745218739,-0.384912580252,a bird that is mostly brown with a large hooked bill
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-33.0740373851,-1.74342918396,this medium sized bird has a mostly white body with a grey body and brown and brown head
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-40.0756250543,-0.377649188042,this bird is black , has a brown , and pointy beak
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-52.6543127878,-0.202167510986,sharp and large , with wide beak that is light brown , gray wings and black spots , webbed
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-25.6052052166,-1.6532626152,this large bird has a medium bill , and a brown crown , and a brown breast
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-55.1912177404,-0.309080302715,a large flying bird with wide dark grey fluorescent white nape and brown feathers with a wings
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-45.6461833933,-0.134933501482,a large , brown bird with large wingspan and white spots
+Gadwall_0007_31537.jpg,Marsh_Wren_0042_188195.jpg,0,sampling_speaker1,-47.4479808834,-0.0501784533262,medium sized bird with with black feathers and wide orange beak
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-32.0039648958,-0.0154844522476,a bird with a grey body and brown striped wings and crown
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-54.6001737001,-0.02983045578,this bird has a small beak and very bright colors striped brown and a black reddish-brown crown
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-36.3182297506,-0.0975525975227,this bid has a short white belly , orange bill , and brown cheek patch and black striped wings
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-40.4131005833,-0.00653052330017,a round and brown bird with a white eye brow , yellow bill , white and brown wingbars
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-42.2878147748,-0.0134264230728,this bird is beige from it's crown to its breast , belly , and abdomen , abdomen are brown
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-47.2488374013,-0.129953026772,this bird's crown is broken , with white wingbars , black , and little patch of brown covering the
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-35.3439273053,-0.0142440795898,this is a small bird with a brown grey wing and white beak
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-31.4827112904,-0.0107159614563,a medium sized bird with a small bill and a brown streaked , and a grey breast
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-38.1166244098,-0.0685310959816,this small bird has a cream colored breast , cheek patch , abdomen , and an all over it's
+Grasshopper_Sparrow_0039_115980.jpg,White_Breasted_Nuthatch_0039_86166.jpg,0,sampling_speaker1,-70.4349816382,-0.0610388815403,a little colorful bird with web gold belly and back plumage
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-31.3702778512,-1.43936777115,a small bird with a yellow belly and a thin beak
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-26.7076823785,-0.325740158558,this bird has a white belly and breast with a grey head , green and wings
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-31.9966399968,-0.80646276474,the belly of the bird is white while the wings are yellow the body is white
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-31.3663169999,-1.33186781406,a small bird with a white belly , a light brown head and yellow stomach with a tiny pointed
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-46.2784978259,-0.197364062071,a small black bird with a noticeable cheek patch that has a white throat
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-25.8491456943,-0.194298744202,this bird has a black and a white belly , with a pointy bill
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-26.0235052151,-0.11186709255,this bird has a short bill , a fluffy brown back , a white belly
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-38.5588548415,-0.153477787971,this bird is a white and white in color
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-25.2538479232,-1.41534280777,a small bird with a white crown and a yellow belly
+Sayornis_0130_98678.jpg,Swainson_Warbler_0016_174705.jpg,0,sampling_speaker1,-31.3401992128,-0.177904725075,this small bird has a white colored abdomen and breast , it has a grey head and throat ,
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-32.4500020951,-1.12054228783,a small bird with a yellow breast and a yellow crown and nape , white bill
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-24.4518336769,-1.83924818039,this bird has a orange crown , a white belly , and a small bill , and gray breast
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-30.3271820891,-0.137058541179,the bird has a white and orange bill and black primaries
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-25.5946738639,-0.0782009661198,this bird has an orange breast , a white head and throat , black and an orange beak
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-30.4897701272,-0.101016819477,this bird is black and white in its neck with a yellow beak and medium sized wings , and
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-24.5997889629,-0.279134571552,this is a white bird with a black throat and a grey and yellow beak
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-33.6286715519,-0.972632467747,the bird has a small and a black bill
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-43.6654447092,-0.17283667624,white and orange feet and a bird with grey and black head
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-26.0287233432,-0.148206412792,a bird with a black bill , white crown and yellow throat and white breast
+Least_Tern_0129_153449.jpg,Northern_Flicker_0095_28938.jpg,0,sampling_speaker1,-33.0494636413,-0.115938410163,this bird has a white crown with white and orange bill and black in color
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-50.0125156336,-0.0621975064278,a medium size bird with white neck and a dark grey breast and a petite tuft of feathers around
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-45.0808396986,-0.00310158729553,a brown bird with white breast and stomach has brown wings
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-26.6883460003,-0.0372270345688,a small bird with a small triangular bill , white eyebrow , and brown eyebrow , and striped black
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-59.9895677619,-0.0070698261261,this small bird features brown from blending to around its eyes , white beak to thin gray from from
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-39.5312907754,-0.00844216346741,this bird is almost all white body with a brown feathers and a white throat and a small orange
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-42.3235887865,-0.0205330848694,this little bird has a thin brown beak , black eyebrow and light brown , black superciliaries , white
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-40.6949195924,-0.480401039124,a white bird with orange beak and black stripes
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-29.1400580644,-0.0488311052322,this bird is brown with black feathers and white stripes on its breast
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-48.4903833181,-0.0099972486496,long dark gray yet medium sized bird with a long brown tarsus and white feathers and a thick beak
+Mockingbird_0042_81728.jpg,Evening_Grosbeak_0078_38051.jpg,0,sampling_speaker1,-35.189217245,-0.00763893127441,a small bird with a white eyebrow , brown belly and white markings
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-19.154951442,-0.00679539144039,this is a white bird with black wings and a large black nape and a large beak
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-27.1736760344,-0.038421779871,this is a black bird with a long , thick pointy beak
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-37.7197304232,-0.0701790750027,the bird has a long black and a pointy beak
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-33.0686202174,-0.0100871026516,this large black bird has a striped head and long black beak
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-19.8908996907,-0.0676662772894,this bird has a brown crown , a white belly , and a black bill
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-23.9810203935,-0.0279212594032,this bird has a white breast and is a long thin black bill
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-24.5628793549,-0.292968213558,the bird has a small black bill that is sharp and pointed , the head compared to its body
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-44.015815526,-0.0248063206673,this large bird has a very thin body , dark wings that is a black , pointed bill a
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-24.7421891658,-0.0961652249098,this is a grey bird with white and a black tail and a pointy black beak
+Ringed_Kingfisher_0071_72958.jpg,Yellow_Throated_Vireo_0073_159583.jpg,0,sampling_speaker1,-29.1162331423,-0.0212546288967,this bird is long , black , and is in color with a large beak , and brown
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-37.861510848,-0.0581939592957,this bird is grey with a white head and a grey on the wings , and dark brown crown
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-29.9240036132,-0.149081066251,this bird has a fluffy breast , a fluffy crown and head with orange feathers with a white cheek
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-32.2738032231,-0.277457743883,this is a small yellow bird with dark orange on it has a white head and black eyes
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-24.6104269407,-0.17415368557,this is a dark gray bird with a white belly and orange orange beak
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-22.9264927337,-0.029581785202,this brown bird has a fluffy orange crown and a small beak
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-27.7914911403,-0.129830211401,the bird has a orange crown and red eyering a small bill
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-34.4311190299,-0.150354325771,a bird with a white throat and gray breast , a fluffy orange bill , with a white eyering
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-28.4000290107,-0.13356345892,a small round orange bird with a small head and white fluffy orange beak and an orange eyes
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-32.9382129745,-0.101450741291,a very small bird with a orange crown , light orange beak and fluffy breast
+Chipping_Sparrow_0005_108931.jpg,Brewer_Blackbird_0026_2625.jpg,0,sampling_speaker1,-35.3770220221,-0.112240843475,a very round and white bird with a small head and fluffy orange beak
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-77.5809153374,-0.635519146919,this unique colored bird has feathers that are appear behind sticks for with some patches relative to his comparison
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-75.8001367235,-0.537763893604,this magnificent magnificent out of brown , predominantly white supercilliary , with vivid matches covering its entire appears bits
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-73.7511680386,-0.24151237309,a multi-toned green long-necked colorful bird with a long tarsus and red body and a wide
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-92.585474069,-0.248149842024,this bird is larger colors with vivid see below *invalid* , grey and red on front edge comparison extra
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-78.1539127118,-0.102912895381,this mainly gray , reddish-orange primarily red bird had white wings fade tail and head and black coloring see
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-77.8308766451,-0.586776018143,this pure white bellied bird has brown dusky slight reflect from its throat to up to the center curious
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-81.437504064,-1.14137637615,a smaller smaller sized bird stands unusual mostly multiple into a small yet primarily magnificent tern that multi-colored greens
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-70.7860409997,-0.347636640072,this beautiful fuzzy blue bird an avian with its plumage which are perched , but also has a primarily
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-75.4865242211,-0.462214887142,this larger bird is mostly brown , but lime to large white , perched highlights whose bottom except for
+Blue_Grosbeak_0038_37095.jpg,Western_Meadowlark_0003_78864.jpg,0,sampling_speaker1,-90.8500624711,-0.837513208389,a larger bird with a hook dainty than most looking mask that's golden singing irridescent indigo bird as compared
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-34.2039437228,-1.56668257713,a dark green bird with a white breast , brown wings and tail
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-41.9458837797,-0.0779175758362,a small bird with a black-brown a white belly , back , and breast with a small yellow bill
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-25.7878866222,-0.0946536064148,this is a brown bird with a yellow neck and a yellowish brown crown and a small bill
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-30.8849613269,-0.0482606887817,this little bird has a yellow belly and breast with a small head
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-57.1857991531,-0.0978140830994,the bird has a small but mostly yellow body and chest then a black head with a indigo stripe
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-40.0631363073,-0.0658633708954,this bird has a speckled breast , breast and yellow and crown with a small bill
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-48.8188505656,-0.168546438217,the white bird has yellow breast and abdomen , brown colored side
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-51.0052377176,-2.0320854187,this is a small , brown bird with black , thing not tiger and white patches on the back
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-47.5559911779,-0.0692658424377,this yellow bird has a dark green throat and speckled chest and a grey bill
+Swainson_Warbler_0016_174705.jpg,Mockingbird_0098_81117.jpg,0,sampling_speaker1,-44.0709356423,-0.0422670841217,small bird with big wings and a yellow bill with a yellow covering its head and tan body
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-36.6662143939,-0.236997306347,this small bird has a mostly white breast and a black chest
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-26.2520552271,-0.22886800766,a bird with a yellow breast and a small black head and white beak
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-40.4407007686,-0.0733394622803,this bird has pretty yellow and black head , and wings and a black body , with a short
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-26.2064329827,-0.209535598755,a small bird with a yellow body and a white face and a black crown
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-46.2664914682,-0.439502716064,a colorful bird with a various shades of a triangular yellow bill , and breast
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-41.6089316653,-0.219741821289,small black and small medium sized bird with yellow black beak and medium sized eyes
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-25.2387903828,-0.374059438705,a small bird with a yellow and black beak
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-44.8976492553,-0.731670618057,a grey bird with a yellow throat and belly and grey wings
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-53.0028438963,-0.219759225845,the size of bird is a bright yellow and gray over the head with a medium curved beak in
+Evening_Grosbeak_0078_38051.jpg,Yellow_Throated_Vireo_0055_159532.jpg,0,sampling_speaker1,-44.1877346165,-0.120282053947,a small bird , with a black beak , white belly and blue , primary and dark wing feathers
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-28.1129858281,-0.946741819382,the bird has a small head and red eyering that is grey as well as a short bill
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-29.8070370953,-1.45314502716,this bird has a reddish red breast and belly and black wings with white wingbars and white tail
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-49.2613250854,-0.732763528824,small , very small round bird , plump and flat red , and small bird , with reddish beak
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-20.1450783828,-1.67498755455,this bird is black , white , red and brown in color with a black beak and red eye
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-45.1780382257,-0.757157087326,this small bird has a beak , a brown head , orange belly with black stripes and pinkish feet
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-40.0066434783,-2.25024652481,small bird with red , black beak and red eye , small red , black the head is short
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-46.37942866,-1.5741558075,the bird has red feet and primaries and a gray body
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-31.8862470869,-1.62994027138,this bird has a dark black crown , a red belly , wingbars , and a short rounded bill
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-49.7026779187,-1.47006487846,this tiny proportioned black bird has small , red eyes and a tiny beak
+Pine_Grosbeak_0025_38443.jpg,Florida_Jay_0110_64605.jpg,0,sampling_speaker1,-32.9728996816,-0.855675339699,this bird has a light red face , brown wings and a small head , a short bill
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-27.8544994965,-1.47519433498,this bird is dark gray and white spotted wings and a black bill
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-26.3351609217,-1.44006025791,this is a white bird with black and white feet
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-46.7965183377,-1.31661307812,this slender and white speckled bird almost the head , breast of the bird is white , the bill
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-16.995977161,-1.15554285049,this is a white bird with black and white wings and a pointy beak
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-26.1282582935,-1.18303155899,a small sized white bird that has a black and white throat and a small bill
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-25.001303979,-1.8611805439,a small bird with a white spotted underbelly and a small head
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-21.4836873364,-1.68460679054,this bird has a white belly and breast with a black cheek patch and a brown crest
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-13.4085814656,-1.00147676468,this bird is white and black in color with a black beak and black eye rings
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-39.7786978954,-1.29327630997,the bird has a white colored chest and a small black crown
+Downy_Woodpecker_0027_183940.jpg,Barn_Swallow_0089_131934.jpg,0,sampling_speaker1,-30.4508746903,-1.72874474525,this white and black bird has a long , flat bill with the wings are white
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-27.1853893011,-0.384977817535,the small bird has a yellow belly and grey coverts and a black wingbars
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-33.7189350818,-0.437161564827,this little bird is mostly light green with black wings and little tail
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-28.5302479658,-0.475928544998,a small bird with a yellowish head , and brown wings , and a short yellow bill
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-49.3994642312,-0.388571739197,round green and yellow bird with grey belly and breast
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-57.6721212779,-0.491337895393,bird that has a black wings and retrices
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-40.6975285251,-0.180095672607,a white bird with a yellow head , dark brown wings and tail
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-43.1417006112,-0.500627040863,small bird with a gray wing bars , brown breast , pale yellow feet , and belly , yellow
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-34.9100565687,-0.183667421341,this bird has a small bill and a yellow eye body that is white accents
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-11.7760822089,-0.386491179466,this bird is yellow and white in color with a skinny beak , and black eye rings
+Bay_Breasted_Warbler_0026_159744.jpg,Mourning_Warbler_0031_166494.jpg,0,sampling_speaker1,-56.3658801341,-0.426542282104,the small which is predominantly bird is brown with a yellow throat , breast and rump , with colored
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-35.9004024727,-0.565337240696,bird with brown wings and markings
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-39.0058754863,-0.00551187992096,brown bird with brown beak , and brown feathers and white speckled black cheek patch
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-54.623572823,-0.286125838757,birds throat is brown wings and throat , crown with white wingbars are light brown with black wingbars ,
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-27.4533164626,-0.963288784027,this bird is brown and small with a black cheek patches
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-26.644498716,-0.0140687227249,this little bird has a brown body feathers with a white belly and a brown neck
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-31.5634428798,-0.643016934395,this bird has a black body and white speckled brown head and wings and breast with a small pointy
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-23.1316808762,-0.99687474966,a small sized bird with a grey and grey belly and a grey head
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-10.5257606646,-0.15929454565,a small sized bird that has tones of brown and a very small sized pointed bill
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-35.2783280856,-0.0465960502625,this small bird has brown eyerings , orange beak and brown eyerings
+Field_Sparrow_0067_113448.jpg,Blue_Winged_Warbler_0030_162088.jpg,0,sampling_speaker1,-19.7822775676,-0.333611369133,this bird is gray and black in color with a brown and brown beak and black eye rings
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-33.0129624698,-0.55033916235,a white bird with a tiny beak , breast , white throat , abdomen , and grey crown and
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-22.9598568772,-0.427316963673,this is a white bird with a white breast and a brown beak
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-29.3436847318,-0.693607151508,the bird has a grey crown , throat , breast and a white breast and belly , black bill
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-29.2562360124,-0.400095194578,a grey and white bird with a long black tarsus and pointy beak
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-29.103396711,-0.496160626411,a bird with a black breast , white throat and wings and a white crown
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-39.6701899936,-1.03589904308,this bird has a white breast and black wing feathers with a red patch of blue head
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-31.112549089,-0.680558264256,a smaller bird with a grey wings , back and a white throat and tail
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-22.8556073076,-0.483377158642,a black and white bird with a blue tail and a small beak
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-26.458996665,-0.904697299004,this small bird has a white breast and belly , a white and small compared to its body
+Tree_Swallow_0117_134925.jpg,Cedar_Waxwing_0113_178627.jpg,0,sampling_speaker1,-32.195231589,-0.480651378632,this bird has brown crown , a gray back , white wings and a black cheek patch
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-32.2912620822,-0.516911685467,a sparrow with orange throat , breast , side , and cream colored throat , and has a cream
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-41.9713292385,-0.509441137314,a small bird with a brown and black beak , flat orange small claws
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-34.5032600928,-0.664646267891,a small bird with a triangular bill , white breast and orange feet , and brown side
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-33.6297797047,-0.461169958115,this small bird has a brown body and breast and a short but small bill
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-42.9682779087,-0.736261665821,sparrow with brown wings and white throat , orange on the sides and tail are grey with streaks of
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-33.4046021987,-0.487596154213,this is a brown bird with a very round body , a cream back and a short orange beak
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-35.3716765687,-0.511078000069,this is a small bird with a white throat and pointed beak
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-37.4089054684,-0.880445361137,this bird looks like a mixture of brown and white , mostly white bird , and a small brown
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-31.1875325943,-0.510811626911,this small bird has a white breast , brown & throat and an orange beak
+Henslow_Sparrow_0042_796595.jpg,Mockingbird_0046_81086.jpg,0,sampling_speaker1,-46.9208989382,-0.72955095768,small bird with orange breast , brown side , white eye , white abdomen patches , orange tarsus and
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-29.7507759712,-0.753508269787,this bird has a white body , a yellow breast , and gray wings
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-45.4345636371,-0.78939729929,this white bird has a grey wing , gray beak and medium thick short orange tarsus and feet and
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-35.2289814375,-1.00210428238,a large white bird with grey wings , with a white crown and some yellow in its coverts
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-36.1319638769,-0.916010081768,a small bird with a white feathers on it's outer rectrices and a gray beak
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-11.2625453092,-1.1322388649,this bird is white and grey in color with a long curved beak , and black eye rings
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-27.4726296972,-0.974889338017,a medium sized white bird with a black head , and white wings , and a short gray bill
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-38.652128886,-1.36699473858,bird has an enormous white body , with black and gray feathers covering the rest of it's body
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-32.8074789258,-1.29298746586,bird with white wingbars and a long hooked orange bill
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-52.0439958703,-1.2026283741,medium sized bird mostly white and white bird with an exotic large thick beak
+Herring_Gull_0042_46637.jpg,Ringed_Kingfisher_0005_73086.jpg,0,sampling_speaker1,-30.8415912216,-0.837678551674,this large bird is brown with white and white and a short orange beak
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-26.6292600627,-1.39506053925,a small bird with a white belly and chest , and a black feathers
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-26.9058388949,-1.20921730995,a bird with a white belly , a black head and white wings
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-26.012562602,-0.122758150101,this is a white bird that has a yellow belly , grey breast , and grey wings and an
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-29.8414281141,-0.117233991623,this medium sized bird has a yellow throat and a grey belly and a pointy bill
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-31.9924456457,-0.397776246071,a yellow , and white bird with grey head with a small beak and a white chest
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-24.6311520148,-0.942136287689,this bird has a brown crown , a long , and a yellow bill
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-27.4953429827,-2.07379889488,this bird has a white belly and breast , with a a white breast , and abdomen
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-22.4030642989,-1.54848814011,this bird is white with a black spots on its belly
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-34.4519037932,-1.61190593243,this bird has a short , a white head and bill that is black with a white cheek patches
+Yellow_Breasted_Chat_0032_21823.jpg,Field_Sparrow_0006_113839.jpg,0,sampling_speaker1,-20.4221964965,-0.883597671986,the bird has a white belly and abdomen , with a black cheek patch
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-30.6434147855,-0.213517695665,this bird has a speckled belly with a pink breast and long pointy bill
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-39.1320047522,-0.0122473239899,a small bird with white speckled underside and eyebrows , brown eyebrows
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-26.4905222248,-0.0131750106812,this is a small bird with a brown speckled head and pointy beak
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-36.4055003193,-1.04513430595,a medium bird with black beak , red eyes , white eyebrows , red feet , and gray body
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-54.0733855359,-0.00391888618469,a small brown bird with long orange curved beak and bright brown body
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-24.58095448,-0.0294704437256,this bird has a white belly and breast with brown speckled wings , and pointy beak
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-47.8639460483,-0.00252056121826,fade with small pointed brown beak , white eyes and brown speckles covering its body , and pink legs
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-35.0595759499,-0.0485782623291,bird has sharp pointed beak with red feet , brown breast , brown beak , black throat , and
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-39.9301979328,-0.0519168972969,this bird has brown wings and a pointy bill in color
+Carolina_Wren_0095_186561.jpg,Horned_Puffin_0062_100693.jpg,0,sampling_speaker1,-28.3665986114,-0.0029604434967,bird with brown and brown speckled belly and breast , gray wings with a long pointy bill
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-43.6926447024,-0.460611641407,the bird has a yellow belly and body with a round and a tiny bill
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-53.5674258061,-0.167363941669,this bird is all white grey/brown particularly and has a black crown
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-38.0292863157,-0.194385036826,this bird is mostly brown with a black and gray head
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-39.1416639379,-0.387669503689,a medium sized bird with a yellow bill that curves upright
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-44.1675527434,-0.270983219147,this small , brown bird has a very round head and a black bill
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-50.5030274814,-0.436412453651,a round bird with weird twig looking belly and has a brown body , black feet and a small
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-39.1882230671,-0.407822787762,this is a black bird with yellow , green feet and a bill
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-36.2694969534,-0.41308811307,the bird has a green and a black eyering and breast
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-22.3733207798,-0.408822745085,this bird has a speckled belly and breast with a short pointy bill
+Fish_Crow_0023_26037.jpg,Black_Tern_0059_144159.jpg,0,sampling_speaker1,-64.002227704,-0.269983768463,a small bird with a black feet , necklace yellow-tipped leads olive-colored looking a short bill which is an
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-21.3975921022,-0.469035714865,this bird has a white belly and black crown with a black superciliary and white wings
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-36.1436637937,-0.324282169342,this bird is white and has a long flat beak
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-31.4936435112,-0.773615717888,a small bird with a white eye patch and a pointed black beak
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-46.0085903087,-0.48817050457,a white bird with a black crown and white throat and belly
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-33.3089751037,-0.630515217781,a small , white bird with gray wings and a tall pointed bill
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-36.3896851581,-0.414959907532,this is a bird that is orange with a white belly , brown wings and a skinny and pointy
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-35.596232256,-0.39698022604,small white bird with black tarsus and white patch and orange beak
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-43.0948929601,-0.366558760405,a white pointed and black bird with a speckled body , with black and a pointy beak
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-35.7005042985,-0.459683299065,a small white and black bird with a gray feathers with a black beak
+Downy_Woodpecker_0027_183940.jpg,Yellow_Headed_Blackbird_0086_8487.jpg,0,sampling_speaker1,-22.397850868,-0.411560356617,this bird is brown and black in color with a catching black beak and white eye rings
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-54.3548019764,-0.739384889603,yellow colored black and bird with brown and white beak , a long feathers on the eye
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-42.4472763177,-0.183323383331,a brown bird , small yellow , gray , black and white striped tail with short black bill ,
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-27.2436521674,-0.0477614402771,the bird has a yellow bill that is sharp
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-27.2892459147,-1.03412842751,this little bird has a gray belly and crown with a sharp little pointy bill
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-37.6090669997,-2.78734564781,this is a brown bird with a pointed beak , a white superciliary ring , and black secondaries
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-31.7043404741,-1.55379056931,a small bird with a black pointed bill , white eyering , small gray feet , and grey and
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-28.3852477585,-1.1954318285,this bird is a white , and black , it has a pointy beak
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-39.780615285,-0.0768904685974,small grey bodied bird with yellow secondaries and grey head and body
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-41.8702167895,-0.0277097225189,a very small gray bird with a black spot around it's eye patch and yellow beak
+Worm_Eating_Warbler_0045_795518.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-41.6794880843,-0.0631930828094,a small bird with a yellow body and green and wings
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-45.7356754235,-0.843266427517,the bird has a deep green face and breast and throat , with grey secondaries
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-63.8186236236,-0.481636762619,small bird , featuring different shades of brown with below black , brown beady eyes
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-89.2693569645,-0.67180365324,a variety of very tiny bird , small and iridescent grey/brown goldish hues tailfeather , copper strikingly colors that
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-71.3401146975,-0.308341890574,a distinctive bird with grey head grown and black shaggy fan blue-black as well as a black covering it's
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-47.7508535146,-0.383423447609,a small colorful bird with a black face and blue body
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-59.1652780188,-0.477903574705,this is a grey bird with a strong , / black pointed beak and a speckle
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-27.2925167536,-0.715189933777,the bird has a grey body is black eyering and black and yellow bill
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-48.8424513582,-0.447014391422,this dull is a brown bird with a black crown and a plumed spot
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-57.9774328912,-0.979082465172,a bird with a orange bill and brown marks normal sized raised color that curves downwards , and a
+Cape_Glossy_Starling_0010_129352.jpg,Western_Gull_0006_53504.jpg,0,sampling_speaker1,-50.3360808697,-0.94761967659,this is a bird with a yellow eyering and a dark bill
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-55.7833840958,-0.222837179899,this is a large black , tan beat and purple bird with a white conical beak , and eye
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-45.869160601,-0.216353476048,this is a bird stripped than brownish-gray bird with a gray wing and a blue crown
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-38.9348170801,-0.529227256775,this is a black , brown bird with white on its head and has lighter specks on its side
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-80.0845609112,-0.187142193317,this black reddish-orange billed bird has a metallic detail white lining supercilary circles over , side and webbed feet
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-80.5311191855,-0.263632178307,this smaller bird has a tall yello shaped black bill , several small yellow vertical patching his claws ,
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-51.292450956,-0.489806830883,the yellow beaked bird is dull fully when compared to its body except for its belly , which stands
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-48.0693664554,-0.753592789173,this majestic thigh of the bird is a black and brown in color
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-69.2570536247,-0.0981191396713,this medium bird features black and yellow plumage wards and bright snubbed plumage
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-66.3823567108,-0.050717741251,this duck has a black head black and yellow sections
+Boat_Tailed_Grackle_0035_33750.jpg,Brown_Thrasher_0069_155151.jpg,0,sampling_speaker1,-67.9965193223,-0.340390861034,this glossy smaller bird has a thing bill , blues , and while it's entirely specimen is covered in
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-29.5900183321,-0.940103530884,a small sized bird that is mostly brown with a white belly with a small pointed brown spots on
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-45.2538384142,-0.247202545404,this bird are quite white in color and brown striped color with a skinny orange beak and black eye
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-12.2403380047,-0.244574308395,this bird is white and black in color with a black beak , and black eye rings
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-17.8388538527,-0.290484070778,this bird is white and brown in color with a brown beak , and black eye rings
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-49.7065462525,-0.298571884632,this pale orange colored bird has head , and white belly and brown and black small pointed beak
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-50.6391260625,-0.880907893181,the bird has a light brown feathers under the belly and a tan patch of brown face
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-37.5101178816,-0.245199352503,this bird is mostly brown with a brown mottled white stripes , and a large pointy beak
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-30.7086074461,-0.177454471588,this bird is covered with black , white and has a long pointy bill
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-43.2763948659,-0.34593808651,a small varying shades of gray bird with a brown speckled pattern and a white under the rest of
+Baird_Sparrow_0041_794582.jpg,Brown_Thrasher_0105_155187.jpg,0,sampling_speaker1,-23.030453873,-0.299124836922,this bird has a speckled belly and breast with a short pointy bill
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-36.2289805778,-0.326344519854,the bird has a white wings with a thick curved beak
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-44.7329146483,-0.507656931877,a large white bird with a tan beak with gray , yellowish white spot on the head and brown
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-34.7955058964,-1.81952321529,this bird is white and brown in color
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-14.2983790679,-0.111423045397,a large sized bird that has webbed feet and a curved bill
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-32.712432632,-0.0335333943367,a large bird with a medium sized head and a hooked bill that curves large body
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-36.7456807075,-0.404010802507,a large bird with a short bill , and feet
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-34.0232906956,-0.0902960598469,grey and white bird with a long curved black beak
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-31.6912929356,-0.13007684052,this is a white bird with a white grey body and a grey beak with a long and webbed
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-23.8142783591,-0.270981043577,this bird is white , yellow in color with a large beak , grey eye rings , and white
+California_Gull_0088_41296.jpg,Bank_Swallow_0016_129791.jpg,0,sampling_speaker1,-36.0153215319,-0.324606865644,a yellow and white bird with a long curved beak and grey wings
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-47.725141677,-3.61320352554,this tiny bird has a brown body and head area , long , beak with white wings
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-30.4370301581,-2.96616840363,this bird has a black bill , with a white belly and breast and a brown primaries
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-26.8462995615,-2.62508130074,the bird has a small bill that is amber into a white
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-52.1959115126,-0.0209090709686,the bird has yellow and a black head , a black throat and a snubbed half cream colored vent
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-36.0850722621,-0.631419420242,this who is a small bird with a yellow belly and breast and a large white speckled grey beak
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-25.6345710211,-2.01508116722,this bird has a white belly and breast , with a gray covering its back
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-19.7942363516,-1.93828451633,this bird has a speckled belly and breast with a short pointy bill
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-40.7158071802,-2.55003190041,this bird has a long beaked straight bill , a white belly
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-37.7747069741,-0.934391617775,this bird has a yellow breast , a brown wing , and long hooked beak
+Western_Meadowlark_0018_77880.jpg,Western_Wood_Pewee_0076_98002.jpg,0,sampling_speaker1,-27.2222579891,-0.0649447441101,the bird has a yellow abdomen and throat , as well as a black breast and white eyes
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-30.041801724,-0.0190068632364,a black and orange in bird with a black patch , and white and orange beak
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-34.9382295441,-0.00861215591431,a tiny , with short orange beak , black crown with black wings , and black cheek patch ,
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-35.6088815756,-1.34336161613,the beak is brown and a small and pointed beak is orange
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-32.9957192458,-0.135632708669,a small orange and bird with orange feathers and a short black bill
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-29.5211168922,-0.0627384185791,this is a small black bird with a black beak and a orange and nape
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-29.3000001093,-0.0168607085943,a bird with black beak , and black crown and orange and orange feet
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-38.7737832269,-0.101870939136,a very small bird with a small beak , nape , a black black back with orange spot of
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-26.7403094545,-0.351820200682,the small bird is black and has a very short beak with a very small , orange , it's
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-24.6996592173,-0.0674853250384,a tiny bird with a tiny orange bill and a black crown
+Barn_Swallow_0089_131934.jpg,Chuck_Will_Widow_0037_796961.jpg,0,sampling_speaker1,-35.1014095794,-0.0329837054014,a bird with black body with black beak and small black wings
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-24.329147774,-0.617152988911,this is a bird with a white belly , large feet and a black head , and a pointed
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-27.6459351035,-0.571769475937,a medium black bird with a large black and white head and white wings
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-33.0597577333,-0.502380251884,the bird has a black crown feathers that are white
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-24.5027941041,-0.705401778221,a bird with a white belly , wings , and a white head and a gray back
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-29.0932889326,-0.577107965946,the bird is white with black wings and a white wings and has a black head
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-34.7357850961,-0.61064696312,this bird has a black bill , white and a red crown and a orange cheek patch along with
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-41.9800632887,-0.509925603867,a larger bird with black head and white wings and tan body feathers
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-25.8602031303,-0.60421860218,a medium sized bird with a white head that has a bright red throat and black wings
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-26.9416399981,-0.60082679987,a large bird with a white body , black wings and a red spot on it's head and white
+Artic_Tern_0023_140898.jpg,Cliff_Swallow_0058_133060.jpg,0,sampling_speaker1,-16.1423345835,-0.621688842773,this is a black and white bird in color with a red beak , and black eye rings
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-34.9149869306,-0.638184726238,the bird has white abdomen and breast , with grey abdomen and side
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-36.578751502,-0.640687525272,a white bird with a grey head and crown , with a short black , and a long tail
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-34.1824734914,-1.22370183468,the bird is white with a black eyes and skinny long , pointed beak
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-36.7222511291,-1.41420757771,a bird with a white belly and a brown body
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-29.8782122618,-1.44680643082,a bird with brown and white speckled wings , white wings , and tail , and a dark gray
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-28.215447942,-0.921000957489,this is a grey bird with a white wing , orange beak , and white wings and black tail
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-30.8995912304,-0.827995061874,a small bird with white eyebrows , white and a short legs , and a grey beak
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-42.2691038465,-0.661974966526,this bird has white colored breast and with a very short tail
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-41.041584078,-0.801568984985,a small with a white eye and a pointy beak that curves downwards
+Dark_Eyed_Junco_0083_66449.jpg,Geococcyx_0099_104134.jpg,0,sampling_speaker1,-40.4238305308,-0.679685890675,this bird is white with white eyebrows and has a gray side , it and throat , and an
