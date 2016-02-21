@@ -34,6 +34,7 @@ with open(results_file) as results_f:
         records.append(parts)
 
 np.random.shuffle(records)
+print len(records)
 
 with open(dest_file, "w") as dest_f:
     print >>dest_f, "id,caption,img1,img2,tgt_id"
