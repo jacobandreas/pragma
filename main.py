@@ -86,6 +86,7 @@ class CompiledSpeaker1Model(object):
         self.scene_encoder = LinearSceneEncoder("CompSpeaker1Model", apollo_net, config)
         self.string_decoder = MlpStringDecoder("CompSpeaker1Model", apollo_net, config)
 
+        self.config = config
         self.apollo_net = apollo_net
 
     def forward(self, data, alt_data, dropout):
@@ -97,12 +98,17 @@ class CompiledSpeaker1Model(object):
                 [self.scene_encoder.forward("alt%d" % i, alt, dropout)
                  for i, alt in enumerate(alt_data)]
         l_cat = "CompSpeaker1Model_concat"
+        l_ip = "CompSpeaker1Model_ip"
+        l_relu = "CompSpeaker1Model_relu"
         self.apollo_net.f(Concat(
             l_cat, bottoms=[l_true_scene_enc] + ll_alt_scene_enc))
+        self.apollo_net.f(InnerProduct(
+            l_ip, self.config.hidden_size, bottoms=[l_cat]))
+        self.apollo_net.f(ReLU(l_relu, bottoms=[l_ip]))
 
         fake_data = [d._replace(description=s) for d, s in zip(data, samples)]
 
-        losses = self.string_decoder.forward("", l_cat, fake_data, dropout)
+        losses = self.string_decoder.forward("", l_relu, fake_data, dropout)
         return losses, np.asarray(0)
 
     def sample(self, data, alt_data, dropout, viterbi, quantile=None):
@@ -112,10 +118,15 @@ class CompiledSpeaker1Model(object):
                 [self.scene_encoder.forward("alt%d" % i, alt, dropout)
                         for i, alt in enumerate(alt_data)]
         l_cat = "CompSpeakerModel1_concat"
+        l_ip = "CompSpeaker1Model_ip"
+        l_relu = "CompSpeaker1Model_relu"
         self.apollo_net.f(Concat(
             l_cat, bottoms=[l_true_scene_enc] + ll_alt_scene_enc))
+        self.apollo_net.f(InnerProduct(
+            l_ip, self.config.hidden_size, bottoms=[l_cat]))
+        self.apollo_net.f(ReLU(l_relu, bottoms=[l_ip]))
 
-        probs, sample = self.string_decoder.sample("", l_cat, viterbi)
+        probs, sample = self.string_decoder.sample("", l_relu, viterbi)
         return probs, np.zeros(probs.shape), sample
 
 
@@ -127,9 +138,11 @@ class SamplingSpeaker1Model(object):
         self.apollo_net = apollo_net
 
     def sample(self, data, alt_data, dropout, viterbi, quantile=None):
+        LAMBDA = 0.02
+        N_SAMPLES = 100
         self.apollo_net.clear_forward()
         if viterbi or quantile is not None:
-            n_samples = 10
+            n_samples = N_SAMPLES
         else:
             n_samples = 1
 
@@ -149,7 +162,8 @@ class SamplingSpeaker1Model(object):
             speaker_scores[:,i_sample] = speaker_logprobs
             listener_scores[:,i_sample] = listener_logprobs
 
-        scores = listener_scores
+        #scores = listener_scores
+        scores = LAMBDA * speaker_scores + (1 - LAMBDA) * listener_scores
 
         out_sentences = []
         out_speaker_scores = np.zeros(len(data))
@@ -171,9 +185,28 @@ class SamplingSpeaker1Model(object):
 
         return out_speaker_scores, out_listener_scores, out_sentences
 
+def props(datum):
+    props = {(p.type_index, p.object_index) for p in datum.props}
+    props = {(i,j) if i not in (2,3) else (i,0) for i,j in props}
+    return props
+
+def similar(sprops, alt_props):
+    out = []
+    while len(out) < 5:
+        r = np.random.randint(len(alt_props))
+        if len(sprops ^ alt_props[r]) <= 4:
+            out.append(r)
+    return out
+
 def train(train_scenes, test_scenes, model, apollo_net, config):
     n_train = len(train_scenes)
     n_test = len(test_scenes)
+
+    train_props = [props(d) for d in train_scenes]
+    test_props = [props(d) for d in test_scenes]
+
+    train_similar = [similar(p, train_props) for p in train_props]
+    test_similar = [similar(p, test_props) for p in test_props]
 
     opt_state = adadelta.State()
     for i_epoch in range(config.epochs):
@@ -190,11 +223,17 @@ def train(train_scenes, test_scenes, model, apollo_net, config):
 
         n_train_batches = n_train / config.batch_size
         for i_batch in range(n_train_batches):
+            if i_batch % (n_train_batches / 10) == 0:
+                print ".",
             batch_data = train_scenes[i_batch * config.batch_size : 
                                       (i_batch + 1) * config.batch_size]
-            alt_indices = \
-                    [np.random.choice(n_train, size=config.batch_size)
-                     for i_alt in range(config.alternatives)]
+            batch_similar = train_similar[i_batch * config.batch_size : 
+                                          (i_batch + 1) * config.batch_size]
+            #alt_indices = \
+            #        [np.random.choice(n_train, size=config.batch_size)
+            #         for i_alt in range(config.alternatives)]
+            #alt_data = [[train_scenes[i] for i in alt] for alt in alt_indices]
+            alt_indices = [[np.random.choice(s) for s in batch_similar] for i in range(config.alternatives)]
             alt_data = [[train_scenes[i] for i in alt] for alt in alt_indices]
             
             #apollo_net.clear_forward()
@@ -204,14 +243,19 @@ def train(train_scenes, test_scenes, model, apollo_net, config):
 
             e_train_loss -= lls.sum()
             e_train_acc += accs.sum()
+        print
 
         n_test_batches = n_test / config.batch_size
         for i_batch in range(n_test_batches):
             batch_data = test_scenes[i_batch * config.batch_size :
                                      (i_batch + 1) * config.batch_size]
-            alt_indices = \
-                    [np.random.choice(n_test, size=config.batch_size)
-                     for i_alt in range(config.alternatives)]
+            batch_similar = test_similar[i_batch * config.batch_size : 
+                                          (i_batch + 1) * config.batch_size]
+
+            #alt_indices = \
+            #        [np.random.choice(n_test, size=config.batch_size)
+            #         for i_alt in range(config.alternatives)]
+            alt_indices = [[np.random.choice(s) for s in batch_similar] for i in range(config.alternatives)]
             alt_data = [[test_scenes[i] for i in alt] for alt in alt_indices]
             
             lls, accs = model.forward(batch_data, alt_data, dropout=False)
@@ -262,21 +306,21 @@ def run_experiment(name, cname, rname, models, data):
             d1 = data_by_image[img1][0]
             d2 = data_by_image[img2][0]
             for model_name, model in models.items():
-                for i_sample in range(10):
-                    speaker_scores, listener_scores, samples = \
-                            model.sample([d1], [[d2]], dropout=False, viterbi=False)
-                    parts = [
-                        counter,
-                        img1,
-                        img2,
-                        similarity,
-                        model_name,
-                        speaker_scores[0],
-                        listener_scores[0],
-                        " ".join([WORD_INDEX.get(i) for i in samples[0][1:-1]])
-                    ]
-                    print >>results_f, ",".join([str(s) for s in parts])
-                    counter += 1
+                #for i_sample in range(10):
+                speaker_scores, listener_scores, samples = \
+                        model.sample([d1], [[d2]], dropout=False, viterbi=True)
+                parts = [
+                    counter,
+                    img1,
+                    img2,
+                    similarity,
+                    model_name,
+                    speaker_scores[0],
+                    listener_scores[0],
+                    " ".join([WORD_INDEX.get(i) for i in samples[0][1:-1]])
+                ]
+                print >>results_f, ",".join([str(s) for s in parts])
+                counter += 1
 
 def main():
     apollocaffe.set_device(0)
@@ -308,7 +352,7 @@ def main():
         apollo_net.save("models/%s.base.caffemodel" % corpus_name)
         exit()
 
-    if job == "train.compiled":
+    elif job == "train.compiled":
         apollo_net.load("models/%s.base.caffemodel" % corpus_name)
         print "loaded model"
         train(train_scenes, dev_scenes, compiled_speaker1_model, apollo_net,
@@ -316,13 +360,13 @@ def main():
         apollo_net.save("models/%s.compiled.caffemodel" % corpus_name)
         exit()
 
-    if job in ("sample.base", "sample.compiled"):
-        if job == "sample.base":
+    elif job in ("sample.reasoning", "sample.compiled"):
+        if job == "sample.reasoning":
             apollo_net.load("models/%s.base.caffemodel" % corpus_name)
         else:
             apollo_net.load("models/%s.compiled.caffemodel" % corpus_name)
         print "loaded model"
-        if job == "sample.base":
+        if job == "sample.reasoning":
             models = {
                 "sampling_speaker1": sampling_speaker1_model,
             }
@@ -336,6 +380,9 @@ def main():
         run_experiment("one_different", corpus_name, name, models, dev_scenes)
         run_experiment("by_similarity", corpus_name, name, models, dev_scenes)
         run_experiment("all_same", corpus_name, name, models, dev_scenes)
+        exit()
+
+    assert False
 
 if __name__ == "__main__":
     main()
