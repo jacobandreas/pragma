@@ -8,7 +8,7 @@ import numpy as np
 
 N_PAIRS = 200
 MAX_DIFFERENCES = 4
-N_PAIRS_PER = N_PAIRS / (MAX_DIFFERENCES + 1)
+N_PAIRS_PER = N_PAIRS / MAX_DIFFERENCES
 
 def make_abstract():
     train_data, val_data, test_data = corpus.load_abstract()
@@ -24,8 +24,14 @@ def make_abstract():
     print len(by_prop)
 
     by_similarity = defaultdict(list)
+    keys = list(by_prop.keys())
+    keys2 = list(by_prop.keys())
+    np.random.shuffle(keys)
     for key1 in by_prop:
+        np.random.shuffle(keys2)
         for key2 in by_prop:
+            if key2 == key1:
+                continue
             similarity = len(set(key1) ^ set(key2))
             i_img1 = np.random.choice(len(by_prop[key1]))
             i_img2 = np.random.choice(len(by_prop[key2]))
@@ -40,7 +46,7 @@ def make_abstract():
             print >>id_f, "%s,%s,2" % (img1.image_id, img2.image_id)
 
     with open("experiments/dev/by_similarity/abstract.ids.txt", "w") as id_f:
-        for i in range(0, MAX_DIFFERENCES + 1):
+        for i in range(1, MAX_DIFFERENCES + 1):
             different = list(by_similarity[i])
             np.random.shuffle(different)
             for img1, img2 in different[:N_PAIRS_PER]:
