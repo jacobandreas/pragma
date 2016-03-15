@@ -139,6 +139,7 @@ class SamplingSpeaker1Model(object):
 
     def sample(self, data, alt_data, dropout, viterbi, quantile=None):
         LAMBDA = 0.02
+        #LAMBDA = 1
         N_SAMPLES = 100
         self.apollo_net.clear_forward()
         if viterbi or quantile is not None:
@@ -229,11 +230,10 @@ def train(train_scenes, test_scenes, model, apollo_net, config):
                                       (i_batch + 1) * config.batch_size]
             batch_similar = train_similar[i_batch * config.batch_size : 
                                           (i_batch + 1) * config.batch_size]
-            #alt_indices = \
-            #        [np.random.choice(n_train, size=config.batch_size)
-            #         for i_alt in range(config.alternatives)]
-            #alt_data = [[train_scenes[i] for i in alt] for alt in alt_indices]
-            alt_indices = [[np.random.choice(s) for s in batch_similar] for i in range(config.alternatives)]
+            alt_indices = \
+                    [np.random.choice(n_train, size=config.batch_size)
+                     for i_alt in range(config.alternatives)]
+            #alt_indices = [[np.random.choice(s) for s in batch_similar] for i in range(config.alternatives)]
             alt_data = [[train_scenes[i] for i in alt] for alt in alt_indices]
             
             #apollo_net.clear_forward()
@@ -252,10 +252,10 @@ def train(train_scenes, test_scenes, model, apollo_net, config):
             batch_similar = test_similar[i_batch * config.batch_size : 
                                           (i_batch + 1) * config.batch_size]
 
-            #alt_indices = \
-            #        [np.random.choice(n_test, size=config.batch_size)
-            #         for i_alt in range(config.alternatives)]
-            alt_indices = [[np.random.choice(s) for s in batch_similar] for i in range(config.alternatives)]
+            alt_indices = \
+                    [np.random.choice(n_test, size=config.batch_size)
+                     for i_alt in range(config.alternatives)]
+            #alt_indices = [[np.random.choice(s) for s in batch_similar] for i in range(config.alternatives)]
             alt_data = [[test_scenes[i] for i in alt] for alt in alt_indices]
             
             lls, accs = model.forward(batch_data, alt_data, dropout=False)
@@ -376,10 +376,11 @@ def main():
             }
 
         name = job.split(".")[1]
+        #name = "literal_speaker"
 
-        run_experiment("one_different", corpus_name, name, models, dev_scenes)
-        run_experiment("by_similarity", corpus_name, name, models, dev_scenes)
-        run_experiment("all_same", corpus_name, name, models, dev_scenes)
+        run_experiment("dev/one_different", corpus_name, name, models, dev_scenes)
+        run_experiment("dev/by_similarity", corpus_name, name, models, dev_scenes)
+        #run_experiment("all_same", corpus_name, name, models, dev_scenes)
         exit()
 
     assert False

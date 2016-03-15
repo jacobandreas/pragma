@@ -1,0 +1,6 @@
+id,target,distractor,similarity,model_name,speaker_score,listener_score,description
+0,814_9,814_5,0,compiled_speaker1,-6.14504215152,0.0,jenny is kicking the soccer ball
+1,830_0,830_3,0,compiled_speaker1,-7.11450454824,0.0,jenny is holding a pie
+2,861_1,861_6,0,compiled_speaker1,-4.08832257782,0.0,the bear is wearing a chefs hat
+3,807_1,807_5,0,compiled_speaker1,-3.284574136,0.0,the bear is holding a pie
+4,806_1,806_3,0,compiled_speaker1,-4.09347530669,0.0,the dog is standing next to the duck

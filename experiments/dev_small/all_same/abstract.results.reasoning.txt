@@ -1,0 +1,6 @@
+id,target,distractor,similarity,model_name,speaker_score,listener_score,description
+0,814_9,814_5,0,sampling_speaker1,-12.2216781188,-0.0397484302521,mike is mad because he wants to play pizza
+1,830_0,830_3,0,sampling_speaker1,-15.4947841746,-0.129765033722,jenny is cooking a hot dogs on the grill
+2,861_1,861_6,0,sampling_speaker1,-12.6657697511,-0.165848016739,jenny is waving at the bear
+3,807_1,807_5,0,sampling_speaker1,-8.55014386671,-0.693147182465,jenny is flying a kite
+4,806_1,806_3,0,sampling_speaker1,-9.3545395865,-0.144724965096,the helicopter is flying away

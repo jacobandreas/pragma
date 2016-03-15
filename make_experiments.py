@@ -6,8 +6,9 @@ from indices import WORD_INDEX
 from collections import defaultdict
 import numpy as np
 
-N_PAIRS = 100
+N_PAIRS = 200
 MAX_DIFFERENCES = 4
+N_PAIRS_PER = N_PAIRS / (MAX_DIFFERENCES + 1)
 
 def make_abstract():
     train_data, val_data, test_data = corpus.load_abstract()
@@ -20,62 +21,87 @@ def make_abstract():
         props = tuple(sorted(props))
         by_prop[props].append(datum)
 
-    with open("experiments/all_same/abstract.ids.txt", "w") as id_f:
-        counter = 0
-        for key in by_prop:
-            if counter >= N_PAIRS:
-                break
-            images = set(d.image_id for d in by_prop[key])
-            if len(images) <= 3:
-                continue
-            images = list(images)
-            np.random.shuffle(images)
-            images = images[:2]
-            print >>id_f, ",".join(images) + ",0"
-            counter += 1
+    print len(by_prop)
 
-    with open("experiments/one_different/abstract.ids.txt", "w") as id_f:
-        counter = 0
-        for key1 in by_prop:
-            if counter >= N_PAIRS:
-                break
-            keys = list(by_prop.keys())
-            np.random.shuffle(keys)
-            for key2 in by_prop:
-                if len(key1) != len(key2):
-                    continue
-                if len(set(key1) ^ set(key2)) != 2:
-                    continue
-                if key1 > key2:
-                    continue
-                images = [by_prop[key1][0].image_id, by_prop[key2][0].image_id]
-                print >>id_f, ",".join(images) + ",2"
-                counter += 1
-                break
+    by_similarity = defaultdict(list)
+    for key1 in by_prop:
+        for key2 in by_prop:
+            similarity = len(set(key1) ^ set(key2))
+            i_img1 = np.random.choice(len(by_prop[key1]))
+            i_img2 = np.random.choice(len(by_prop[key2]))
+            img1 = by_prop[key1][i_img1]
+            img2 = by_prop[key2][i_img2]
+            by_similarity[similarity].append((img1, img2))
 
-    with open("experiments/by_similarity/abstract.ids.txt", "w") as id_f:
-        keys = list(by_prop.keys())
-        counter = 0
-        for key1 in by_prop:
-            if counter >= N_PAIRS:
-                break
-            attempts = 0
-            while attempts < 100:
-                attempts += 1
-                key2 = keys[np.random.randint(len(keys))]
-                similarity = len(set(key1) ^ set(key2))
-                if similarity > MAX_DIFFERENCES:
-                    continue
-                if np.random.random() > 0.45 ** similarity:
-                    continue
-                img1 = by_prop[key1][0].image_id
-                img2 = by_prop[key2][0].image_id
-                if img1 == img2:
-                    continue
-                print >>id_f, "%s,%s,%s" % (img1, img2, similarity)
-                counter += 1
-                #print counter
-                break
+    with open("experiments/dev/one_different/abstract.ids.txt", "w") as id_f:
+        one_different = list(by_similarity[2])
+        np.random.shuffle(one_different)
+        for img1, img2 in one_different[:N_PAIRS]:
+            print >>id_f, "%s,%s,2" % (img1.image_id, img2.image_id)
+
+    with open("experiments/dev/by_similarity/abstract.ids.txt", "w") as id_f:
+        for i in range(0, MAX_DIFFERENCES + 1):
+            different = list(by_similarity[i])
+            np.random.shuffle(different)
+            for img1, img2 in different[:N_PAIRS_PER]:
+                print >>id_f, "%s,%s,%d" % (img1.image_id, img2.image_id, i)
+
+    #with open("experiments/all_same/abstract.ids.txt", "w") as id_f:
+    #    counter = 0
+    #    for key in by_prop:
+    #        if counter >= N_PAIRS:
+    #            break
+    #        images = set(d.image_id for d in by_prop[key])
+    #        if len(images) <= 3:
+    #            continue
+    #        images = list(images)
+    #        np.random.shuffle(images)
+    #        images = images[:2]
+    #        print >>id_f, ",".join(images) + ",0"
+    #        counter += 1
+
+    #with open("experiments/one_different/abstract.ids.txt", "w") as id_f:
+    #    counter = 0
+    #    for key1 in by_prop:
+    #        if counter >= N_PAIRS:
+    #            break
+    #        keys = list(by_prop.keys())
+    #        np.random.shuffle(keys)
+    #        for key2 in by_prop:
+    #            if len(key1) != len(key2):
+    #                continue
+    #            if len(set(key1) ^ set(key2)) != 2:
+    #                continue
+    #            if key1 > key2:
+    #                continue
+    #            images = [by_prop[key1][0].image_id, by_prop[key2][0].image_id]
+    #            print >>id_f, ",".join(images) + ",2"
+    #            counter += 1
+    #            break
+
+    #with open("experiments/by_similarity/abstract.ids.txt", "w") as id_f:
+    #    keys = list(by_prop.keys())
+    #    counter = 0
+    #    for key1 in by_prop:
+    #        if counter >= N_PAIRS:
+    #            break
+    #        attempts = 0
+    #        while attempts < 250:
+    #            attempts += 1
+    #            key2 = keys[np.random.randint(len(keys))]
+    #            similarity = len(set(key1) ^ set(key2))
+    #            if similarity > MAX_DIFFERENCES:
+    #                continue
+    #            if np.random.random() > 0.45 ** similarity:
+    #                continue
+    #            img1 = by_prop[key1][0].image_id
+    #            img2 = by_prop[key2][0].image_id
+    #            if img1 == img2:
+    #                continue
+    #            print >>id_f, "%s,%s,%s" % (img1, img2, similarity)
+    #            counter += 1
+    #            #print counter
+    #            break
 
 def make_birds():
     train_data, val_data, test_data = corpus.load_birds()
