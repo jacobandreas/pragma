@@ -1,201 +1,201 @@
 id,target,distractor,similarity,model_name,speaker_score,listener_score,description
-0,871_1,871_3,2,sampling_speaker1,-6.60285922696,-0.0346364974976,the bear is wearing purple glasses
-1,842_5,842_0,2,sampling_speaker1,-12.8185914935,-0.0108609199524,the ball is next to the glove
-2,866_3,866_8,2,sampling_speaker1,-14.9276915512,-0.0148034393787,jenny is holding a bucket and pail
-3,880_4,898_8,2,sampling_speaker1,-6.78064636089,-0.179510116577,jenny is holding a baseball bat
-4,884_2,854_2,2,sampling_speaker1,-5.22732253412,-0.0063271522522,mike is wearing a silly hat
-5,893_0,893_9,2,sampling_speaker1,-15.6117034577,-0.0397510528564,mike is jumping in the air plane
-6,842_4,842_5,2,sampling_speaker1,-7.78540534258,-0.090526342392,the snake is slithering away from jenny
-7,841_5,841_3,2,sampling_speaker1,-6.30702192346,-0.0301232337952,mike is wearing purple glasses
-8,869_5,869_7,2,sampling_speaker1,-10.8904315763,-0.00378036499023,the hot air balloon is in the sky
-9,823_0,823_8,2,sampling_speaker1,-12.860610412,-0.0512619018555,the hot air ballon is eating a hot dog
-10,901_8,901_9,2,sampling_speaker1,-14.0473963595,-0.00361680984497,the hot air balloon is above jenny
-11,871_4,879_5,2,sampling_speaker1,-9.90545051308,-0.00284099578857,jenny is holding the pie
-12,880_3,880_2,2,sampling_speaker1,-6.25671571542,-0.135843515396,mike is wearing sun glasses
-13,883_5,824_3,2,sampling_speaker1,-5.92667707359,-0.0441923141479,jenny is running away from the snake
-14,854_7,854_0,2,sampling_speaker1,-16.4126143268,-0.0765702724457,there is a cloud in the sky
-15,878_6,879_5,2,sampling_speaker1,-11.6706893484,-0.0403662621975,mike is kicking the ball
-16,852_6,852_0,2,sampling_speaker1,-11.6411228143,-0.331711769104,jenny is jumping up and down
-17,829_4,829_1,2,sampling_speaker1,-12.3059251591,-0.126636505127,mike is holding a frisbee
-18,814_7,888_0,2,sampling_speaker1,-8.28938618644,-0.00110530853271,jenny is holding a pizza
-19,802_9,802_2,2,sampling_speaker1,-20.1197928139,-0.0127320289612,the sun is shining brightly today
-20,864_4,813_6,2,sampling_speaker1,-7.02165781803,-0.000946760177612,mike is catching the frisbee
-21,892_9,892_7,2,sampling_speaker1,-7.18678099556,-0.0197916030884,the airplane is flying over the picnic table
-22,804_5,804_8,2,sampling_speaker1,-9.06741601842,-0.0054144859314,jenny is wearing the witch hat
-23,804_6,804_7,2,sampling_speaker1,-6.99898170952,-0.0101025104523,jenny is wearing sunglasses
-24,829_1,829_8,2,sampling_speaker1,-6.31837927707,-0.0285401344299,the dog is wearing a pirate hat
-25,841_2,841_5,2,sampling_speaker1,-7.74178166694,-0.233728408813,some balloons are flying in the sky
-26,815_3,815_8,2,sampling_speaker1,-7.76252489169,-0.447015762329,mike is wearing a crown
-27,839_4,839_5,2,sampling_speaker1,-5.5812323331,-0.018750667572,mike is wearing a witch hat
-28,824_8,824_3,2,sampling_speaker1,-14.5720509903,-0.0145835876465,the sun is shining bright
-29,871_4,871_0,2,sampling_speaker1,-12.2144003847,-0.314661979675,jenny wants to eat the pie
-30,892_7,812_2,2,sampling_speaker1,-8.54598306709,-0.020158290863,the hot dog is on the table
-31,822_7,895_9,2,sampling_speaker1,-3.20198940886,-0.000533103942871,mike is wearing a pirate hat
-32,802_6,802_9,2,sampling_speaker1,-11.6999617734,-0.0885052680969,mike is standing next to the tree
-33,854_7,854_2,2,sampling_speaker1,-14.0760802891,-0.0168600082397,there is one cloud in the sky
-34,842_9,834_1,2,sampling_speaker1,-12.9205827278,-0.00723123550415,jenny is holding a green snake
-35,886_3,895_6,2,sampling_speaker1,-12.1898371926,-0.000481128692627,a hot air balloon is flying over jenny
-36,871_3,871_0,2,sampling_speaker1,-17.9052800485,-0.0318059921265,there is a pie on the witch hat
-37,901_6,838_8,2,sampling_speaker1,-10.5090836035,-0.000349044799805,the owl is standing on jennys pie
-38,846_0,846_4,2,sampling_speaker1,-12.3580190281,-0.0682835578918,the owl is sitting on the slide
-39,852_0,852_9,2,sampling_speaker1,-11.2485297569,-0.085363060236,the dog is standing under the cloud
-40,843_6,843_0,2,sampling_speaker1,-21.4741182442,-0.0608125925064,mike kicked the soccer ball to jenny
-41,900_7,819_3,2,sampling_speaker1,-10.1419753491,-0.00575089454651,lightning is coming from the cloud
-42,898_7,880_7,2,sampling_speaker1,-12.5346318661,-0.00450038909912,mike is playing with the dog
-43,846_6,846_0,2,sampling_speaker1,-10.7295427448,-0.00954759120941,mike is standing beside an apple tree
-44,862_0,889_0,2,sampling_speaker1,-10.6777924646,-0.00297141075134,mike is holding a pie
-45,827_7,827_5,2,sampling_speaker1,-8.66834203578,-0.0169677734375,the sun is shining high in the sky
-46,819_7,882_4,2,sampling_speaker1,-7.71154980325,-0.000903010368347,the pink bucket is in the sand box
-47,877_8,877_6,2,sampling_speaker1,-7.99724926455,-0.178412914276,the bear is wearing the crown
-48,894_7,864_0,2,sampling_speaker1,-6.96493055688,-0.000137805938721,jenny brought a pie to eat some pie
-49,871_8,871_0,2,sampling_speaker1,-8.08604913813,-0.136957645416,the bear is wearing the hat
-50,864_0,864_4,2,sampling_speaker1,-4.82813189011,-0.0114402770996,jenny is wearing a silly hat
-51,846_5,846_2,2,sampling_speaker1,-14.9127259947,-0.12802529335,jenny is an owl in the tree
-52,867_4,867_5,2,sampling_speaker1,-9.25954656164,-0.260985612869,mike is very happy
-53,893_3,826_8,2,sampling_speaker1,-12.1061130752,-0.0412111282349,jenny looks scared of the snake
-54,851_1,851_9,2,sampling_speaker1,-14.2071087368,-0.146472930908,the picnic table is under the tree
-55,826_9,859_4,2,sampling_speaker1,-10.4420362465,-0.00411510467529,the dog is standing next to the grill
-56,854_4,813_6,2,sampling_speaker1,-9.00405723688,-0.0237925052643,mike is kicking the soccer ball to jenny
-57,896_3,856_2,2,sampling_speaker1,-10.5627413304,-0.00721263885498,the dog is looking at a hamburger
-58,874_2,874_6,2,sampling_speaker1,-17.7806207349,-0.0570731163025,jenny is standing next to a sandbox
-59,835_2,835_4,2,sampling_speaker1,-5.96596109574,-0.00963735580444,an airplane is flying in the sky
-60,802_1,802_6,2,sampling_speaker1,-14.6369511766,-0.140845775604,the cloud is in front of the sun
-61,839_5,839_4,2,sampling_speaker1,-22.0567980377,-0.118524432182,jenny is waving at mike
-62,824_8,824_5,2,sampling_speaker1,-17.7682444512,-0.105031967163,jenny and mike are mad at the swing set
-63,854_6,854_7,2,sampling_speaker1,-6.03793673503,-0.00725269317627,mike is wearing a pirates hat
-64,828_8,828_1,2,sampling_speaker1,-12.2017764693,-0.207170009613,the hot dogs are cooking on the grill
-65,879_7,879_3,2,sampling_speaker1,-8.8107922123,-0.0486373901367,the bear is wearing a wizards hat
-66,860_4,854_0,2,sampling_speaker1,-17.1998075428,-0.0182476937771,mike is standing next to a toy
-67,855_6,899_3,2,sampling_speaker1,-7.06365885489,-0.000293254852295,mike is sitting on the swing
-68,834_1,880_5,2,sampling_speaker1,-11.1840106461,-0.0313506126404,mike is holding a tennis ball
-69,835_1,835_3,2,sampling_speaker1,-8.06515237293,-0.0407099127769,the soccer ball is near the sandbox
-70,851_7,851_9,2,sampling_speaker1,-9.13751402446,-0.000600814819336,mike is sitting on the picnic table
-71,898_1,898_3,2,sampling_speaker1,-18.4149947954,-0.173924088478,mike is wearing sunglasses
-72,889_0,821_1,2,sampling_speaker1,-11.6920381927,-0.0327639579773,jenny is playing with the beach ball
-73,813_5,813_0,2,sampling_speaker1,-10.5536110155,-0.0135333538055,jenny is standing in front of the slide
-74,842_4,842_8,2,sampling_speaker1,-8.87150532051,-0.0814838409424,the snake is near the glove
-75,882_0,819_7,2,sampling_speaker1,-11.2991812935,-0.145036220551,jenny is sitting in the sand box
-76,812_2,851_7,2,sampling_speaker1,-6.74631853202,-0.0139679908752,jenny is running away from the swing
-77,823_7,823_0,2,sampling_speaker1,-6.97612104649,-0.0184767246246,the helicopter is flying in the sky
-78,887_8,887_3,2,sampling_speaker1,-4.30262337463,-0.00245046615601,it is raining on the picnic table
-79,898_1,898_2,2,sampling_speaker1,-9.54472055692,-0.00662136077881,mike has a baseball glove
-80,868_4,810_8,2,sampling_speaker1,-5.17461146172,-0.00421380996704,mike is wearing a viking hat
-81,895_4,844_9,2,sampling_speaker1,-13.2884828537,-0.00154590606689,the snake is chasing the cat
-82,813_6,813_0,2,sampling_speaker1,-13.7799561669,-0.063946723938,the sun is shining clouds
-83,901_2,868_4,2,sampling_speaker1,-7.49036357612,-0.0308372974396,jenny is wearing sun glasses
-84,898_1,817_5,2,sampling_speaker1,-10.9041430075,-0.0135078430176,mike is holding a baseball bat
-85,884_8,858_3,2,sampling_speaker1,-7.80663781795,-0.0106077194214,jenny is wearing the hat
-86,831_0,831_6,2,sampling_speaker1,-12.4171398972,-0.0199298858643,the swings are over the swing set
-87,880_7,880_1,2,sampling_speaker1,-6.88011816234,-0.100534439087,jenny is holding a baseball bat
-88,844_0,844_8,2,sampling_speaker1,-5.89580565572,-0.00602245330811,mike is wearing a baseball cap
-89,819_3,819_7,2,sampling_speaker1,-9.94199327137,-0.0101819038391,jenny and mike look angry at each other
-90,831_3,831_2,2,sampling_speaker1,-14.1684576734,-0.105909824371,the sun is shining
-91,868_2,901_2,2,sampling_speaker1,-11.8192400726,-0.0188690721989,jenny does not want to play frisbee
-92,882_4,856_3,2,sampling_speaker1,-15.5676219689,-0.0162711143494,mike is sitting on the ground
-93,828_9,828_0,2,sampling_speaker1,-15.3661817295,-0.152686834335,there is a cloud in the sky
-94,854_0,895_6,2,sampling_speaker1,-8.56398676657,-0.000430971384048,the dog is standing near the tree
-95,852_1,852_3,2,sampling_speaker1,-19.6835136681,-0.00846242904663,mustard and ketchup are on the yellow table
-96,855_7,855_4,2,sampling_speaker1,-7.67221613394,-0.018524646759,the owl is on the swing set
-97,901_1,901_6,2,sampling_speaker1,-8.59387959183,-0.00252595543861,the dog is standing beside the tree
-98,901_2,869_2,2,sampling_speaker1,-13.1995110639,-0.00207495689392,there is an owl in the tree
-99,819_0,833_0,2,sampling_speaker1,-6.8955382465,-0.171085238457,jenny is running away from the apple tree
-100,855_2,855_9,2,sampling_speaker1,-8.7729747335,-0.00203132629395,the cat is sitting on top of the slide
-101,835_9,835_0,2,sampling_speaker1,-11.3033770928,-0.0387845039368,the sun is hiding behind the cloud
-102,822_5,822_1,2,sampling_speaker1,-6.85444904802,-0.000723242759705,the apple tree is full of apples
-103,873_9,873_6,2,sampling_speaker1,-13.275765727,-0.0104973316193,the dog is eating a hamburger
-104,828_8,813_1,2,sampling_speaker1,-8.65173056829,-0.0255270004272,the hot air balloon is cooking on the grill
-105,876_1,876_6,2,sampling_speaker1,-11.3907623955,-0.0226367115974,the cat is standing by the apple tree
-106,870_9,870_0,2,sampling_speaker1,-9.82085547739,-0.00801849365234,jenny is running away from the owl
-107,804_7,804_3,2,sampling_speaker1,-9.34816205955,-0.0308504104614,an owl is sitting in the tree
-108,804_4,804_3,2,sampling_speaker1,-15.653640257,-0.172419905663,jenny is kicking the ball to mike
-109,871_3,871_1,2,sampling_speaker1,-17.623316499,-0.110177993774,the bear has its on jennys witch hat
-110,901_6,894_7,2,sampling_speaker1,-10.8347630528,-0.00166416168213,the owl sits on jennys pie
-111,846_3,846_9,2,sampling_speaker1,-13.6949770523,-0.0011568069458,there is an owl on the soccer ball
-112,802_2,846_5,2,sampling_speaker1,-9.85436839265,-0.00492906570435,the dog is in front of the slide
-113,885_8,891_6,2,sampling_speaker1,-14.5569320004,-0.00341367721558,mike is happy jenny took her balloons
-114,855_5,855_2,2,sampling_speaker1,-7.13116460505,-0.00149822235107,mike is wearing a baseball cap
-115,859_4,826_6,2,sampling_speaker1,-7.97518141657,-0.0267462730408,the campfire is in front of the table
-116,803_5,803_1,2,sampling_speaker1,-10.8792471836,-0.00356388092041,a hot air balloon floats above jenny
-117,901_3,901_8,2,sampling_speaker1,-9.73692794668,-0.00802135467529,mike is wearing a blue cap
-118,850_8,896_8,2,sampling_speaker1,-17.0227887925,-0.018651008606,jenny is sad because it is raining
-119,854_1,864_4,2,sampling_speaker1,-11.1348017969,-0.000225871801376,jenny is standing next to the soccer ball
-120,844_1,844_8,2,sampling_speaker1,-7.76324383076,-0.133701324463,mike is very sad
-121,889_2,879_3,2,sampling_speaker1,-7.74565391925,-0.000905513763428,jenny is kicking the beach ball
-122,855_9,855_4,2,sampling_speaker1,-8.90353653909,-0.0018150806427,mike is wearing a crown
-123,887_6,887_1,2,sampling_speaker1,-7.53800246154,-0.0124340057373,the pizza is on the table
-124,851_4,851_5,2,sampling_speaker1,-12.9342555966,-0.00591707229614,mike and jenny are playing with a frisbee
-125,887_5,887_4,2,sampling_speaker1,-9.19580356007,-0.0222110748291,there is a hamburger on the picnic table
-126,839_3,839_5,2,sampling_speaker1,-5.47688221134,-0.00877809524536,mike is wearing a baseball cap
-127,848_2,848_0,2,sampling_speaker1,-10.0573065772,-0.0095796585083,there is a hamburger on the table
-128,860_0,893_5,2,sampling_speaker1,-9.13682224791,-0.001868724823,mike is wearing sunglasses
-129,869_8,869_5,2,sampling_speaker1,-8.47194946954,-0.010760307312,the bear is standing next to the table
-130,811_5,811_2,2,sampling_speaker1,-8.82145375201,-0.0559425354004,mike is sad because it is raining
-131,879_5,879_3,2,sampling_speaker1,-11.4798048098,-0.000167846679688,the bear is holding a bunch of balloons
-132,851_7,824_5,2,sampling_speaker1,-7.99638559597,-0.0295395851135,there is a rocket ship in the sky
-133,859_8,819_4,2,sampling_speaker1,-6.46754791052,-0.0108246803284,the grill is between mike and jenny
-134,824_2,824_8,2,sampling_speaker1,-6.57091832451,-0.0019416809082,jenny is wearing a crown
-135,895_7,895_1,2,sampling_speaker1,-16.7873973246,-0.0596399307251,the sun is shining hiding behind the cloud
-136,868_9,868_7,2,sampling_speaker1,-9.98551778339,-0.00270688533783,the helicopter is flying in the sky
-137,875_6,875_3,2,sampling_speaker1,-19.0241271404,-0.0811557769775,a cloud is in the sky
-138,901_0,838_8,2,sampling_speaker1,-10.2222541193,-0.000157356262207,there is an owl on jennys head
-139,804_7,804_5,2,sampling_speaker1,-13.5791101029,-0.0322090983391,there are apples on the tree
-140,884_6,884_0,2,sampling_speaker1,-13.736961925,-0.0760345458984,a cloud is in front of the apple tree
-141,876_6,876_2,2,sampling_speaker1,-6.90455893404,-0.0359027385712,mike is wearing the hat
-142,862_3,838_3,2,sampling_speaker1,-6.88367815712,-0.036199092865,jenny is wearing a winter hat
-143,867_5,867_9,2,sampling_speaker1,-8.59214800873,-0.00937223434448,the cat is standing under the apple tree
-144,889_2,889_7,2,sampling_speaker1,-13.4839566236,-0.135305404663,mike is kicking the ball
-145,805_9,818_8,2,sampling_speaker1,-11.0556257035,-0.0340402126312,mike is eating a hotdog in the tree
-146,832_0,832_9,2,sampling_speaker1,-8.85532535321,-0.00289106369019,the picnic table is by the tree
-147,873_1,873_2,2,sampling_speaker1,-15.4644974629,-0.108262777328,mike is holding the burger
-148,829_4,829_3,2,sampling_speaker1,-7.55746332354,-0.0934767723083,mike is wearing a pirate hat
-149,821_4,895_7,2,sampling_speaker1,-12.216263062,-5.12599945068e-05,jenny is kicking the soccer ball
-150,879_3,879_0,2,sampling_speaker1,-10.4675914601,-0.00911712646484,jenny is sad she lost her leg
-151,871_3,871_9,2,sampling_speaker1,-7.20768901421,-0.240448951721,jenny is holding a pie
-152,822_9,822_4,2,sampling_speaker1,-10.8865329276,-0.065122127533,the snake is under the tree
-153,820_3,820_1,2,sampling_speaker1,-5.95577782416,-0.00244379043579,mike is wearing sun glasses
-154,867_7,867_9,2,sampling_speaker1,-12.2017936661,-0.0851395130157,jenny is standing next to the apple tree
-155,851_5,851_3,2,sampling_speaker1,-7.32340958576,-0.0895717144012,jenny is in front of the swing
-156,817_7,844_8,2,sampling_speaker1,-18.9448454943,-0.0126122236252,the cat is sitting behind the slide
-157,847_0,847_7,2,sampling_speaker1,-21.1411281601,-0.00126123428345,jenny is wearing purple sunglasses
-158,889_5,813_6,2,sampling_speaker1,-5.06561600117,-0.0123958587646,mike is wearing sun glasses
-159,812_6,855_5,2,sampling_speaker1,-6.80824455176,-0.00414371490479,mike is running toward the swing set
-160,812_0,812_7,2,sampling_speaker1,-5.47396718335,-0.015486240387,mike is wearing black shades
-161,826_8,893_3,2,sampling_speaker1,-8.08966948488,-0.000546932220459,there are three burgers on the grill
-162,884_6,839_2,2,sampling_speaker1,-9.71739514792,-0.0118556022644,jenny has a soccer ball cap on
-163,802_1,886_8,2,sampling_speaker1,-10.7048624705,-0.00399923324585,the dog is looking at the slide
-164,885_5,885_1,2,sampling_speaker1,-8.31470801586,-0.00917959213257,jenny is holding a baseball bat
-165,818_3,818_8,2,sampling_speaker1,-14.4367148975,-0.0384109020233,jenny is wearing a white cap
-166,851_9,851_7,2,sampling_speaker1,-5.13312228975,-0.111639022827,the rocket is flying in the sky
-167,838_1,838_4,2,sampling_speaker1,-4.34592756943,-0.00613594055176,jenny is wearing purple glasses
-168,837_5,837_0,2,sampling_speaker1,-5.04711670825,-0.0013062953949,jenny is wearing glasses
-169,873_3,873_5,2,sampling_speaker1,-12.7029332054,-0.134372711182,jenny is mad that it is raining
-170,841_9,841_7,2,sampling_speaker1,-15.9425568543,-0.0333886146545,the kite is flying past the tree
-171,885_6,885_4,2,sampling_speaker1,-7.4560573871,-0.073429107666,jenny is wearing a silly hat
-172,898_8,880_4,2,sampling_speaker1,-12.8904989998,-0.120060920715,jenny is wearing a baseball glove
-173,865_8,865_4,2,sampling_speaker1,-12.3585790434,-0.158142805099,the cat is under the cloud
-174,868_8,868_7,2,sampling_speaker1,-12.5007836395,-0.425108015537,jenny is throwing the frisbee
-175,824_8,812_2,2,sampling_speaker1,-11.2032220868,-0.00852847099304,the snake is under the tree
-176,869_0,869_5,2,sampling_speaker1,-9.01276725786,-0.00350487232208,mike and jenny are playing catch the football
-177,874_5,874_3,2,sampling_speaker1,-9.50102745836,-0.0165699720383,there are apples in the tree
-178,901_9,810_8,2,sampling_speaker1,-12.1553884997,-0.014578461647,jenny wants to eat
-179,804_4,804_5,2,sampling_speaker1,-17.3567297185,-0.40812087059,the owl is sitting by the ball
-180,854_6,854_9,2,sampling_speaker1,-5.50904979391,-0.00851440429688,mike is wearing a pirate hat
-181,868_2,868_8,2,sampling_speaker1,-14.2940044779,-0.125602483749,the cloud is in front of the sun
-182,852_4,852_8,2,sampling_speaker1,-16.0241033357,-0.0180481076241,jenny is sitting under the tree
-183,845_4,845_0,2,sampling_speaker1,-16.7941000691,-0.144459962845,the four balloons are flying behind the tree
-184,832_1,832_0,2,sampling_speaker1,-9.69068844413,-0.263338625431,mike is wearing sun glasses
-185,839_2,812_5,2,sampling_speaker1,-11.2717648822,-0.000359296798706,mike is playing with the soccer ball
-186,865_9,865_5,2,sampling_speaker1,-7.25359816578,-0.00262498855591,the cat is under the slide
-187,855_6,855_2,2,sampling_speaker1,-12.0071004738,-0.207056045532,mike is standing by the swing
-188,869_3,869_0,2,sampling_speaker1,-5.28244356374,-0.0279159545898,jenny is wearing a colorful hat
-189,883_7,883_1,2,sampling_speaker1,-6.06690014109,-0.0012845993042,a rocket ship is flying in the sky
-190,871_6,871_2,2,sampling_speaker1,-11.1010388409,-0.00429487228394,a helicopter is flying in the sky
-191,848_7,848_8,2,sampling_speaker1,-8.64228591442,-0.0677452087402,jenny is eating a burger
-192,809_4,809_8,2,sampling_speaker1,-12.2769206217,-0.0638281106949,the dog is standing by jenny
-193,838_6,838_1,2,sampling_speaker1,-14.8134771447,-0.317241072655,they have a pie for lunch
-194,841_8,841_2,2,sampling_speaker1,-16.415761116,-0.00627970695496,jenny is standing near the slide
-195,880_2,898_3,2,sampling_speaker1,-24.8104433884,-0.222072482109,mike and jenny are holding hands
-196,851_9,851_1,2,sampling_speaker1,-18.9914059731,-0.0168752670288,mike is holding a baseball hat
-197,884_7,888_1,2,sampling_speaker1,-3.70558257425,-0.0135059356689,mike is wearing a pirate hat
-198,835_8,835_1,2,sampling_speaker1,-8.19278601567,-0.120140552521,the dog is standing by the tree
-199,815_8,815_3,2,sampling_speaker1,-10.9564663995,-0.0771909952164,the apple tree is behind mike
+0,832_8,832_1,2,sampling_speaker1,-14.1773030539,-0.235848665237,jenny is jumping in the air
+1,836_0,836_6,2,sampling_speaker1,-12.0178677491,-0.251753330231,jenny wants to eat the pizza
+2,835_4,835_8,2,sampling_speaker1,-10.4922931383,-0.181045293808,jenny is kicking the soccer ball
+3,868_0,868_7,2,sampling_speaker1,-20.9458644868,-0.313810825348,the owl has a frisbee
+4,895_7,895_4,2,sampling_speaker1,-20.5661477517,-0.0755438804626,the sun is out
+5,831_4,831_6,2,sampling_speaker1,-12.1197749509,-0.251204013824,the tree has red apples in it
+6,857_3,857_7,2,sampling_speaker1,-17.5755330172,-0.351797580719,the mustard and mustard are on the ground
+7,828_9,828_5,2,sampling_speaker1,-12.6492098091,-0.0788943767548,there is a cloud in the sky
+8,861_3,861_4,2,sampling_speaker1,-10.35169564,-0.198511600494,mike is standing next to the table
+9,881_6,881_8,2,sampling_speaker1,-18.2432771901,-0.035457611084,the drink is next to the tree
+10,852_9,852_3,2,sampling_speaker1,-6.05380736582,-0.173562288284,jenny is wearing sun glasses
+11,819_0,819_9,2,sampling_speaker1,-14.4447390926,-0.0148388147354,jenny is running away from her
+12,838_1,853_7,2,sampling_speaker1,-4.83492142074,-0.112047672272,mike is wearing purple glasses
+13,865_2,865_8,2,sampling_speaker1,-5.79013705143,-0.00654745101929,the helicopter is flying in the sky
+14,809_3,809_9,2,sampling_speaker1,-7.95261118055,-0.340917110443,the dog is standing beside jenny
+15,809_2,809_4,2,sampling_speaker1,-10.3335987475,-0.0447671413422,the dog is standing by the sand box
+16,836_9,836_2,2,sampling_speaker1,-11.7394175004,-0.0905351638794,mike is sitting on the ground
+17,861_5,861_7,2,sampling_speaker1,-8.54624855451,-0.0421261787415,jenny is sad the pizza is on the table
+18,877_4,877_8,2,sampling_speaker1,-17.2577297279,-0.126034379005,there is one cloud in the sky
+19,813_2,813_4,2,sampling_speaker1,-10.9610163557,-0.0187072753906,mike is wearing a ball cap
+20,889_5,889_6,2,sampling_speaker1,-6.49718473034,-0.881998062134,mike is wearing the sun glasses
+21,850_4,850_8,2,sampling_speaker1,-13.434883848,-0.0594878196716,mike and jenny are sitting under the tree
+22,841_0,841_2,2,sampling_speaker1,-5.62844699726,-0.025975227356,jenny is wearing a colorful hat
+23,870_8,870_0,2,sampling_speaker1,-10.0716746035,-0.0159663036466,jenny is standing next to an apple tree
+24,870_2,870_0,2,sampling_speaker1,-12.7268565583,-0.194958508015,the pie is beside the tree
+25,841_3,841_9,2,sampling_speaker1,-11.5624297123,-0.21014881134,the orange cat is watching jenny
+26,848_6,848_0,2,sampling_speaker1,-10.3704573692,-0.0170199871063,mike has a hamburger
+27,865_5,865_3,2,sampling_speaker1,-10.8220341513,-0.181158781052,jenny is wearing a rainbow hat
+28,896_3,896_5,2,sampling_speaker1,-13.7608668119,-0.167206764221,jenny is kicking the dog
+29,861_7,861_5,2,sampling_speaker1,-4.55666418961,-0.0279874801636,mike is wearing a chefs hat
+30,820_8,820_6,2,sampling_speaker1,-11.2203159927,-0.218114614487,mike has an owl on his hat
+31,829_2,829_4,2,sampling_speaker1,-6.41525680909,-0.206862449646,jenny is wearing a crown
+32,857_7,857_6,2,sampling_speaker1,-13.051679922,-0.167574882507,the hamburger is on the swing
+33,865_8,865_2,2,sampling_speaker1,-13.0262636401,-0.103923916817,mike and jenny are angry at each other
+34,816_9,816_0,2,sampling_speaker1,-16.3219222379,-0.314460277557,the sun is behind the tree
+35,881_2,881_4,2,sampling_speaker1,-14.0837868056,-0.0213854312897,a hotdog is on the grill
+36,804_1,804_6,2,sampling_speaker1,-10.8335122212,-0.113450348377,the owl is in the tree
+37,892_9,897_5,2,sampling_speaker1,-12.1983110024,-0.0246284008026,mike does not want the hotdog
+38,838_8,816_8,2,sampling_speaker1,-9.88958526807,-0.0153074264526,jenny is standing near the pie
+39,832_0,832_6,2,sampling_speaker1,-10.5998905841,-0.197981595993,the hot air baloon is in the sky
+40,871_5,871_8,2,sampling_speaker1,-15.5386933949,-0.013543844223,the bear is standing next to the tent
+41,832_1,832_6,2,sampling_speaker1,-12.3080441848,-0.231765508652,the hot air balloon is in the sky
+42,830_5,830_8,2,sampling_speaker1,-10.2730449955,-0.00151443481445,mike and jenny are running away from the duck
+43,841_3,841_7,2,sampling_speaker1,-12.282578979,-0.296263694763,mike wants jennys kite
+44,891_6,891_2,2,sampling_speaker1,-12.5695339295,-0.436870098114,jenny is catching the ball
+45,806_5,806_3,2,sampling_speaker1,-16.5797619919,-0.0599544048309,the sun is behind the cloud
+46,824_2,824_9,2,sampling_speaker1,-10.4759957514,-0.0693874359131,jenny is sad she fell off the swing
+47,815_5,815_7,2,sampling_speaker1,-7.36804556553,-0.391489505768,jenny is wearing a crown
+48,832_6,832_0,2,sampling_speaker1,-12.3183226508,-0.200650215149,ketchup is on the table
+49,846_0,846_9,2,sampling_speaker1,-9.97732099277,-0.0793714523315,an owl is sitting on top of the slide
+50,804_1,804_5,2,sampling_speaker1,-9.80238311541,-0.25234079361,jenny is holding an owl
+51,889_5,813_9,2,sampling_speaker1,-22.2139219488,-0.511988639832,jenny is kicking the ball
+52,845_8,845_4,2,sampling_speaker1,-8.57682215916,-0.0008704662323,an airplane is flying in the sky
+53,804_0,804_4,2,sampling_speaker1,-13.1032026866,-0.115122556686,jenny has an owl on her head
+54,853_7,838_1,2,sampling_speaker1,-9.35050454745,-0.0085563659668,the bear is wearing glasses and glasses
+55,889_7,889_6,2,sampling_speaker1,-14.8259887265,-0.184997558594,there is a big cloud in the sky
+56,873_3,873_1,2,sampling_speaker1,-15.9297357703,-0.188704967499,the dog is standing in front of the sun
+57,841_6,841_0,2,sampling_speaker1,-5.5614962301,-0.387927055359,mike is wearing a colorful hat
+58,823_5,823_8,2,sampling_speaker1,-8.81436930835,-0.0140628814697,the pie is in front of the table
+59,832_1,832_8,2,sampling_speaker1,-13.1665123657,-0.191400527954,mike is holding a hotdog and ketchup
+60,827_6,827_2,2,sampling_speaker1,-4.85696383102,-0.227487564087,jenny is wearing a silly hat
+61,824_9,824_2,2,sampling_speaker1,-7.85105017431,-0.137887954712,jenny is running away from the snake
+62,808_1,808_7,2,sampling_speaker1,-12.5812115101,-0.367203712463,jenny is throwing the ball at mike
+63,809_4,809_6,2,sampling_speaker1,-11.296672569,-0.0265283584595,jenny is sad she fell of the swing
+64,804_1,804_3,2,sampling_speaker1,-12.4463064443,-0.0583243370056,jenny is holding an owl
+65,861_2,861_0,2,sampling_speaker1,-7.2657597145,-0.0568108558655,mike is wearing a pirates hat
+66,827_2,827_9,2,sampling_speaker1,-12.082535994,-0.248080968857,mike is holding the burger
+67,841_7,841_3,2,sampling_speaker1,-22.6129179394,-0.0982227325439,jenny is waving to the balloons at mike
+68,877_8,877_0,2,sampling_speaker1,-7.23448740592,-0.207264900208,the bear is wearing sunglasses
+69,825_9,825_8,2,sampling_speaker1,-4.30759170505,-0.366784095764,jenny is wearing a viking hat
+70,808_8,808_7,2,sampling_speaker1,-14.3437078745,-0.153789162636,mike is very happy
+71,808_5,808_1,2,sampling_speaker1,-19.1179462189,-0.023845911026,mike is holding a hamburger
+72,804_5,804_0,2,sampling_speaker1,-10.1010188206,-0.00514841079712,jenny is wearing an witch hat
+73,818_9,818_6,2,sampling_speaker1,-13.2500784894,-0.0859019756317,a hot air balloon is in the sky
+74,813_8,813_4,2,sampling_speaker1,-10.6760143789,-0.0232725143433,the sun is shining behind mike
+75,841_2,841_7,2,sampling_speaker1,-18.640953805,-0.393778562546,mike is wearing the hat
+76,835_0,835_4,2,sampling_speaker1,-18.161065344,-0.170794010162,the dog is beside the tree
+77,873_5,873_9,2,sampling_speaker1,-8.45345318987,-0.00861763954163,a helicopter is flying in the sky
+78,848_0,848_6,2,sampling_speaker1,-15.2756900515,-0.0659277439117,jenny is waving for mike
+79,853_4,838_4,2,sampling_speaker1,-9.97677972929,-0.00150585174561,the bear is standing behind the table
+80,865_4,865_7,2,sampling_speaker1,-8.57868791294,-0.480990171432,jenny and mike are playing catch the football
+81,825_1,825_9,2,sampling_speaker1,-10.9450094019,-0.332520008087,jenny is wearing sun glasses
+82,867_3,867_5,2,sampling_speaker1,-6.79534022303,-0.226226389408,mike is standing under the apple tree
+83,816_0,816_1,2,sampling_speaker1,-6.48926843218,-0.485245704651,the pie is on the table
+84,862_4,894_9,2,sampling_speaker1,-13.112147964,-0.0845186859369,jenny and the dog are under the tree
+85,835_4,835_3,2,sampling_speaker1,-15.1686169029,-0.258996248245,jenny kicks the soccer ball
+86,846_0,846_3,2,sampling_speaker1,-9.71966324516,-0.0624742507935,an owl is sitting on the slide
+87,829_1,829_7,2,sampling_speaker1,-6.2618879488,-0.0150279998779,the dog is wearing a crown
+88,815_2,815_4,2,sampling_speaker1,-19.500378736,-0.0681519508362,there is a cloud in the sky
+89,839_2,839_0,2,sampling_speaker1,-10.7260342247,-0.143076300621,mike is kicking the soccer ball
+90,825_8,825_9,2,sampling_speaker1,-20.2494928729,-0.112135767937,a pie is in the tree
+91,839_0,839_2,2,sampling_speaker1,-12.6102761767,-0.271616488695,jenny is sitting under the apple tree
+92,814_0,814_6,2,sampling_speaker1,-9.58022266932,-0.0108888149261,there are apples on the tree
+93,804_1,804_7,2,sampling_speaker1,-14.7981621794,-0.0852670669556,jenny has an owl in her hand
+94,894_9,862_4,2,sampling_speaker1,-8.81224266711,-0.00650858879089,the pie is on top of the slide
+95,821_4,854_4,2,sampling_speaker1,-9.37333230922,-0.00346422195435,the cat is wearing sun glasses
+96,838_8,864_5,2,sampling_speaker1,-12.8639835281,-0.146821975708,jenny is scared of the pie
+97,836_4,836_8,2,sampling_speaker1,-16.7418274616,-0.248128414154,mike is sad he is sad
+98,873_1,873_3,2,sampling_speaker1,-9.11933555699,-0.222341775894,it is raining on mike and jenny
+99,861_3,861_8,2,sampling_speaker1,-5.4433944458,-0.458193063736,mike is wearing a chefs hat
+100,871_7,879_5,2,sampling_speaker1,-7.84701540346,-0.00276517868042,the bear wants to eat some pie
+101,828_0,828_8,2,sampling_speaker1,-18.4772180565,-0.0109834671021,jenny is holding a hamburger
+102,888_3,901_5,2,sampling_speaker1,-9.02068539175,-0.000194311141968,mike is kicking the soccer ball
+103,828_0,828_5,2,sampling_speaker1,-9.13706230428,-0.178711414337,there are three hotdogs on the grill
+104,816_7,816_8,2,sampling_speaker1,-10.9169558585,-0.357211172581,mike and jenny are looking at each other
+105,829_8,829_2,2,sampling_speaker1,-9.52732476214,-0.00408005714417,jenny is playing on the yellow table
+106,827_3,827_7,2,sampling_speaker1,-6.03733691407,-0.330494880676,jenny is wearing a colorful hat
+107,835_7,835_4,2,sampling_speaker1,-9.61445821854,-0.172668218613,the dog is in front of the tree
+108,828_5,828_9,2,sampling_speaker1,-22.3491312211,-0.255125284195,mike is angry about the food
+109,846_3,846_0,2,sampling_speaker1,-10.202987423,-0.000850200653076,the owl is watching the soccer ball
+110,815_4,815_2,2,sampling_speaker1,-10.7832515025,-0.429375648499,jenny is wearing a crown crown
+111,813_8,889_5,2,sampling_speaker1,-11.1442088964,-0.0361847877502,jenny is sitting on the ground
+112,816_1,816_7,2,sampling_speaker1,-30.2400136153,-0.148898839951,a cloud is behind a cloud above the sun
+113,861_8,861_3,2,sampling_speaker1,-27.7236122175,-0.147792816162,a tree has a pizza
+114,901_6,901_4,2,sampling_speaker1,-18.269746787,-0.0756816864014,mike and jenny want to play pie with the owl
+115,880_3,898_4,2,sampling_speaker1,-11.0849337303,-0.0918162465096,mike is sitting on the ground
+116,818_8,818_9,2,sampling_speaker1,-15.743320164,-0.271702647209,mike is standing beside the grill
+117,861_3,861_6,2,sampling_speaker1,-13.1749316159,-0.0517435073853,there is a soda near the table
+118,823_8,823_5,2,sampling_speaker1,-11.1387203908,-0.163073480129,mike is holding a hot dog
+119,891_2,891_5,2,sampling_speaker1,-16.5171226342,-0.110475301743,jenny is standing by the tree
+120,836_6,836_0,2,sampling_speaker1,-11.401663046,-0.00144171714783,jenny is standing next to the slide
+121,870_9,870_2,2,sampling_speaker1,-8.64767470546,-0.0116100311279,jenny is running away from the owl
+122,865_1,865_5,2,sampling_speaker1,-10.224741557,-0.110048770905,the sun is hiding behind the tree
+123,841_0,841_6,2,sampling_speaker1,-18.7453600774,-0.225710988045,mike and jenny are grilling at each other
+124,865_0,835_4,2,sampling_speaker1,-10.5974874491,-0.0274538993835,the sun is hiding behind the cloud
+125,816_9,838_8,2,sampling_speaker1,-7.91401465656,-0.0559043884277,mike is sitting on the picnic table
+126,814_4,814_9,2,sampling_speaker1,-12.1594134262,-0.00135970115662,the cat is sitting on the table
+127,898_8,880_5,2,sampling_speaker1,-11.9700364553,-0.47681427002,mike is wearing blue baseball glove
+128,839_0,839_7,2,sampling_speaker1,-8.36715238508,-0.0137199163437,there are red apples on the tree
+129,830_8,830_5,2,sampling_speaker1,-10.9598071847,-0.172376811504,jenny is sitting in front of the tree
+130,831_7,831_3,2,sampling_speaker1,-14.0544229826,-0.336027145386,jenny is running away from the sand
+131,861_4,861_3,2,sampling_speaker1,-11.4314775175,-0.00549173355103,mike is scared of the snake
+132,829_2,829_1,2,sampling_speaker1,-6.21712480415,-0.171965122223,jenny is wearing a pirate hat
+133,861_0,861_9,2,sampling_speaker1,-13.6720357473,-0.0688872337341,there is a picnic table near the picnic table
+134,850_8,850_4,2,sampling_speaker1,-10.4003241591,-0.00779485702515,the dog wants to eat the hamburger
+135,820_6,820_8,2,sampling_speaker1,-18.0601608347,-0.136306166649,jenny is standing by the tree
+136,827_9,827_2,2,sampling_speaker1,-11.7591483458,-0.0348782539368,jenny is running toward mike
+137,809_6,809_3,2,sampling_speaker1,-10.1820155283,-0.0702539682388,the dog is standing by the tree
+138,861_0,861_2,2,sampling_speaker1,-9.61854672592,-0.0250024795532,the bear is standing next to the picnic table
+139,881_7,881_8,2,sampling_speaker1,-10.2582956051,-0.359283447266,the hotdog is on the table
+140,809_3,809_2,2,sampling_speaker1,-7.70805769576,-0.126343727112,jenny is standing on the swing
+141,808_7,808_8,2,sampling_speaker1,-7.4254817927,-0.00180435180664,mike is wearing a crown
+142,880_5,898_8,2,sampling_speaker1,-13.6183358086,-0.0542256832123,jenny is reaching for the apple tree
+143,864_5,838_8,2,sampling_speaker1,-9.38236704965,-0.012765109539,jenny is throwing the frisbee
+144,839_7,839_0,2,sampling_speaker1,-13.9818480835,-0.197533637285,mike is sitting on the ground
+145,809_9,809_4,2,sampling_speaker1,-4.44254230208,-0.00375366210938,jenny is wearing a baseball cap
+146,841_2,841_0,2,sampling_speaker1,-11.0836683411,-0.226261138916,mike is flying a kite
+147,808_1,808_5,2,sampling_speaker1,-13.8322525613,-0.0828223228455,jenny and mike are happy to see the owl
+148,898_8,880_3,2,sampling_speaker1,-21.805565349,-0.0171241760254,the apple tree has a glove with his glove
+149,804_6,804_0,2,sampling_speaker1,-11.2632677899,-0.00552368164062,jenny is wearing sunglasses
+150,806_3,806_0,2,sampling_speaker1,-10.2078881526,-0.106444835663,there is a helicopter in the sky
+151,880_3,898_8,2,sampling_speaker1,-21.110173432,-0.0203823558986,mike is sitting on the ground
+152,852_3,852_9,2,sampling_speaker1,-11.4710978561,-0.000453472137451,the dog is standing around the table
+153,867_5,867_3,2,sampling_speaker1,-11.2939863656,-0.286464214325,jenny is throwing the frisbee
+154,836_0,836_8,2,sampling_speaker1,-4.43009516285,-0.447618484497,mike is wearing a pirate hat
+155,831_5,831_6,2,sampling_speaker1,-12.9946879728,-0.00800806283951,mike and jenny are playing soccer
+156,838_4,853_4,2,sampling_speaker1,-11.1933302088,-0.028190612793,jenny is waving at the pie
+157,804_8,804_9,2,sampling_speaker1,-12.9266073654,-0.138328075409,jenny is holding a tennis ball
+158,813_4,813_2,2,sampling_speaker1,-5.25901709806,-0.357047080994,mike is wearing sunglasses
+159,896_5,896_3,2,sampling_speaker1,-13.744469084,-0.00804114341736,the balloon is in the sky
+160,845_4,845_8,2,sampling_speaker1,-10.1111675216,-0.16773223877,mike is holding four balloons
+161,835_1,835_4,2,sampling_speaker1,-9.39021764628,-0.044240295887,the soccer ball is beside the sandbox
+162,829_4,829_6,2,sampling_speaker1,-15.8669275842,-0.489824295044,jenny is standing next to the apple tree
+163,881_8,881_6,2,sampling_speaker1,-18.8347991776,-0.356271028519,mike is angry because jenny is mad at the basketball
+164,831_6,831_1,2,sampling_speaker1,-9.75882587719,-0.339451789856,there are four four balloons in the sky
+165,870_0,870_2,2,sampling_speaker1,-4.63754312383,-0.502738952637,jenny is wearing a viking hat
+166,814_5,814_4,2,sampling_speaker1,-10.1999031619,-0.110590457916,jenny is happy to eat the pizza
+167,870_7,870_8,2,sampling_speaker1,-7.76474549915,-0.46492099762,the owl is on top of the slide
+168,806_4,806_5,2,sampling_speaker1,-9.56968231127,-0.125259280205,there is a cloud in the sky
+169,832_2,832_1,2,sampling_speaker1,-12.3469053153,-0.00835371017456,jenny is wearing sunglasses
+170,891_2,891_7,2,sampling_speaker1,-12.1060152078,-0.129288434982,mike is standing next to the basketball
+171,881_8,881_7,2,sampling_speaker1,-17.3501194597,-0.468372821808,soda is on the hotdog
+172,831_6,831_5,2,sampling_speaker1,-7.59857429509,-0.145657062531,jenny has four balloons
+173,829_0,829_8,2,sampling_speaker1,-12.2727695623,-0.276616573334,the sun is shining in the sky
+174,828_5,828_0,2,sampling_speaker1,-12.4069172576,-0.28954076767,there is a hamburger on the grill
+175,819_9,819_0,2,sampling_speaker1,-10.0879428912,-0.00228404998779,the dog is by the apple tree
+176,871_4,871_7,2,sampling_speaker1,-10.4935493317,-0.563496589661,jenny is holding balloons
+177,897_5,892_9,2,sampling_speaker1,-15.8809572206,-0.00257730484009,jenny wants to kick the football
+178,861_5,861_3,2,sampling_speaker1,-5.32238840461,-0.151386260986,mike is wearing a chefs hat
+179,846_9,846_0,2,sampling_speaker1,-10.4067891526,-0.0158953666687,there are three burgers on the grill
+180,854_7,835_7,2,sampling_speaker1,-12.3085372597,-0.11132055521,the dog is in front of the tree
+181,828_8,828_0,2,sampling_speaker1,-13.6775786022,-0.169768810272,there are three balls on the grill
+182,808_7,808_1,2,sampling_speaker1,-7.4254817927,-0.0837140083313,mike is wearing a crown
+183,835_4,835_1,2,sampling_speaker1,-8.84347834671,-0.37489938736,jenny is kicking the soccer ball
+184,865_7,865_5,2,sampling_speaker1,-11.7338946643,-0.199858188629,the dog is standing by the tree
+185,898_6,880_1,2,sampling_speaker1,-16.4465187359,-0.122317634523,jenny is standing in front of the tree
+186,827_0,827_2,2,sampling_speaker1,-4.36594356044,-0.231907844543,jenny is wearing a silly hat
+187,822_2,809_5,2,sampling_speaker1,-19.6530349418,-0.411649942398,the dog is wearing pink
+188,861_9,861_0,2,sampling_speaker1,-12.9928962857,-0.0551218986511,jenny is sad because the bear has her food
+189,830_8,830_9,2,sampling_speaker1,-18.9285904681,-0.101735115051,jenny is sitting on the ground
+190,829_4,829_5,2,sampling_speaker1,-18.0635607322,-0.218243718147,mike kicks the frisbee
+191,806_0,806_6,2,sampling_speaker1,-15.6816811621,-0.233206868172,a duck is playing soccer with a soccer ball
+192,825_9,825_1,2,sampling_speaker1,-7.94540266255,-0.181650161743,jenny is holding a viking hat
+193,827_2,827_5,2,sampling_speaker1,-12.9431849715,-0.229351520538,jenny is holding a drink
+194,813_8,813_6,2,sampling_speaker1,-4.84556081506,-0.0040807723999,mike is wearing sunglasses
+195,804_7,804_9,2,sampling_speaker1,-10.8879595209,-0.231356069446,mike is playing on the swing
+196,873_1,873_5,2,sampling_speaker1,-11.1864561815,-0.189544200897,mike is holding a hamburger
+197,841_9,841_3,2,sampling_speaker1,-14.8982562916,-0.022777557373,the cat is by the apple tree
+198,813_0,813_9,2,sampling_speaker1,-15.891080115,-0.576783418655,jenny is kicking the ball
+199,829_5,829_4,2,sampling_speaker1,-12.7982911495,-0.0027174949646,the air balloon is flying in the sky
