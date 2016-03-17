@@ -1,0 +1,201 @@
+id,target,distractor,similarity,model_name,speaker_score,listener_score,description
+0,835_8,835_4,1,compiled_speaker1,-3.66987097837,0.0,the dog is standing by the tree
+1,868_3,868_0,1,compiled_speaker1,-1.48392496314,0.0,mike is wearing a viking hat
+2,841_2,841_0,1,compiled_speaker1,-3.48241858916,0.0,the balloons are flying in the sky
+3,880_3,898_4,1,compiled_speaker1,-2.67371015417,0.0,mike is wearing a baseball cap
+4,809_3,809_9,1,compiled_speaker1,-1.25567604649,0.0,the dog is standing by the swing
+5,901_4,901_6,1,compiled_speaker1,-5.76236395942,0.0,the owl is in the tree
+6,871_7,871_4,1,compiled_speaker1,-4.84306717561,0.0,jenny is holding balloons
+7,808_8,808_7,1,compiled_speaker1,-3.52131071922,0.0,the snake is slithering away from the tree
+8,804_1,804_4,1,compiled_speaker1,-6.08348517778,0.0,the owl is in the tree
+9,868_0,868_3,1,compiled_speaker1,-1.69447567126,0.0,mike is wearing a viking hat
+10,841_7,841_3,1,compiled_speaker1,-3.95209427528,0.0,jenny is holding balloons
+11,806_6,806_0,1,compiled_speaker1,-2.67607123784,0.0,the dog is looking at the duck
+12,862_4,894_9,1,compiled_speaker1,-3.06064148502,0.0,the dog is looking at the pie
+13,881_8,881_2,1,compiled_speaker1,-1.91985110425,0.0,jenny is running away from the picnic table
+14,832_8,832_1,1,compiled_speaker1,-6.0520559354,0.0,the hot dogs are on the grill
+15,836_9,836_4,1,compiled_speaker1,-1.10490671309,0.0,the dog is wearing a pirate hat
+16,824_2,824_9,1,compiled_speaker1,-2.93499216402,0.0,the snake is under the swing set
+17,880_1,898_6,1,compiled_speaker1,-6.52246500326,0.0,jenny is holding a baseball glove
+18,804_6,804_0,1,compiled_speaker1,-2.52818378199,0.0,mike is wearing purple glasses
+19,827_6,827_3,1,compiled_speaker1,-3.26281730949,0.0,mike is wearing a witch hat
+20,835_9,835_4,1,compiled_speaker1,-3.32561185963,0.0,the dog is looking at the soccer ball
+21,825_9,825_8,1,compiled_speaker1,-1.93628571637,0.0,jenny is wearing a viking hat
+22,848_0,848_6,1,compiled_speaker1,-1.33297515409,0.0,the pizza is on the table
+23,813_4,813_2,1,compiled_speaker1,-4.15182552359,0.0,jenny is standing next to the beach ball
+24,804_7,804_0,1,compiled_speaker1,-3.59950561549,0.0,an airplane is flying in the sky
+25,870_2,870_7,1,compiled_speaker1,-5.13780215918,0.0,the owl is sitting on top of the slide
+26,861_3,861_8,1,compiled_speaker1,-2.05945892783,0.0,the bear is wearing a chefs hat
+27,873_5,873_1,1,compiled_speaker1,-4.95504156089,0.0,the dog is standing by the tree
+28,829_8,829_2,1,compiled_speaker1,-3.15274426665,0.0,the tree is full of apples
+29,870_0,870_8,1,compiled_speaker1,-4.0309996378,0.0,the owl is sitting on top of the slide
+30,852_9,852_3,1,compiled_speaker1,-3.28693309544,0.0,the dog is looking at the frisbee
+31,836_0,836_6,1,compiled_speaker1,-4.50294630277,0.0,the dog is standing next to the pizza
+32,824_9,824_2,1,compiled_speaker1,-1.43018095821,0.0,jenny is running away from the snake
+33,813_2,813_0,1,compiled_speaker1,-3.17133825112,0.0,jenny is wearing a baseball cap
+34,861_4,861_3,1,compiled_speaker1,-2.75323817259,0.0,the snake is under the table
+35,804_1,804_3,1,compiled_speaker1,-6.68697983815,0.0,the owl is in the tree
+36,806_0,806_4,1,compiled_speaker1,-3.46684524263,0.0,the dog is looking at the duck
+37,861_0,861_3,1,compiled_speaker1,-1.70084334944,0.0,the bear is wearing a chef hat
+38,832_2,832_1,1,compiled_speaker1,-3.2488165125,0.0,the cat is sitting on the picnic table
+39,891_6,891_2,1,compiled_speaker1,-3.74946345488,0.0,mike is holding a hot air balloon
+40,828_0,828_7,1,compiled_speaker1,-7.64543504155,0.0,there are three hamburgers on the grill
+41,889_6,889_5,1,compiled_speaker1,-2.52439504887,0.0,jenny is kicking the beach ball
+42,831_6,831_1,1,compiled_speaker1,-3.0767873093,0.0,mike is holding balloons
+43,853_4,838_4,1,compiled_speaker1,-3.64387708071,0.0,the bear is standing near the picnic table
+44,814_1,814_7,1,compiled_speaker1,-2.48305561214,0.0,the pizza is on the table
+45,816_1,816_7,1,compiled_speaker1,-1.81560071505,0.0,the pie is on the table
+46,835_4,835_0,1,compiled_speaker1,-3.65453859027,0.0,the dog is looking at the soccer ball
+47,901_5,888_3,1,compiled_speaker1,-2.97439394372,0.0,the owl is sitting in the tree
+48,832_1,832_8,1,compiled_speaker1,-5.43664270541,0.0,the hot dogs are on the grill
+49,897_5,892_9,1,compiled_speaker1,-3.35857790227,0.0,the hot air plane is flying in the sky
+50,868_4,868_2,2,compiled_speaker1,-1.82865667781,0.0,mike is wearing a viking hat
+51,868_7,868_9,2,compiled_speaker1,-1.71859773519,0.0,mike is wearing a viking hat
+52,877_1,877_9,2,compiled_speaker1,-7.98472463876,0.0,the bear is wearing sunglasses
+53,828_2,828_4,2,compiled_speaker1,-3.79144594213,0.0,jenny is kicking the beach ball
+54,858_0,899_9,2,compiled_speaker1,-3.39968931764,0.0,the hot air plane is flying in the sky
+55,828_0,896_2,2,compiled_speaker1,-6.93828736222,0.0,there are three hamburgers on the grill
+56,867_7,867_5,2,compiled_speaker1,-1.85509832687,0.0,the apple tree is full of apples
+57,846_5,846_2,2,compiled_speaker1,-14.5299357078,0.0,the slide is next to the slide
+58,898_2,802_7,2,compiled_speaker1,-10.4214220083,0.0,mike is wearing a baseball mitt
+59,815_5,815_4,2,compiled_speaker1,-1.52419096811,0.0,mike is wearing a pirate hat
+60,810_8,810_6,2,compiled_speaker1,-2.44550667994,0.0,the owl is sitting in the tree
+61,884_6,884_0,2,compiled_speaker1,-3.12287512063,0.0,the soccer ball is under the apple tree
+62,882_1,819_3,2,compiled_speaker1,-11.2852998701,0.0,the sandbox is in the sandbox
+63,873_2,873_9,2,compiled_speaker1,-3.79765615296,0.0,the dog wants to eat the hamburger
+64,843_0,843_3,2,compiled_speaker1,-2.18066665701,0.0,jenny is wearing sun glasses
+65,803_5,803_0,2,compiled_speaker1,-3.93132694298,0.0,jenny is holding a hot dog
+66,882_1,875_6,2,compiled_speaker1,-9.3112676537,0.0,the sandbox is in the sandbox
+67,866_2,866_8,2,compiled_speaker1,-3.85209595641,0.0,jenny is holding balloons
+68,815_0,815_6,2,compiled_speaker1,-3.06911347895,0.0,mike is wearing a crown
+69,824_5,824_3,2,compiled_speaker1,-3.41259424102,0.0,the snake is beside the swing set
+70,829_8,864_8,2,compiled_speaker1,-0.821795188665,0.0,mike is wearing a pirate hat
+71,901_9,870_9,2,compiled_speaker1,-4.59070549104,0.0,jenny is holding a pie
+72,889_9,813_6,2,compiled_speaker1,-1.47328479505,0.0,jenny is kicking the beach ball
+73,852_0,852_2,2,compiled_speaker1,-2.79366744492,0.0,jenny is wearing a witch hat
+74,804_7,804_6,2,compiled_speaker1,-3.86323422485,0.0,an airplane is flying in the sky
+75,889_9,889_0,2,compiled_speaker1,-1.47607682655,0.0,jenny is kicking the beach ball
+76,873_7,873_1,2,compiled_speaker1,-2.22032548608,0.0,it is raining on jennys hamburger
+77,828_1,828_4,2,compiled_speaker1,-11.5834103513,0.0,the slide is near the slide
+78,893_3,893_8,2,compiled_speaker1,-3.13768607622,0.0,the snake is slithering away from jenny
+79,880_3,844_0,2,compiled_speaker1,-2.68379802855,0.0,mike is wearing a baseball cap
+80,844_8,817_7,2,compiled_speaker1,-2.52798095308,0.0,the snake is slithering away from jenny
+81,883_1,883_9,2,compiled_speaker1,-2.3867803533,0.0,the snake is slithering away from jenny
+82,899_9,858_3,2,compiled_speaker1,-3.631568013,0.0,the basketball is in front of the tree
+83,832_6,832_2,2,compiled_speaker1,-5.19449050795,0.0,the hot dogs are on the grill
+84,876_9,876_2,2,compiled_speaker1,-2.43151924906,0.0,the cat is sitting by the fire
+85,842_4,842_0,2,compiled_speaker1,-3.53232282899,0.0,the snake is slithering away from jenny
+86,893_0,893_1,2,compiled_speaker1,-2.7525450314,0.0,the snake is slithering away from jenny
+87,881_6,881_0,2,compiled_speaker1,-2.07318734858,0.0,jenny is running away from the picnic table
+88,802_7,802_1,2,compiled_speaker1,-3.39400906109,0.0,jenny is wearing a blue cap
+89,855_5,855_8,2,compiled_speaker1,-1.36038305671,0.0,the cat is sitting on the swing
+90,869_3,869_5,2,compiled_speaker1,-2.39753243538,0.0,the bear is wearing a silly hat
+91,845_7,845_1,2,compiled_speaker1,-2.59224141232,0.0,mike is wearing a baseball cap
+92,871_4,871_8,2,compiled_speaker1,-12.0898568018,0.0,jenny is holding a pie
+93,899_9,891_0,2,compiled_speaker1,-4.18960521892,0.0,the hot air balloon is in the sky
+94,820_1,820_6,2,compiled_speaker1,-0.85123308871,0.0,the bear is wearing a chef hat
+95,806_4,806_2,2,compiled_speaker1,-3.03908080336,0.0,the dog is looking at the duck
+96,844_8,817_9,2,compiled_speaker1,-2.34039644866,0.0,the snake is slithering away from jenny
+97,841_9,841_7,2,compiled_speaker1,-3.99005930887,0.0,the cat is under the apple tree
+98,820_7,820_3,2,compiled_speaker1,-2.87522837866,0.0,it is raining on the storm
+99,826_6,859_4,2,compiled_speaker1,-3.30974681437,0.0,the grill is beside the picnic table
+100,818_2,805_9,3,compiled_speaker1,-1.52653093636,0.0,the hamburger is on the table
+101,803_7,805_9,3,compiled_speaker1,-2.81696409284,0.0,the dog is standing by the tent
+102,858_1,821_9,3,compiled_speaker1,-2.03734303123,0.0,the owl is sitting on the picnic table
+103,827_4,827_7,3,compiled_speaker1,-3.05045357267,0.0,the dog is wearing a wizard hat
+104,860_3,819_0,3,compiled_speaker1,-1.96752735283,0.0,mike is wearing purple glasses
+105,853_2,862_9,3,compiled_speaker1,-9.28342042937,0.0,the bear is wearing a hat
+106,843_1,886_5,3,compiled_speaker1,-2.16321216686,0.0,mike is wearing a colorful hat
+107,829_5,829_3,3,compiled_speaker1,-3.03980931024,0.0,mike is wearing a crown
+108,880_2,885_5,3,compiled_speaker1,-2.51408024944,0.0,mike is wearing a baseball cap
+109,894_7,894_3,3,compiled_speaker1,-1.61278777218,0.0,jenny is wearing a silly hat
+110,887_0,871_5,3,compiled_speaker1,-3.59133862437,0.0,the bear is standing in front of the tent
+111,865_2,865_5,3,compiled_speaker1,-3.32153440742,0.0,the helicopter is flying in the sky
+112,802_9,802_5,3,compiled_speaker1,-2.21883380533,0.0,the dog is looking at the bottom of the slide
+113,872_8,835_3,3,compiled_speaker1,-3.44680865646,0.0,the cat is sitting under the tree
+114,884_3,899_7,3,compiled_speaker1,-1.8031113317,0.0,the cat is sitting under the apple tree
+115,848_6,860_0,3,compiled_speaker1,-0.918003967913,0.0,the pizza is on the table
+116,812_2,816_1,3,compiled_speaker1,-2.63916035992,0.0,jenny is running away from the swing
+117,825_3,825_0,3,compiled_speaker1,-1.67570898205,0.0,the owl is sitting on the picnic table
+118,889_5,882_7,3,compiled_speaker1,-2.41303759098,0.0,jenny is kicking the beach ball
+119,869_0,869_9,3,compiled_speaker1,-1.45219710971,0.0,the bear is wearing a silly hat
+120,901_3,810_4,3,compiled_speaker1,-10.5480947112,0.0,the owl is sitting on the tree
+121,892_7,867_8,3,compiled_speaker1,-1.35270428576,0.0,the hot dog is on the table
+122,806_5,806_9,3,compiled_speaker1,-3.20142944318,0.0,the dog is standing by the duck
+123,888_8,837_5,3,compiled_speaker1,-6.90406026682,0.0,the rocket is flying in the sky
+124,865_7,855_6,3,compiled_speaker1,-3.03414938042,0.0,the dog is standing by the tree
+125,871_9,871_5,3,compiled_speaker1,-3.34748082338,0.0,the bear is holding a pie
+126,831_7,831_6,3,compiled_speaker1,-3.5482449954,0.0,mike is holding balloons
+127,871_4,853_3,3,compiled_speaker1,-3.20222457588,0.0,the bear is holding four balloons
+128,836_4,836_5,3,compiled_speaker1,-1.80403633845,0.0,the dog is wearing a pirate hat
+129,882_7,882_4,3,compiled_speaker1,-10.1724011892,0.0,mike is wearing sunglasses
+130,880_1,898_4,3,compiled_speaker1,-11.6259753833,0.0,the glove is near the apple tree
+131,875_5,821_9,3,compiled_speaker1,-5.09035569644,0.0,the glove is sitting on the table
+132,828_0,828_4,3,compiled_speaker1,-7.04091014976,0.0,there are three hamburgers on the grill
+133,865_8,865_1,3,compiled_speaker1,-9.84070064781,0.0,the cat is watching the dog
+134,803_9,803_7,3,compiled_speaker1,-1.83376026661,0.0,the dog is standing by the tent
+135,856_3,845_9,3,compiled_speaker1,-2.74149999104,0.0,the kite is flying high in the sky
+136,883_0,809_5,3,compiled_speaker1,-1.54812392109,0.0,jenny is running away from the snake
+137,814_4,848_8,3,compiled_speaker1,-2.34801143905,0.0,the cat is sitting under the table
+138,882_4,858_9,3,compiled_speaker1,-14.1070114137,0.0,the sandbox is in the sandbox
+139,901_1,894_8,3,compiled_speaker1,-2.09585644423,0.0,the dog wants to eat the pie
+140,834_9,834_7,3,compiled_speaker1,-3.71539717348,0.0,jenny is holding a tennis ball
+141,894_9,802_9,3,compiled_speaker1,-7.61805773218,0.0,the dog is standing by the slide
+142,819_4,895_1,3,compiled_speaker1,-9.59731445706,0.0,the dog is in the sandbox
+143,851_5,824_4,3,compiled_speaker1,-2.66391735802,0.0,the rocket is flying in the sky
+144,894_6,901_1,3,compiled_speaker1,-1.63055482777,0.0,the dog wants to eat the pie
+145,885_1,885_6,3,compiled_speaker1,-5.15742517662,0.0,jenny is holding a baseball bat
+146,824_4,824_2,3,compiled_speaker1,-1.47195844937,0.0,jenny is wearing purple glasses
+147,836_8,814_9,3,compiled_speaker1,-1.08729962887,0.0,mike is wearing a pirate hat
+148,845_4,809_0,3,compiled_speaker1,-5.75268669363,0.0,jenny is holding four balloons
+149,868_0,868_2,3,compiled_speaker1,-1.01458327011,0.0,mike is wearing a viking hat
+150,860_5,865_4,4,compiled_speaker1,-2.97890852946,0.0,the dog is standing next to the tennis ball
+151,854_9,884_0,4,compiled_speaker1,-7.92139179067,0.0,jenny is kicking the soccer ball
+152,886_3,844_1,4,compiled_speaker1,-2.0748449085,0.0,the hot air balloon is in the sky
+153,859_8,854_9,4,compiled_speaker1,-2.69088785441,0.0,the grill is between mike and jenny
+154,882_9,856_4,4,compiled_speaker1,-2.16725348945,0.0,the apple tree is full of apples
+155,812_0,824_2,4,compiled_speaker1,-14.8209594613,0.0,mike is wearing sunglasses
+156,892_5,896_6,4,compiled_speaker1,-3.69183827185,0.0,the owl is sitting in the tree
+157,805_2,851_1,4,compiled_speaker1,-8.5607557787,0.0,the hamburger is on the grill
+158,842_3,842_1,4,compiled_speaker1,-2.17377536556,0.0,the snake is under the apple tree
+159,812_5,851_5,4,compiled_speaker1,-4.04078780898,0.0,mike is holding balloons
+160,844_8,824_3,4,compiled_speaker1,-2.53316470965,0.0,the snake is slithering away from jenny
+161,898_3,880_6,4,compiled_speaker1,-2.43273435359,0.0,mike is wearing a baseball cap
+162,890_1,890_2,4,compiled_speaker1,-2.20422396627,0.0,jenny is running away from the storm
+163,835_4,836_0,4,compiled_speaker1,-4.22760391044,0.0,the dog is standing next to the cat
+164,883_9,895_4,4,compiled_speaker1,-4.05428585198,0.0,the snake is slithering away from jenny
+165,844_1,822_9,4,compiled_speaker1,-1.71393562273,0.0,the snake is slithering away from jenny
+166,887_8,887_4,4,compiled_speaker1,-3.7480707016,0.0,the bear is standing by the picnic table
+167,840_4,844_2,4,compiled_speaker1,-2.6297682617,0.0,lightning is coming from the cloud
+168,829_4,815_0,4,compiled_speaker1,-1.8247491911,0.0,mike is wearing a pirate hat
+169,854_0,845_3,4,compiled_speaker1,-3.51355034576,0.0,the dog is standing next to the soccer ball
+170,866_2,866_0,4,compiled_speaker1,-3.73936598852,0.0,jenny is holding balloons
+171,845_1,888_0,4,compiled_speaker1,-3.45373793251,0.0,mike is wearing purple glasses
+172,812_5,831_0,4,compiled_speaker1,-3.01935262121,0.0,mike is standing by the swing set
+173,843_6,869_4,4,compiled_speaker1,-2.09224522018,0.0,jenny is wearing sun glasses
+174,854_7,895_6,4,compiled_speaker1,-3.35866542196,0.0,the dog is standing by the tree
+175,848_2,816_7,4,compiled_speaker1,-0.912773589111,0.0,the pizza is on the table
+176,866_9,866_8,4,compiled_speaker1,-4.52535389771,0.0,jenny is holding four balloons
+177,854_6,886_8,4,compiled_speaker1,-0.993350598207,0.0,mike is wearing a pirate hat
+178,817_4,817_7,4,compiled_speaker1,-1.236555297,0.0,jenny is wearing a silly hat
+179,816_7,827_7,4,compiled_speaker1,-1.76876582079,0.0,the pie is on the table
+180,828_0,818_6,4,compiled_speaker1,-6.03497933639,0.0,there are three hamburgers on the grill
+181,889_2,819_7,4,compiled_speaker1,-1.53560928679,0.0,jenny is kicking the beach ball
+182,863_4,820_1,4,compiled_speaker1,-3.81218637222,0.0,the bear is holding a hamburger
+183,853_4,816_4,4,compiled_speaker1,-3.54754412571,0.0,the bear is standing near the picnic table
+184,840_4,895_9,4,compiled_speaker1,-1.65179436623,0.0,jenny is wearing purple glasses
+185,866_8,839_3,4,compiled_speaker1,-8.07729173771,0.0,the plane is flying in the sky
+186,844_2,883_7,4,compiled_speaker1,-1.82301730688,0.0,jenny is wearing purple glasses
+187,855_9,886_4,4,compiled_speaker1,-1.60243734506,0.0,the cat is sitting on the swing
+188,808_4,808_5,4,compiled_speaker1,-3.55277291835,0.0,the snake is under the slide
+189,809_8,851_1,4,compiled_speaker1,-1.60617432711,0.0,the dog is looking at the swing
+190,838_1,854_8,4,compiled_speaker1,-3.3433201902,0.0,the pie is on the table
+191,877_3,853_8,4,compiled_speaker1,-2.9700673146,0.0,the bear is wearing a crown
+192,880_1,824_8,4,compiled_speaker1,-9.42623652067,0.0,mike is holding a baseball glove
+193,860_6,812_4,4,compiled_speaker1,-1.66079652643,0.0,jenny is wearing sun glasses
+194,844_2,822_2,4,compiled_speaker1,-1.64194522594,0.0,jenny is wearing purple glasses
+195,860_4,814_3,4,compiled_speaker1,-3.75230211979,0.0,the dog is standing next to the soccer ball
+196,893_3,855_6,4,compiled_speaker1,-3.01539325581,0.0,the snake is slithering away from jenny
+197,812_2,860_7,4,compiled_speaker1,-2.04845072091,0.0,jenny is standing by the swing set
+198,856_4,867_7,4,compiled_speaker1,-3.73921882652,0.0,mike is flying a kite
+199,889_2,882_2,4,compiled_speaker1,-1.69674676931,0.0,jenny is kicking the beach ball
