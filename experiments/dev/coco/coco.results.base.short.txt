@@ -1,0 +1,1001 @@
+id,target,distractor,similarity,model_name,speaker_score,listener_score,description
+0,344065_1558798,344065_183835,0,sampling_speaker1,-12.9237718748,-0.159366846085,a bunch of the middle of the photo
+1,344065_1558798,344065_183835,0,sampling_speaker1,-16.9169940564,-0.146297097206,a bunch of basket in the middle of the center
+2,344065_1558798,344065_183835,0,sampling_speaker1,-28.90707371,-0.405162811279,a bunch of bananas in a basket of a basket of a man in a basket of a group
+3,344065_1558798,344065_183835,0,sampling_speaker1,-19.6982163115,-0.0973689556122,a basket of bananas in the middle of the basket in the right
+4,344065_1558798,344065_183835,0,sampling_speaker1,-14.9633348142,-0.0852055549622,a bunch of bananas in the right of the other basket
+5,344065_1558798,344065_183835,0,sampling_speaker1,-30.7758373093,-0.144323825836,the bunch of bananas in a basket of a yellow basket in the orange table
+6,344065_1558798,344065_183835,0,sampling_speaker1,-14.340191312,-0.0731791853905,the bunch of the left of the other basket
+7,344065_1558798,344065_183835,0,sampling_speaker1,-17.3509686425,-0.164405584335,bananas in the middle of the middle of the other man
+8,344065_1558798,344065_183835,0,sampling_speaker1,-26.4273775523,-0.0196305513382,a bunch of a basket of the middle of the middle of the front of the other bananas
+9,344065_1558798,344065_183835,0,sampling_speaker1,-31.1474989379,-0.0598366856575,a bunch of a large yellow and yellow basket and a pile of a basket of a basket
+10,270362_1047662,270362_691171,0,sampling_speaker1,-10.517923741,-0.0023432970047,a apple with a pink apple
+11,270362_1047662,270362_691171,0,sampling_speaker1,-9.8414162923,-0.00513386726379,a small apple with a green apple
+12,270362_1047662,270362_691171,0,sampling_speaker1,-11.1532420541,-0.0141379833221,a apple of a green apple
+13,270362_1047662,270362_691171,0,sampling_speaker1,-14.0391389927,-0.0102570056915,a yellow apple in the right of the apple
+14,270362_1047662,270362_691171,0,sampling_speaker1,-9.8414162923,-0.00513386726379,a small apple with a green apple
+15,270362_1047662,270362_691171,0,sampling_speaker1,-7.92416633842,-0.00331735610962,a apple with apple
+16,270362_1047662,270362_691171,0,sampling_speaker1,-9.8414162923,-0.00513386726379,a small apple with a green apple
+17,270362_1047662,270362_691171,0,sampling_speaker1,-8.95151065216,-0.000807762145996,a blurry apple in the right
+18,270362_1047662,270362_691171,0,sampling_speaker1,-10.5278690694,-0.00472676753998,a yellow apple next to the left
+19,270362_1047662,270362_691171,0,sampling_speaker1,-9.78722036864,-0.0137491226196,a bowl with the apple
+20,344073_1104230,344073_1103981,0,sampling_speaker1,-21.2478497586,-0.895478725433,a black monitor with the right hand on the left side of the right hand
+21,344073_1104230,344073_1103981,0,sampling_speaker1,-14.9088692079,-1.58742237091,the laptop that the right of the desk
+22,344073_1104230,344073_1103981,0,sampling_speaker1,-13.0398866626,-0.979484081268,a black computer in front of a silver monitor
+23,344073_1104230,344073_1103981,0,sampling_speaker1,-17.3455780324,-0.688667297363,the black computer computer on the right side of the right hand
+24,344073_1104230,344073_1103981,0,sampling_speaker1,-6.03890058317,-0.872675895691,a black monitor
+25,344073_1104230,344073_1103981,0,sampling_speaker1,-11.0726783588,-0.636677742004,the computer computer on the right side
+26,344073_1104230,344073_1103981,0,sampling_speaker1,-9.27761195741,-0.502850532532,a black monitor with a black computer
+27,344073_1104230,344073_1103981,0,sampling_speaker1,-9.27761195741,-0.502850532532,a black monitor with a black computer
+28,344073_1104230,344073_1103981,0,sampling_speaker1,-16.421883486,-0.828807830811,a black monitor with the right of the right computer
+29,344073_1104230,344073_1103981,0,sampling_speaker1,-15.468288412,-0.766143798828,a black monitor with a desk in the right hand picture
+30,409661_1710348,409661_448286,0,sampling_speaker1,-9.11105622277,-0.486103057861,a person in a blue shirt and a red shirt
+31,409661_1710348,409661_448286,0,sampling_speaker1,-9.13587098661,-0.938982009888,a person in a red shirt and food
+32,409661_1710348,409661_448286,0,sampling_speaker1,-16.5350329264,-0.0208320617676,a person in a person standing behind a man in a red shirt
+33,409661_1710348,409661_448286,0,sampling_speaker1,-13.3951797902,-0.490760803223,a person in a blue shirt and jeans and a red shirt
+34,409661_1710348,409661_448286,0,sampling_speaker1,-9.48995310718,-0.8659324646,a person in a red shirt and white shirt
+35,409661_1710348,409661_448286,0,sampling_speaker1,-4.54797697467,-0.20695400238,a person in a red shirt
+36,409661_1710348,409661_448286,0,sampling_speaker1,-4.54797697467,-0.20695400238,a person in a red shirt
+37,409661_1710348,409661_448286,0,sampling_speaker1,-8.94621557595,-0.579296112061,a person wearing a red shirt and a red shirt
+38,409661_1710348,409661_448286,0,sampling_speaker1,-4.54797697467,-0.20695400238,a person in a red shirt
+39,409661_1710348,409661_448286,0,sampling_speaker1,-17.9992911431,-3.61921215057,a red and blue shirt and a red shirt and food
+40,213070_1569908,213070_1074699,0,sampling_speaker1,-39.8916613571,-0.0841288566589,a small large large green and green and pink and red and red and white colored and white and
+41,213070_1569908,213070_1074699,0,sampling_speaker1,-27.6054371562,-0.0182411670685,a large yellow and pink and red and white and yellow frosting
+42,213070_1569908,213070_1074699,0,sampling_speaker1,-38.7802405545,-0.208427429199,a large large purple bear with a red colored and pink and red and red and white and red
+43,213070_1569908,213070_1074699,0,sampling_speaker1,-38.0381977936,-0.0345005989075,the bottom of the yellow and green and yellow and white and yellow and red and white and pink
+44,213070_1569908,213070_1074699,0,sampling_speaker1,-36.9409537217,-0.0620021820068,a large green and white and yellow and purple and red and red and red and white and pink
+45,213070_1569908,213070_1074699,0,sampling_speaker1,-25.6933471312,-0.32657968998,a large large large cake with a tall top of it
+46,213070_1569908,213070_1074699,0,sampling_speaker1,-36.6049410553,-0.058030128479,a yellow and white and white and yellow and white and yellow and yellow and red and white and
+47,213070_1569908,213070_1074699,0,sampling_speaker1,-40.6602637385,-0.0126686096191,a large purple cover with green and blue and red and blue and red and yellow and white and
+48,213070_1569908,213070_1074699,0,sampling_speaker1,-40.5396364862,-0.0342669487,the most box with a white and yellow and red and yellow and red and yellow and white and
+49,213070_1569908,213070_1074699,0,sampling_speaker1,-37.0539016538,-0.135381698608,a large large white and yellow and white and red and white and white and yellow and white and
+50,442451_421840,442451_573338,0,sampling_speaker1,-6.81541005923,-0.212461471558,a woman wearing a white hat
+51,442451_421840,442451_573338,0,sampling_speaker1,-17.9472531677,-0.195453643799,a woman in a black hat , holding a red hat
+52,442451_421840,442451_573338,0,sampling_speaker1,-11.3209366525,-0.0999221801758,the man wearing hat and white hat
+53,442451_421840,442451_573338,0,sampling_speaker1,-7.26899998277,-0.115422725677,a man wearing a black hat
+54,442451_421840,442451_573338,0,sampling_speaker1,-12.6420114962,-0.507810115814,a woman in a white shirt and red hat
+55,442451_421840,442451_573338,0,sampling_speaker1,-16.8672923697,-0.0887451171875,a man in white dress with white color dress
+56,442451_421840,442451_573338,0,sampling_speaker1,-9.91998033088,-0.0753154754639,a man in white hair and white hat
+57,442451_421840,442451_573338,0,sampling_speaker1,-6.32108736396,-1.07253026962,a woman in white hat
+58,442451_421840,442451_573338,0,sampling_speaker1,-6.81541005923,-0.212461471558,a woman wearing a white hat
+59,442451_421840,442451_573338,0,sampling_speaker1,-7.06262024257,-1.06043863297,a woman in a white hat
+60,327768_110670,327768_110569,0,sampling_speaker1,-8.1285294373,-1.12584924698,the chair to the right side
+61,327768_110670,327768_110569,0,sampling_speaker1,-5.58200907604,-0.960646629333,a black chair chair
+62,327768_110670,327768_110569,0,sampling_speaker1,-10.1845815034,-1.05814504623,the chair that the window
+63,327768_110670,327768_110569,0,sampling_speaker1,-6.67534607477,-1.25291275978,the chair closest to the camera
+64,327768_110670,327768_110569,0,sampling_speaker1,-10.4562575117,-1.33861064911,the chair chair in front of the chair
+65,327768_110670,327768_110569,0,sampling_speaker1,-11.1139744749,-0.438802719116,the black chair chair in front of the camera
+66,327768_110670,327768_110569,0,sampling_speaker1,-5.49537904285,-0.777073860168,the black chair chair
+67,327768_110670,327768_110569,0,sampling_speaker1,-7.39260812253,-1.99461269379,the chair with chair
+68,327768_110670,327768_110569,0,sampling_speaker1,-10.2844585349,-1.28500366211,the chair chair facing the left
+69,327768_110670,327768_110569,0,sampling_speaker1,-8.60799295249,-2.80002117157,a chair with a chair
+70,311388_2219142,311388_1911162,0,sampling_speaker1,-12.8219417638,-1.7013964653,a slice of pizza on the left of the table
+71,311388_2219142,311388_1911162,0,sampling_speaker1,-12.207248444,-0.773629665375,a slice of pizza with a slice of pizza on it
+72,311388_2219142,311388_1911162,0,sampling_speaker1,-13.2783241805,-1.69754552841,a piece of pizza on the left of the table
+73,311388_2219142,311388_1911162,0,sampling_speaker1,-12.8865633105,-0.561295986176,a slice of pizza on the right of the plate
+74,311388_2219142,311388_1911162,0,sampling_speaker1,-22.5511044025,-0.244144439697,a piece of pizza with a slice of pizza and the white plate
+75,311388_2219142,311388_1911162,0,sampling_speaker1,-12.5283123672,-0.740692138672,a piece of pizza with a slice of pizza on it
+76,311388_2219142,311388_1911162,0,sampling_speaker1,-14.7666831361,-1.04726696014,the slice of pizza on top of a slice of pizza on it
+77,311388_2219142,311388_1911162,0,sampling_speaker1,-12.082328343,-1.34887504578,a piece of pizza with a slice of pizza
+78,311388_2219142,311388_1911162,0,sampling_speaker1,-24.4158912077,-0.408273220062,a slice of pizza with a piece of pizza on the left of the white plate
+79,311388_2219142,311388_1911162,0,sampling_speaker1,-20.5729249442,-1.35809612274,the slice of pizza on the left of another slice of a slice of pizza
+80,163939_1116273,163939_1116908,0,sampling_speaker1,-29.0243796371,-0.293455123901,the white of white and white box in white and white and white and white and white and white
+81,163939_1116273,163939_1116908,0,sampling_speaker1,-23.8616591722,-0.0374298095703,a white and white bowl of an orange and white and white and white and white bowl
+82,163939_1116273,163939_1116908,0,sampling_speaker1,-21.5964134712,-0.915369033813,a white of white keyboard in a white of white and white bowl
+83,163939_1116273,163939_1116908,0,sampling_speaker1,-13.0547942973,-0.0610275268555,a white bowl of a white and white bowl
+84,163939_1116273,163939_1116908,0,sampling_speaker1,-18.72182253,-0.280069351196,the white white of white bowl in front of it
+85,163939_1116273,163939_1116908,0,sampling_speaker1,-19.6578675456,-0.355435848236,a white white keyboard in a white and white and white bowl
+86,163939_1116273,163939_1116908,0,sampling_speaker1,-13.4887313558,-0.0994009971619,a white and white bowl of the table
+87,163939_1116273,163939_1116908,0,sampling_speaker1,-14.8625508535,-0.254453539848,the white keyboard with a white and white bowl
+88,163939_1116273,163939_1116908,0,sampling_speaker1,-27.0019836244,-0.263763189316,a white of white and white bowl and an up in the table
+89,163939_1116273,163939_1116908,0,sampling_speaker1,-20.6380186328,-0.262432813644,an white white of white bowl in front of the other table
+90,475236_1082730,475236_1081609,0,sampling_speaker1,-7.93352937128,-0.27138710022,a donut with a plate
+91,475236_1082730,475236_1081609,0,sampling_speaker1,-9.08720734663,-0.638534188271,a donut with a white plate
+92,475236_1082730,475236_1081609,0,sampling_speaker1,-17.2956005073,-0.902012884617,a donut with a banana to the left of a banana
+93,475236_1082730,475236_1081609,0,sampling_speaker1,-15.0603850519,-0.39374756813,the donut with a plate ' s hand
+94,475236_1082730,475236_1081609,0,sampling_speaker1,-9.22071896023,-0.547681093216,a donut with a white donut
+95,475236_1082730,475236_1081609,0,sampling_speaker1,-30.3305164775,-0.426171302795,a hotdog with a plate on the left of the bottom of the top of the white plate
+96,475236_1082730,475236_1081609,0,sampling_speaker1,-12.4792676334,-0.812246799469,a doughnut with a white banana
+97,475236_1082730,475236_1081609,0,sampling_speaker1,-7.93352937128,-0.27138710022,a donut with a plate
+98,475236_1082730,475236_1081609,0,sampling_speaker1,-7.93352937128,-0.27138710022,a donut with a plate
+99,475236_1082730,475236_1081609,0,sampling_speaker1,-9.08720734663,-0.638534188271,a donut with a white plate
+100,516198_477664,516198_435447,0,sampling_speaker1,-8.74020186937,-0.352609634399,a man in black and black jacket
+101,516198_477664,516198_435447,0,sampling_speaker1,-6.50479965112,-0.328433990479,a man in a black hat
+102,516198_477664,516198_435447,0,sampling_speaker1,-12.7590305986,-0.65925359726,an man wearing black coat
+103,516198_477664,516198_435447,0,sampling_speaker1,-6.58348352798,-0.525370597839,a man in black
+104,516198_477664,516198_435447,0,sampling_speaker1,-12.4571111547,-1.30447483063,the skier in black and white jacket
+105,516198_477664,516198_435447,0,sampling_speaker1,-7.45641829023,-1.1680586338,a woman in a black hat
+106,516198_477664,516198_435447,0,sampling_speaker1,-10.8842810739,-0.161449432373,a man in a black and black shirt
+107,516198_477664,516198_435447,0,sampling_speaker1,-10.2508913052,-0.171766281128,a man wearing a black and white hat
+108,516198_477664,516198_435447,0,sampling_speaker1,-6.50479965112,-0.328433990479,a man in a black hat
+109,516198_477664,516198_435447,0,sampling_speaker1,-10.2635832643,-0.225434303284,a man in the black and black jacket
+110,360570_220430,360570_225970,0,sampling_speaker1,-20.0004556401,-0.0135831832886,a woman in a brown top and blue jeans on her phone
+111,360570_220430,360570_225970,0,sampling_speaker1,-13.2094028276,-0.0144529342651,girl in her cellphone
+112,360570_220430,360570_225970,0,sampling_speaker1,-9.0660419447,-0.0241189002991,a girl in a brown dress
+113,360570_220430,360570_225970,0,sampling_speaker1,-12.8634145137,-0.00558376312256,a woman holding a woman in the right hand
+114,360570_220430,360570_225970,0,sampling_speaker1,-7.93309440987,-0.0389003753662,a woman in a brown skirt
+115,360570_220430,360570_225970,0,sampling_speaker1,-16.0037379538,-0.00971603393555,a woman wearing a pink and pink tank top
+116,360570_220430,360570_225970,0,sampling_speaker1,-9.30548015029,-0.0440216064453,a woman with a brown skirt
+117,360570_220430,360570_225970,0,sampling_speaker1,-10.9574334392,-0.0189943313599,a girl in the pink dress
+118,360570_220430,360570_225970,0,sampling_speaker1,-7.7562996523,-0.0165634155273,a woman in a blue dress
+119,360570_220430,360570_225970,0,sampling_speaker1,-8.42908208209,-0.0876212120056,a girl in a blue skirt
+120,8320_591936,8320_592241,0,sampling_speaker1,-16.4156174985,-1.5225417614,a baby is standing behind a camera
+121,8320_591936,8320_592241,0,sampling_speaker1,-6.46521447445,-1.50753927231,the zebra standing in front
+122,8320_591936,8320_592241,0,sampling_speaker1,-9.66924032808,-1.44716858864,a young zebra standing in front
+123,8320_591936,8320_592241,0,sampling_speaker1,-7.3990280415,-1.40611076355,the zebra with the middle
+124,8320_591936,8320_592241,0,sampling_speaker1,-9.71568281489,-1.45560896397,the baby in the middle
+125,8320_591936,8320_592241,0,sampling_speaker1,-9.97084846459,-1.30512952805,a zebra with two other zebras
+126,8320_591936,8320_592241,0,sampling_speaker1,-10.7356941124,-1.47076511383,the zebra standing behind the field
+127,8320_591936,8320_592241,0,sampling_speaker1,-12.1545565291,-1.4856030941,a zebra that is standing in the middle
+128,8320_591936,8320_592241,0,sampling_speaker1,-6.46521447445,-1.50753927231,the zebra standing in front
+129,8320_591936,8320_592241,0,sampling_speaker1,-4.69013196794,-1.54062414169,the zebra standing
+130,319160_598939,319160_596067,0,sampling_speaker1,-13.9256356611,-4.00817298889,the giraffe that is the camera
+131,319160_598939,319160_596067,0,sampling_speaker1,-25.1252893437,-4.78320360184,a giraffe with a tree and a giraffe and his head
+132,319160_598939,319160_596067,0,sampling_speaker1,-10.7238663844,-4.0248169899,the giraffe next to the camera
+133,319160_598939,319160_596067,0,sampling_speaker1,-11.6507309637,-3.50380897522,a giraffe looking the camera
+134,319160_598939,319160_596067,0,sampling_speaker1,-16.9430835437,-1.19733738899,a baby and brown and giraffe walking
+135,319160_598939,319160_596067,0,sampling_speaker1,-12.0601225923,-3.40908479691,the giraffe with the camera
+136,319160_598939,319160_596067,0,sampling_speaker1,-35.0099823016,-5.93263149261,a giraffe and a tree and a giraffe and a giraffe and its head and another giraffe
+137,319160_598939,319160_596067,0,sampling_speaker1,-43.6090792685,-3.65813684464,the giraffe that is a giraffe and its head and baby and a giraffe and back
+138,319160_598939,319160_596067,0,sampling_speaker1,-19.0213126021,-6.08989715576,a giraffe and two the larger giraffe
+139,319160_598939,319160_596067,0,sampling_speaker1,-17.3626129583,-5.28103399277,a giraffe and its giraffe ' s camera
+140,409740_399187,409740_485557,0,sampling_speaker1,-10.3082559885,-2.14576721191e-06,a black van with a red car
+141,409740_399187,409740_485557,0,sampling_speaker1,-31.8891167494,0.0,a red car parked in a red open and a red and white and red and yellow and red
+142,409740_399187,409740_485557,0,sampling_speaker1,-23.8479613518,0.0,a white van parked in a red and red and yellow cart
+143,409740_399187,409740_485557,0,sampling_speaker1,-4.64901732045,-0.000163197517395,a red van
+144,409740_399187,409740_485557,0,sampling_speaker1,-17.7893439602,0.0,a red van with a red and red and white van
+145,409740_399187,409740_485557,0,sampling_speaker1,-14.312780695,-7.15255737305e-07,a red car with a red passing
+146,409740_399187,409740_485557,0,sampling_speaker1,-8.70496832598,0.0,a red car with a red truck
+147,409740_399187,409740_485557,0,sampling_speaker1,-9.67252736249,-4.76837158203e-07,a red car parked in the street
+148,409740_399187,409740_485557,0,sampling_speaker1,-27.0201304654,-1.19209289551e-07,a red van parked on a red and red and yellow and red and red shirt
+149,409740_399187,409740_485557,0,sampling_speaker1,-19.3276635081,-4.29153442383e-06,a blue car is parked on a red and a red shirt
+150,144_1414540,144_596031,0,sampling_speaker1,-6.43995923529,-0.0690937042236,a giraffe with a giraffe
+151,144_1414540,144_596031,0,sampling_speaker1,-14.4073270789,-0.291757583618,the giraffe with a giraffe with its giraffe
+152,144_1414540,144_596031,0,sampling_speaker1,-9.82698877851,-0.0359687805176,a giraffe with its neck
+153,144_1414540,144_596031,0,sampling_speaker1,-13.6340503527,-0.342763900757,a giraffe with a giraffe in front of a giraffe
+154,144_1414540,144_596031,0,sampling_speaker1,-10.7612399406,-0.0810441970825,a giraffe with a baby giraffe
+155,144_1414540,144_596031,0,sampling_speaker1,-15.5000526819,-0.0800924301147,a giraffe with a giraffe in front of a fence
+156,144_1414540,144_596031,0,sampling_speaker1,-10.6002567667,-0.0723361968994,a giraffe with a larger giraffe
+157,144_1414540,144_596031,0,sampling_speaker1,-10.9091730693,-0.0530872344971,a giraffe eating the fence
+158,144_1414540,144_596031,0,sampling_speaker1,-6.43995923529,-0.0690937042236,a giraffe with a giraffe
+159,144_1414540,144_596031,0,sampling_speaker1,-10.8749236671,-0.0378108024597,a giraffe with some giraffes
+160,344214_37048,344214_40139,0,sampling_speaker1,-13.0407290789,-2.37849998474,white duck with a white
+161,344214_37048,344214_40139,0,sampling_speaker1,-38.6721998273,-0.0424199104309,a brown teddy white bird with its of a large white of a white teddy bear
+162,344214_37048,344214_40139,0,sampling_speaker1,-12.7759306712,-2.73233413696,a white duck with a white vase
+163,344214_37048,344214_40139,0,sampling_speaker1,-30.1585612523,-2.64160823822,a white white bird on the right of a white of white of a white of it
+164,344214_37048,344214_40139,0,sampling_speaker1,-21.6446209757,-2.73009443283,a white duck with a stuffed duck with a white duck
+165,344214_37048,344214_40139,0,sampling_speaker1,-23.3808115931,-0.449050664902,a white bird with a white bear with the other two it
+166,344214_37048,344214_40139,0,sampling_speaker1,-12.3390350179,-2.64183950424,a white animal with a white duck
+167,344214_37048,344214_40139,0,sampling_speaker1,-18.4501358713,-0.313471794128,a white teddy duck with a white teddy bear
+168,344214_37048,344214_40139,0,sampling_speaker1,-15.0311447313,-0.846861839294,a white duck with a white teddy bear
+169,344214_37048,344214_40139,0,sampling_speaker1,-16.8390841926,-3.5490167141,a white teddy white of white vase
+170,311448_310064,311448_1909845,0,sampling_speaker1,-4.50455406929,-0.428190171719,the sandwich
+171,311448_310064,311448_1909845,0,sampling_speaker1,-5.89763328587,-0.17152929306,a sandwich on a sandwich
+172,311448_310064,311448_1909845,0,sampling_speaker1,-10.8541121267,-0.438970565796,a sandwich on the left side of the plate
+173,311448_310064,311448_1909845,0,sampling_speaker1,-3.70558238634,-0.323681592941,a sandwich
+174,311448_310064,311448_1909845,0,sampling_speaker1,-11.8345577073,-0.218655511737,a sandwich on two other
+175,311448_310064,311448_1909845,0,sampling_speaker1,-6.90405839503,-0.130253732204,a sandwich on a white plate
+176,311448_310064,311448_1909845,0,sampling_speaker1,-5.25331976783,-0.240828037262,a sandwich on a plate
+177,311448_310064,311448_1909845,0,sampling_speaker1,-5.55055195249,-0.13686478138,a sandwich with a sandwich
+178,311448_310064,311448_1909845,0,sampling_speaker1,-5.44235022167,-0.381112962961,a sandwich on the left
+179,311448_310064,311448_1909845,0,sampling_speaker1,-7.25568009156,-0.263131380081,the sandwich on a plate
+180,391876_477929,391876_469694,0,sampling_speaker1,-10.6578603181,-0.0370254516602,a woman wearing a blue shirt and brown shirt
+181,391876_477929,391876_469694,0,sampling_speaker1,-20.5243705961,-0.0445199012756,the person with a blue shirt and brown pants and black pants
+182,391876_477929,391876_469694,0,sampling_speaker1,-19.3823775306,-0.0492267608643,a woman in black t shirt and a blue shirt and glasses
+183,391876_477929,391876_469694,0,sampling_speaker1,-15.8396289937,-0.0109243392944,a woman wearing a blue shirt and brown shirt and brown pants
+184,391876_477929,391876_469694,0,sampling_speaker1,-16.0053654071,-0.019380569458,a woman in a blue shirt and blue pants and black pants
+185,391876_477929,391876_469694,0,sampling_speaker1,-11.9584635895,-0.0322885513306,a woman in blue shirt and black pants
+186,391876_477929,391876_469694,0,sampling_speaker1,-30.064918134,-0.0259246826172,a woman with a light blue shirt with a blue shirt and blue shirt on her right of the
+187,391876_477929,391876_469694,0,sampling_speaker1,-23.9736186648,-0.0511045455933,a woman with a red shirt and hair wearing a blue shirt and blue pants
+188,391876_477929,391876_469694,0,sampling_speaker1,-17.8662538517,-0.0239725112915,a woman in a blue shirt and dark blue shirt and brown jeans
+189,391876_477929,391876_469694,0,sampling_speaker1,-16.427394109,-0.0203123092651,a woman wearing a blue shirt and black jeans wearing a blue shirt
+190,164001_680856,164001_681903,0,sampling_speaker1,-12.3054399651,-0.0479772090912,a cup of coffee on the side of coffee
+191,164001_680856,164001_681903,0,sampling_speaker1,-7.94048739924,-0.169346094131,a white cup of coffee on it
+192,164001_680856,164001_681903,0,sampling_speaker1,-9.82987495732,-0.0253729820251,a cup of coffee of coffee
+193,164001_680856,164001_681903,0,sampling_speaker1,-7.83576326713,-0.0665040016174,a cup of coffee in coffee
+194,164001_680856,164001_681903,0,sampling_speaker1,-11.5114776204,-0.0250654220581,cup of coffee coffee next to a coffee cup
+195,164001_680856,164001_681903,0,sampling_speaker1,-8.3570710233,-0.191118240356,a cup of coffee on the table
+196,164001_680856,164001_681903,0,sampling_speaker1,-10.9911065087,-0.091287612915,coffee coffee coffee next to a table
+197,164001_680856,164001_681903,0,sampling_speaker1,-11.8389036343,-0.0554728507996,a white cup of coffee next to a coffee coffee
+198,164001_680856,164001_681903,0,sampling_speaker1,-10.8597285014,-0.0997104644775,a white cup of coffee on the plate
+199,164001_680856,164001_681903,0,sampling_speaker1,-7.50258206023,-0.0474348068237,a cup of coffee with coffee
+200,458935_1101445,458935_478652,0,sampling_speaker1,-26.3270862238,-0.00673282146454,a small girl with a child and a white and white shirt and a white laptop
+201,458935_1101445,458935_478652,0,sampling_speaker1,-23.2759188856,-0.541630506516,a small girl on a striped shirt and a green table
+202,458935_1101445,458935_478652,0,sampling_speaker1,-25.0023020174,-0.484065115452,a small girl with a blue shirt and a blue and white shirt and a white and white shirt
+203,458935_1101445,458935_478652,0,sampling_speaker1,-16.5599000648,-0.310227632523,a small girl with green and blue shirt and a green laptop
+204,458935_1101445,458935_478652,0,sampling_speaker1,-19.5224603645,-0.000388622283936,a small laptop with a green and white shirt and a blue laptop
+205,458935_1101445,458935_478652,0,sampling_speaker1,-29.4988721455,-0.00250339508057,a small small girl with green and green shirt and a green cup and a white laptop
+206,458935_1101445,458935_478652,0,sampling_speaker1,-24.8957242525,-1.23288011551,a green girl with a blue shirt and green shirt with a green cup
+207,458935_1101445,458935_478652,0,sampling_speaker1,-24.9451237664,-0.0437778234482,a small girl with a blue and white and blue shirt and a blue and white laptop
+208,458935_1101445,458935_478652,0,sampling_speaker1,-26.7301639629,-0.0646055340767,a red laptop with a green and white shirt and a green and white shirt and a green and
+209,458935_1101445,458935_478652,0,sampling_speaker1,-25.1762662178,-0.127824306488,a green laptop with a green shirt and a blue and white shirt and a green shirt and a
+210,205000_446511,205000_481130,0,sampling_speaker1,-22.5112419934,-0.16650056839,a woman in a white dress and a red sweater and a red sweater
+211,205000_446511,205000_481130,0,sampling_speaker1,-9.46494464832,-0.181627750397,woman in a black jacket
+212,205000_446511,205000_481130,0,sampling_speaker1,-16.4876235737,-0.488379955292,the woman in a red dress and glasses on her left
+213,205000_446511,205000_481130,0,sampling_speaker1,-6.97431485121,-0.186727523804,a woman in a pink dress
+214,205000_446511,205000_481130,0,sampling_speaker1,-15.300361535,-0.151060581207,a woman in a green dress with a black jacket
+215,205000_446511,205000_481130,0,sampling_speaker1,-14.7252531721,-0.646236896515,a woman wearing a black dress holding a laptop
+216,205000_446511,205000_481130,0,sampling_speaker1,-15.6251374337,-0.348380088806,the woman in a white sweater with jeans
+217,205000_446511,205000_481130,0,sampling_speaker1,-17.048458325,-0.362619876862,a woman wearing a black dress and glasses on a baby
+218,205000_446511,205000_481130,0,sampling_speaker1,-6.54083804511,-0.331635475159,a woman in a black dress
+219,205000_446511,205000_481130,0,sampling_speaker1,-8.50057392841,-0.231738567352,woman in a black dress
+220,131279_524856,131279_491252,0,sampling_speaker1,-9.20869273979,-0.529695034027,a baby girl a baby
+221,131279_524856,131279_491252,0,sampling_speaker1,-12.7622789175,-0.291182994843,a girl wearing a red shirt holding a baby
+222,131279_524856,131279_491252,0,sampling_speaker1,-8.41075065086,-0.100936412811,a girl wearing a gray shirt
+223,131279_524856,131279_491252,0,sampling_speaker1,-7.88352458005,-0.176933288574,a girl wearing a pink shirt
+224,131279_524856,131279_491252,0,sampling_speaker1,-9.44855023037,-0.237709522247,a baby girl in a pink shirt
+225,131279_524856,131279_491252,0,sampling_speaker1,-8.32053065709,-1.76165652275,a baby baby a baby
+226,131279_524856,131279_491252,0,sampling_speaker1,-10.2997982237,-0.108661174774,the little girl wearing a brown shirt
+227,131279_524856,131279_491252,0,sampling_speaker1,-10.8234891118,-0.244306087494,a child with a red shirt
+228,131279_524856,131279_491252,0,sampling_speaker1,-11.8519305246,-0.348124980927,a little girl sitting in baby
+229,131279_524856,131279_491252,0,sampling_speaker1,-9.44855023037,-0.237709522247,a baby girl in a pink shirt
+230,458827_642249,458827_639617,0,sampling_speaker1,-6.7772359879,-0.560760915279,the skateboard in the air
+231,458827_642249,458827_639617,0,sampling_speaker1,-17.768767849,-0.241254091263,the skateboard that is being by a man in a white shirt
+232,458827_642249,458827_639617,0,sampling_speaker1,-8.48798071449,-0.546413421631,the skateboard is skateboard
+233,458827_642249,458827_639617,0,sampling_speaker1,-9.31858120423,-0.693820357323,the skateboard that is on
+234,458827_642249,458827_639617,0,sampling_speaker1,-14.85245745,-0.395057797432,skateboard in a skateboard in jeans
+235,458827_642249,458827_639617,0,sampling_speaker1,-6.7772359879,-0.560760915279,the skateboard in the air
+236,458827_642249,458827_639617,0,sampling_speaker1,-7.81988668392,-0.672245562077,a skateboard in the air
+237,458827_642249,458827_639617,0,sampling_speaker1,-5.36511216061,-0.578273653984,skateboard skateboard
+238,458827_642249,458827_639617,0,sampling_speaker1,-11.8508131795,-0.741758227348,the skateboard with a blue shoes
+239,458827_642249,458827_639617,0,sampling_speaker1,-6.7772359879,-0.560760915279,the skateboard in the air
+240,406772_658633,406772_488155,0,sampling_speaker1,-6.06137815473,-0.0259620323777,a silver tennis racket
+241,406772_658633,406772_488155,0,sampling_speaker1,-22.4108496502,-1.19163131714,a tennis racket that is holding a man in a white and white - racket
+242,406772_658633,406772_488155,0,sampling_speaker1,-12.9714659698,-2.3059387207,a tennis racket that is holding a man in a white shirt
+243,406772_658633,406772_488155,0,sampling_speaker1,-10.755872903,-0.000675916671753,a black racket and white racket
+244,406772_658633,406772_488155,0,sampling_speaker1,-19.0370707347,-1.1545009613,a silver racket that is holding a man in a man and a white shirt
+245,406772_658633,406772_488155,0,sampling_speaker1,-14.7267990736,-2.92884492874,a tennis racket that is holding a man in a girl
+246,406772_658633,406772_488155,0,sampling_speaker1,-13.8594880052,-0.745431900024,the racket closest to the man in the man
+247,406772_658633,406772_488155,0,sampling_speaker1,-14.9616050704,-2.36244773865,a tennis racket racket on the man in a man
+248,406772_658633,406772_488155,0,sampling_speaker1,-18.0131614564,-0.217356681824,a grey racket that is standing in a man in a white shirt
+249,406772_658633,406772_488155,0,sampling_speaker1,-5.06265751071,-0.0659666135907,a tennis racket
+250,524520_353258,524520_353518,0,sampling_speaker1,-17.8503640389,-0.186682343483,a black suitcase that is sitting to the right
+251,524520_353258,524520_353518,0,sampling_speaker1,-35.0813961277,-1.12886404991,a light light two - car on top of a girl with a window
+252,524520_353258,524520_353518,0,sampling_speaker1,-24.0792510697,-0.112177848816,the bottom of two two other other girl on it
+253,524520_353258,524520_353518,0,sampling_speaker1,-16.151618359,-0.369901895523,the top of a mattress
+254,524520_353258,524520_353518,0,sampling_speaker1,-15.772536241,-0.207378923893,a black suitcase sitting on right
+255,524520_353258,524520_353518,0,sampling_speaker1,-28.8649661604,-0.410173416138,a small backpack that has a girl with a mouse on top
+256,524520_353258,524520_353518,0,sampling_speaker1,-18.1430843801,-0.0941749215126,a black book sitting on the left of the girl
+257,524520_353258,524520_353518,0,sampling_speaker1,-12.2922753541,-0.197217345238,a sitting on the left
+258,524520_353258,524520_353518,0,sampling_speaker1,-15.342137782,-0.336975932121,a black car that is on the right
+259,524520_353258,524520_353518,0,sampling_speaker1,-25.9265618627,-0.24539077282,a black double - couch on the front of the photo
+260,445462_1813683,445462_2207621,0,sampling_speaker1,-14.6359354525,-2.28741693497,a woman wearing a black suit sitting to a man
+261,445462_1813683,445462_2207621,0,sampling_speaker1,-19.3573735004,-1.2523856163,a woman in black color shirt , sitting to the camera
+262,445462_1813683,445462_2207621,0,sampling_speaker1,-22.158825099,-0.51926612854,a black suit in front of all the luggage
+263,445462_1813683,445462_2207621,0,sampling_speaker1,-10.00844341,-1.35198354721,a woman in black and black hat
+264,445462_1813683,445462_2207621,0,sampling_speaker1,-15.3485239781,-2.51383829117,a woman wearing a black coat , wearing a black coat
+265,445462_1813683,445462_2207621,0,sampling_speaker1,-20.3271708905,-0.231167316437,a woman wearing a black suit and black , sitting on a table
+266,445462_1813683,445462_2207621,0,sampling_speaker1,-8.1290464592,-1.90500020981,a woman wearing black suit
+267,445462_1813683,445462_2207621,0,sampling_speaker1,-6.16059245533,-1.74545145035,a woman wearing a black coat
+268,445462_1813683,445462_2207621,0,sampling_speaker1,-6.67592319514,-1.56027936935,a woman wearing a black suit
+269,445462_1813683,445462_2207621,0,sampling_speaker1,-9.24080831951,-1.4289150238,a young woman in black
+270,164093_187898,164093_205604,0,sampling_speaker1,-15.3991346635,-0.0644912719727,a man in a white and white shirt and blue pants
+271,164093_187898,164093_205604,0,sampling_speaker1,-11.5005415319,-0.0360279083252,a young woman sitting on a wii
+272,164093_187898,164093_205604,0,sampling_speaker1,-12.8405987734,-0.00284099578857,a man in a black and red shirt
+273,164093_187898,164093_205604,0,sampling_speaker1,-17.7589822629,-0.182772040367,the man in the white and white shirt and white pants
+274,164093_187898,164093_205604,0,sampling_speaker1,-15.9480570958,-0.013632774353,the man in a red and white shirt and white shirt
+275,164093_187898,164093_205604,0,sampling_speaker1,-15.8772132258,-0.00074577331543,the woman in a purple shirt and a red shirt
+276,164093_187898,164093_205604,0,sampling_speaker1,-10.9167386902,-0.00598955154419,a woman in a blue and white shirt
+277,164093_187898,164093_205604,0,sampling_speaker1,-22.3748334072,-0.0694228410721,woman in a red and white shirt and a red and blue
+278,164093_187898,164093_205604,0,sampling_speaker1,-24.7417108897,-0.00153064727783,the man in a red shirt and a plaid sweater and a white shirt
+279,164093_187898,164093_205604,0,sampling_speaker1,-17.2813153834,-0.0299730300903,a woman in a white and white shirt and her pants
+280,236245_466364,236245_474533,0,sampling_speaker1,-18.8008027502,-0.425786972046,a man wearing a blue shirt and a blue shirt and a yellow shirt and a yellow shirt
+281,236245_466364,236245_474533,0,sampling_speaker1,-21.9782739842,-0.370481491089,a man wearing a blue shirt and yellow shirt and a yellow shirt and a yellow shirt and a
+282,236245_466364,236245_474533,0,sampling_speaker1,-21.8093085422,-0.323525428772,a man wearing a blue shirt is and green shorts and a yellow shirt
+283,236245_466364,236245_474533,0,sampling_speaker1,-22.0725987962,-0.355728149414,a man wearing a blue shirt and a yellow sweater and a blue shirt and a yellow shirt and
+284,236245_466364,236245_474533,0,sampling_speaker1,-19.5626918169,-0.422358512878,a man wearing a blue shirt and a blue shirt and a blue shirt and a yellow shirt ,
+285,236245_466364,236245_474533,0,sampling_speaker1,-10.7750896949,-0.403925895691,a girl wearing a blue shirt and blue shorts
+286,236245_466364,236245_474533,0,sampling_speaker1,-23.6392228154,-0.41880607605,a man holding a yellow shirt and a blue shirt and a blue shirt and a blue shirt and
+287,236245_466364,236245_474533,0,sampling_speaker1,-25.2183634831,-0.331418991089,a man wearing a blue shirt and yellow blue shirt and a blue shirt and a black shirt and
+288,236245_466364,236245_474533,0,sampling_speaker1,-23.2209314402,-0.337756156921,a man wearing a blue shirt and blue hair and a yellow shirt and a yellow t shirt
+289,236245_466364,236245_474533,0,sampling_speaker1,-24.0654111885,-0.763909339905,a young girl in a blue shirt and blue shirt and a blue shirt and a yellow shirt and
+290,573700_366159,573700_366125,0,sampling_speaker1,-13.6961217157,-0.951992988586,a red bus that is parked on the side of the bus
+291,573700_366159,573700_366125,0,sampling_speaker1,-13.524692819,-1.05903148651,red bus with bus on the side of the bus
+292,573700_366159,573700_366125,0,sampling_speaker1,-11.7019650717,-1.78319644928,a red bus with bus on the side of another bus
+293,573700_366159,573700_366125,0,sampling_speaker1,-8.0292070976,-1.29537248611,a red bus with a bus
+294,573700_366159,573700_366125,0,sampling_speaker1,-9.51299297462,-0.113276958466,a red bus in the street
+295,573700_366159,573700_366125,0,sampling_speaker1,-10.9218623758,-0.692326068878,a red bus that is on the side of a bus
+296,573700_366159,573700_366125,0,sampling_speaker1,-13.7014789881,-1.07608795166,a red bus that is bus on the side of the bus
+297,573700_366159,573700_366125,0,sampling_speaker1,-16.0508239837,-1.49957895279,a red bus on the left of a bus on the side of a bus
+298,573700_366159,573700_366125,0,sampling_speaker1,-10.7508693593,-0.785316944122,a red bus with bus on the camera
+299,573700_366159,573700_366125,0,sampling_speaker1,-9.3774916473,-0.100996017456,a red bus that is on the side
+300,278796_1913225,278796_1913790,0,sampling_speaker1,-22.8851792661,-0.00135219097137,a blue and blue , and blue , blue , , , sitting on the table
+301,278796_1913225,278796_1913790,0,sampling_speaker1,-29.4252499323,-0.00881296396255,the blue and blue , , sitting on the right of blue of blue of blue of blue ,
+302,278796_1913225,278796_1913790,0,sampling_speaker1,-30.467871392,-0.00308036804199,a white and blue and blue , , and blue of yellow , , in the table
+303,278796_1913225,278796_1913790,0,sampling_speaker1,-17.4465131635,-0.00982165336609,a blue and blue , and blue , in the table
+304,278796_1913225,278796_1913790,0,sampling_speaker1,-24.2563248902,-0.00102990865707,a blue and blue , of blue of blue and blue , , sitting on it
+305,278796_1913225,278796_1913790,0,sampling_speaker1,-13.2217985947,-0.00641298294067,a blue and blue , light blue table
+306,278796_1913225,278796_1913790,0,sampling_speaker1,-35.4156434483,-0.000110149383545,a blue and blue and blue , and blue , black , , blue of blue , and yellow
+307,278796_1913225,278796_1913790,0,sampling_speaker1,-36.649602678,-0.00468039512634,the blue , , , in blue of blue of black of blue , and blue , , ,
+308,278796_1913225,278796_1913790,0,sampling_speaker1,-24.7431301074,-0.000165581703186,blue and blue , blue and blue and blue , , , sitting on it
+309,278796_1913225,278796_1913790,0,sampling_speaker1,-29.8423100583,-0.000914573669434,a yellow and blue and blue and blue , , of blue , , in the table
+310,92702_463067,92702_1204664,0,sampling_speaker1,-7.24418189301,-0.536109447479,a woman wearing a hat
+311,92702_463067,92702_1204664,0,sampling_speaker1,-19.5929343929,-0.469276428223,a woman wearing a brown shirt and her hair and a woman
+312,92702_463067,92702_1204664,0,sampling_speaker1,-20.0083178977,-0.790274620056,a woman with a yellow shirt and blond hair and a hat
+313,92702_463067,92702_1204664,0,sampling_speaker1,-19.0681553672,-0.693968772888,a woman wearing a yellow shirt and glasses with a lady
+314,92702_463067,92702_1204664,0,sampling_speaker1,-12.5645414487,-0.333102703094,a woman with her hair and her hair
+315,92702_463067,92702_1204664,0,sampling_speaker1,-11.4151406963,-0.74124956131,a woman with a hat and shirt
+316,92702_463067,92702_1204664,0,sampling_speaker1,-9.02105121096,-0.301578998566,a woman with a white shirt
+317,92702_463067,92702_1204664,0,sampling_speaker1,-24.828566594,-0.781116485596,a woman wearing a hat in a black shirt with her hair holding a phone
+318,92702_463067,92702_1204664,0,sampling_speaker1,-13.7518184597,-0.794821739197,a woman with orange hair and her hair
+319,92702_463067,92702_1204664,0,sampling_speaker1,-20.0470296865,-1.03432178497,a woman wearing a yellow shirt and orange hair next to a picture
+320,508202_717811,508202_1534515,0,sampling_speaker1,-11.3312984186,-2.86102294922e-05,a bowl of a white bowl in a white bowl
+321,508202_717811,508202_1534515,0,sampling_speaker1,-12.6752382821,-2.09808349609e-05,a bowl of a small bowl in a white bowl
+322,508202_717811,508202_1534515,0,sampling_speaker1,-15.1775477378,-0.000431060791016,a bowl of food in a white bowl of vegetables
+323,508202_717811,508202_1534515,0,sampling_speaker1,-9.382435448,-0.0125653743744,a white bowl of a white bowl
+324,508202_717811,508202_1534515,0,sampling_speaker1,-16.5801589689,-9.53674316406e-07,a bowl of a white bowl with a bowl of a bowl
+325,508202_717811,508202_1534515,0,sampling_speaker1,-7.6820384164,-0.0173954963684,a bowl of a white bowl
+326,508202_717811,508202_1534515,0,sampling_speaker1,-12.4724981393,-0.000154495239258,the bowl of a white bowl in a white bowl
+327,508202_717811,508202_1534515,0,sampling_speaker1,-16.6993291089,0.0,a white bowl with a white bowl in a bowl of a bowl
+328,508202_717811,508202_1534515,0,sampling_speaker1,-17.7501588001,-9.53674316406e-07,a white bowl in a white bowl of a white bowl of a white bowl
+329,508202_717811,508202_1534515,0,sampling_speaker1,-13.4944410413,-0.000217437744141,a bowl of a white bowl of the white bowl
+330,528117_501305,528117_513953,0,sampling_speaker1,-15.8889100862,-0.0942196846008,the player wearing a blue shirt swinging a bat
+331,528117_501305,528117_513953,0,sampling_speaker1,-9.29800893146,-0.0067286491394,a baseball player in the number uniform
+332,528117_501305,528117_513953,0,sampling_speaker1,-22.3273694731,-0.0168772935867,the batter with the number uniform with the number number up
+333,528117_501305,528117_513953,0,sampling_speaker1,-29.4235970943,-0.0040397644043,a baseball player with a white uniform in a black uniform and a baseball jersey ,
+334,528117_501305,528117_513953,0,sampling_speaker1,-28.4506555412,-0.280737876892,the baseball player in a black shirt holding a baseball home uniform on his back
+335,528117_501305,528117_513953,0,sampling_speaker1,-23.740792299,-0.00055980682373,the player in the number uniform with a white uniform with the number bat
+336,528117_501305,528117_513953,0,sampling_speaker1,-21.9633698644,-0.366028785706,a baseball player wearing blue uniform wearing a black uniform to the bat
+337,528117_501305,528117_513953,0,sampling_speaker1,-11.2120982212,-0.00300931930542,the baseball player with baseball
+338,528117_501305,528117_513953,0,sampling_speaker1,-9.99420127556,-0.00714778900146,the baseball player in the number jersey
+339,528117_501305,528117_513953,0,sampling_speaker1,-24.3628001796,-0.00177097320557,a baseball player with the number uniform with a baseball uniform wearing a blue uniform
+340,360759_2108179,360759_388514,0,sampling_speaker1,-9.68374678343,-0.000465154647827,a banana with a yellow banana
+341,360759_2108179,360759_388514,0,sampling_speaker1,-17.6122585615,-0.00100445747375,a banana in a yellow and white hotdog
+342,360759_2108179,360759_388514,0,sampling_speaker1,-21.3878263967,-0.00106692314148,a banana in a yellow and yellow color and white shirt
+343,360759_2108179,360759_388514,0,sampling_speaker1,-12.9954424803,-0.000293791294098,a small banana with a yellow bowl
+344,360759_2108179,360759_388514,0,sampling_speaker1,-18.5959285604,-0.0138731002808,a banana on a white hand with a banana
+345,360759_2108179,360759_388514,0,sampling_speaker1,-15.0816097105,-0.00252282619476,banana with a banana with a white donut
+346,360759_2108179,360759_388514,0,sampling_speaker1,-14.143072622,-0.00452589988708,a small banana with a yellow and white shirt
+347,360759_2108179,360759_388514,0,sampling_speaker1,-21.2118831787,-0.000682711601257,a banana with a yellow teddy and yellow and white shirt
+348,360759_2108179,360759_388514,0,sampling_speaker1,-15.6173880247,-0.000699162483215,a banana with a yellow - holding a banana
+349,360759_2108179,360759_388514,0,sampling_speaker1,-10.0818344686,-0.00353503227234,a banana holding a white banana
+350,360760_1237061,360760_432344,0,sampling_speaker1,-8.96318774631,-2.8651971817,the back of a woman in a white shirt
+351,360760_1237061,360760_432344,0,sampling_speaker1,-8.03682717194,-2.464001894,a person in a white shirt
+352,360760_1237061,360760_432344,0,sampling_speaker1,-27.8234885169,-0.868143081665,a person in a white shirt is standing to a woman in a blue shirt and a white shirt
+353,360760_1237061,360760_432344,0,sampling_speaker1,-13.3273690103,-3.3467206955,a woman in a white shirt standing in the background
+354,360760_1237061,360760_432344,0,sampling_speaker1,-7.433162317,-3.86151337624,a woman in a white shirt
+355,360760_1237061,360760_432344,0,sampling_speaker1,-13.4756699136,-3.2106757164,a woman in a white shirt and white shirt
+356,360760_1237061,360760_432344,0,sampling_speaker1,-14.0283220384,-0.678460836411,a photo in a white jacket
+357,360760_1237061,360760_432344,0,sampling_speaker1,-15.164993463,-0.603458404541,a blurry chair with a woman in a white shirt
+358,360760_1237061,360760_432344,0,sampling_speaker1,-16.7520032254,-0.215037345886,a blurry chair in the back of a woman in a white shirt
+359,360760_1237061,360760_432344,0,sampling_speaker1,-7.86447629016,-2.04527044296,a woman in a black shirt
+360,189836_277915,189836_2191523,0,sampling_speaker1,-16.6532283243,-0.150931417942,the wooden chair in front of a small brown dog
+361,189836_277915,189836_2191523,0,sampling_speaker1,-6.69540992653,-0.119530916214,the wooden chair
+362,189836_277915,189836_2191523,0,sampling_speaker1,-17.3538066653,-0.773373186588,a small horse sitting in front of a brown dog
+363,189836_277915,189836_2191523,0,sampling_speaker1,-13.6165610048,-0.378439813852,a small brown chair in front of a horse
+364,189836_277915,189836_2191523,0,sampling_speaker1,-17.6659130837,-2.01825237274,a brown horse in front of a horse in front of it
+365,189836_277915,189836_2191523,0,sampling_speaker1,-23.4747330841,-0.413420319557,a little brown cat sitting in a wooden shirt
+366,189836_277915,189836_2191523,0,sampling_speaker1,-25.5963197538,-0.466217339039,a chair in the middle of a large brown and brown dog
+367,189836_277915,189836_2191523,0,sampling_speaker1,-21.6422402221,-0.916040182114,the back of two two two line
+368,189836_277915,189836_2191523,0,sampling_speaker1,-29.2963510673,-3.53060245514,a brown horse behind another white bowl of a little brown dog
+369,189836_277915,189836_2191523,0,sampling_speaker1,-14.6845028534,-1.64965391159,the animal in front of another dog
+370,475488_531312,475488_533574,0,sampling_speaker1,-12.332328251,-0.026792049408,a woman in a large brown bear
+371,475488_531312,475488_533574,0,sampling_speaker1,-21.2401975783,-1.50344610214,a woman in the red and scarf and green dress
+372,475488_531312,475488_533574,0,sampling_speaker1,-16.4868474033,-1.88937568665,a woman in the top of the tall girl
+373,475488_531312,475488_533574,0,sampling_speaker1,-10.1430968691,-0.0140309333801,a woman holding a brown coat
+374,475488_531312,475488_533574,0,sampling_speaker1,-8.75000956203,-0.195369720459,a woman in a yellow dress
+375,475488_531312,475488_533574,0,sampling_speaker1,-21.430707878,-0.348436355591,a woman in a yellow jacket and dress on the camera
+376,475488_531312,475488_533574,0,sampling_speaker1,-9.81361176305,-0.00744783878326,a woman with a brown bear
+377,475488_531312,475488_533574,0,sampling_speaker1,-9.35185360228,-0.213363170624,a woman in a yellow top
+378,475488_531312,475488_533574,0,sampling_speaker1,-9.04112798563,-0.156263828278,a woman in a red coat
+379,475488_531312,475488_533574,0,sampling_speaker1,-9.57243441687,-0.0189468860626,a woman with a yellow bear
+380,16765_160031,16765_160694,0,sampling_speaker1,-46.7177004792,-2.95898008347,a large large engine aeroplane from the left side of the front with a large plane with the train
+381,16765_160031,16765_160694,0,sampling_speaker1,-45.1259611158,-3.3826584816,a green plane with the front of the front with an and plane with an , airplane with its
+382,16765_160031,16765_160694,0,sampling_speaker1,-15.3525451793,-4.14756059647,large airplane with the train
+383,16765_160031,16765_160694,0,sampling_speaker1,-31.3385169655,-5.94904947281,a blue plane with the old tow plane with its
+384,16765_160031,16765_160694,0,sampling_speaker1,-46.5127779274,-1.09226346016,the large aeroplane with a large plane with the train with an front of a train with the united
+385,16765_160031,16765_160694,0,sampling_speaker1,-16.3876139591,-7.38878536224,the large blue aeroplane
+386,16765_160031,16765_160694,0,sampling_speaker1,-35.7386322587,-5.02677869797,a large elephant with the red airplane with a gray airplane with the front
+387,16765_160031,16765_160694,0,sampling_speaker1,-45.165622393,-3.09133982658,a large plane with the stripe with the front of a small united airplane with a large airplane with
+388,16765_160031,16765_160694,0,sampling_speaker1,-24.7634547179,-4.9855837822,the long delta train at the airplane
+389,16765_160031,16765_160694,0,sampling_speaker1,-36.4675893918,-5.44794893265,an plane with the plane with the front with an side of a blue plane
+390,418196_694568,418196_1085953,0,sampling_speaker1,-19.1983317396,-0.064991235733,a knife that is a fork with other a knife
+391,418196_694568,418196_1085953,0,sampling_speaker1,-11.4803625054,-0.826019406319,the knife on left side of the plate
+392,418196_694568,418196_1085953,0,sampling_speaker1,-4.9870005134,-0.172930240631,the fork
+393,418196_694568,418196_1085953,0,sampling_speaker1,-8.15680727646,-0.754255414009,a fork on the left of the plate
+394,418196_694568,418196_1085953,0,sampling_speaker1,-9.28770635501,-0.12518659234,the fork with a plate
+395,418196_694568,418196_1085953,0,sampling_speaker1,-11.6277768147,-0.844830036163,the fork on the left of two plate
+396,418196_694568,418196_1085953,0,sampling_speaker1,-8.15680727646,-0.754255414009,a fork on the left of the plate
+397,418196_694568,418196_1085953,0,sampling_speaker1,-10.7182734544,-0.16945618391,two fork of the plate
+398,418196_694568,418196_1085953,0,sampling_speaker1,-8.17398980727,-0.725038230419,a knife on the left of the plate
+399,418196_694568,418196_1085953,0,sampling_speaker1,-8.17398980727,-0.725038230419,a knife on the left of the plate
+400,311706_1965493,311706_196401,0,sampling_speaker1,-14.434328718,-0.0118548870087,the top of the knife in the background
+401,311706_1965493,311706_196401,0,sampling_speaker1,-16.6560862533,-0.014918088913,the knife on the left of the sink
+402,311706_1965493,311706_196401,0,sampling_speaker1,-22.5973009831,-0.0132237672806,the back of the knife in the kitchen , knife
+403,311706_1965493,311706_196401,0,sampling_speaker1,-16.7890416921,-0.0074896812439,a book in the top of white handle
+404,311706_1965493,311706_196401,0,sampling_speaker1,-30.2562411253,-0.101746052504,a book in the knife on the knife with a black and white knife
+405,311706_1965493,311706_196401,0,sampling_speaker1,-27.8184626392,-0.00281023979187,a book in the knife that is knife and white and white handle
+406,311706_1965493,311706_196401,0,sampling_speaker1,-14.3244194132,-0.00820851325989,a book near the table
+407,311706_1965493,311706_196401,0,sampling_speaker1,-25.4386387451,-0.00139808654785,the sink on the table under the left of the knife
+408,311706_1965493,311706_196401,0,sampling_speaker1,-17.0983676694,-0.250787496567,a book below the red knife
+409,311706_1965493,311706_196401,0,sampling_speaker1,-14.9745056425,-0.0677578449249,a book in a black table
+410,205223_296797,205223_297341,0,sampling_speaker1,-13.8586095045,-1.26804971695,a man with a man ' s tie
+411,205223_296797,205223_297341,0,sampling_speaker1,-8.30211411374,-0.0138839185238,a bird on the left
+412,205223_296797,205223_297341,0,sampling_speaker1,-10.4672357017,-0.0503931045532,a green tie on the right
+413,205223_296797,205223_297341,0,sampling_speaker1,-13.1879436809,-0.317928314209,a bird with the man on the right
+414,205223_296797,205223_297341,0,sampling_speaker1,-11.8182157068,-0.11351621151,a bird with the woman
+415,205223_296797,205223_297341,0,sampling_speaker1,-7.91483843574,-0.064612865448,a white bag
+416,205223_296797,205223_297341,0,sampling_speaker1,-12.2822678198,-0.756873607635,a green tie with the man
+417,205223_296797,205223_297341,0,sampling_speaker1,-9.57062542672,-0.287662982941,a bird with a man
+418,205223_296797,205223_297341,0,sampling_speaker1,-12.3878956195,-0.645147562027,a white tie on the right side of the man
+419,205223_296797,205223_297341,0,sampling_speaker1,-6.69611811457,-0.0464515686035,a white tie
+420,483794_1965508,483794_1966829,0,sampling_speaker1,-9.58159695842,-0.0654928684235,the laptop of a black keyboard
+421,483794_1965508,483794_1966829,0,sampling_speaker1,-8.15073601188,-0.00456857681274,the laptop on the right laptop
+422,483794_1965508,483794_1966829,0,sampling_speaker1,-11.6157585356,-0.00335502624512,the laptop of the laptop on the right
+423,483794_1965508,483794_1966829,0,sampling_speaker1,-7.45865454123,-0.017778635025,the laptop in the laptop
+424,483794_1965508,483794_1966829,0,sampling_speaker1,-13.0928933471,-0.00540256500244,the laptop in the middle of a black laptop
+425,483794_1965508,483794_1966829,0,sampling_speaker1,-8.32947254229,-0.634849369526,the laptop in the right
+426,483794_1965508,483794_1966829,0,sampling_speaker1,-10.4414379152,-1.08909964561,the keyboard with the screen
+427,483794_1965508,483794_1966829,0,sampling_speaker1,-14.5018091904,-0.0908262729645,the laptop that is sitting on the right of the picture
+428,483794_1965508,483794_1966829,0,sampling_speaker1,-9.52315182633,-1.86975944042,the keyboard of the lap
+429,483794_1965508,483794_1966829,0,sampling_speaker1,-12.2864214434,-0.0100855827332,the laptop in the laptop of a desk
+430,51965_168185,51965_165853,0,sampling_speaker1,-12.9709185689,-1.08588933945,a bus that is behind a bus in a bus
+431,51965_168185,51965_165853,0,sampling_speaker1,-14.7969747932,-1.1024312973,a bus between a bus that is in front of a bus
+432,51965_168185,51965_165853,0,sampling_speaker1,-5.8084087136,-0.479251384735,a bus with a blue bus
+433,51965_168185,51965_165853,0,sampling_speaker1,-4.54510446909,-0.133671760559,a bus with a bus
+434,51965_168185,51965_165853,0,sampling_speaker1,-4.54510446909,-0.133671760559,a bus with a bus
+435,51965_168185,51965_165853,0,sampling_speaker1,-4.54510446909,-0.133671760559,a bus with a bus
+436,51965_168185,51965_165853,0,sampling_speaker1,-4.54510446909,-0.133671760559,a bus with a bus
+437,51965_168185,51965_165853,0,sampling_speaker1,-4.54510446909,-0.133671760559,a bus with a bus
+438,51965_168185,51965_165853,0,sampling_speaker1,-5.28635592954,-0.279236078262,a bus with a white bus
+439,51965_168185,51965_165853,0,sampling_speaker1,-9.80860771726,-0.00707387924194,a bus that is to the street
+440,377331_518565,377331_461368,0,sampling_speaker1,-27.161732587,-0.00366687774658,man wearing a blue shirt , holding a large blue shirt holding a video phone
+441,377331_518565,377331_461368,0,sampling_speaker1,-21.8116084062,-0.00253391265869,a man wearing a beard and blue shirt and glasses holding a wine
+442,377331_518565,377331_461368,0,sampling_speaker1,-15.9568212904,-0.0258855819702,a man in a blue hat on a wine
+443,377331_518565,377331_461368,0,sampling_speaker1,-29.9994874687,-0.000449180603027,a man wearing a blue shirt holding a blue hat with a red hat with a blue shirt and
+444,377331_518565,377331_461368,0,sampling_speaker1,-25.3831258117,-0.0024242401123,a man in a blue shirt and a blue shirt and glasses , holding a glass of a man
+445,377331_518565,377331_461368,0,sampling_speaker1,-24.9525182042,-0.00122737884521,man wearing a blue shirt with a grey shirt and blue shirt holding a wine
+446,377331_518565,377331_461368,0,sampling_speaker1,-31.6075615812,-0.0020112991333,a man wearing a grey shirt and blue shirt holding a hot dog with an orange
+447,377331_518565,377331_461368,0,sampling_speaker1,-27.1945261454,-0.0020112991333,a man wearing a green sweater in a blue shirt and grey shirt holding an mouth
+448,377331_518565,377331_461368,0,sampling_speaker1,-27.418912919,-0.00192832946777,a man in a gray shirt wearing a blue shirt wearing a blue shirt holding a blue cap
+449,377331_518565,377331_461368,0,sampling_speaker1,-19.0180237541,-0.00200080871582,a man in a blue shirt wearing a blue shirt holding a large blue shirt
+450,354361_381724,354361_376972,0,sampling_speaker1,-8.71342274504,-0.0244970321655,the chair to a chair
+451,354361_381724,354361_376972,0,sampling_speaker1,-10.1719499611,-0.00121307373047,a chair chair in a chair
+452,354361_381724,354361_376972,0,sampling_speaker1,-14.1017106571,-0.0273599624634,a chair to the chair in the back
+453,354361_381724,354361_376972,0,sampling_speaker1,-9.7880402187,-0.00626659393311,a chair chair on a chair
+454,354361_381724,354361_376972,0,sampling_speaker1,-12.2211160043,-0.0601491928101,a black chair on the left of a chair
+455,354361_381724,354361_376972,0,sampling_speaker1,-14.6631176318,-0.085485458374,a chair to a chair on the left side
+456,354361_381724,354361_376972,0,sampling_speaker1,-15.9382210456,-0.00304985046387,a chair chair to the back of a wooden chair
+457,354361_381724,354361_376972,0,sampling_speaker1,-13.1160214043,-0.0411148071289,a chair to the left side of a chair
+458,354361_381724,354361_376972,0,sampling_speaker1,-19.3415866813,-0.0175809860229,a black chair with a chair is laying on a table
+459,354361_381724,354361_376972,0,sampling_speaker1,-11.8372565848,-0.126780033112,a black chair is sitting on the left
+460,570951_457105,570951_500240,0,sampling_speaker1,-12.8756163764,-0.161672592163,a man wearing a white shirt and black shirt and a white shirt
+461,570951_457105,570951_500240,0,sampling_speaker1,-5.57787729238,-0.585000038147,a woman in a white shirt
+462,570951_457105,570951_500240,0,sampling_speaker1,-5.35866981225,-0.423233985901,a man wearing a white shirt
+463,570951_457105,570951_500240,0,sampling_speaker1,-8.09604065111,-0.254935264587,a man in a white shirt and black shirt
+464,570951_457105,570951_500240,0,sampling_speaker1,-9.31526919882,-0.325545310974,a woman wearing a white shirt and black shirt
+465,570951_457105,570951_500240,0,sampling_speaker1,-13.8385027796,-0.263912200928,a woman wearing a white shirt and white shirt and a black shirt
+466,570951_457105,570951_500240,0,sampling_speaker1,-8.96487740092,-0.708958625793,a woman in a white shirt and white shirt
+467,570951_457105,570951_500240,0,sampling_speaker1,-12.0284485849,-0.439874649048,a man in a white shirt , and white shirt
+468,570951_457105,570951_500240,0,sampling_speaker1,-6.04065090379,-0.656913757324,a man in a blue shirt
+469,570951_457105,570951_500240,0,sampling_speaker1,-8.44370742388,-0.369097709656,a young man wearing a white shirt
+470,360982_482421,360982_495535,0,sampling_speaker1,-7.68384175457,-2.61949682236,a man in a baseball uniform
+471,360982_482421,360982_495535,0,sampling_speaker1,-7.68384175457,-2.61949682236,a man in a baseball uniform
+472,360982_482421,360982_495535,0,sampling_speaker1,-10.8138683737,-2.60154151917,a man who is in the ball
+473,360982_482421,360982_495535,0,sampling_speaker1,-10.2009905526,-2.37846636772,a man in the white uniform
+474,360982_482421,360982_495535,0,sampling_speaker1,-7.68384175457,-2.61949682236,a man in a baseball uniform
+475,360982_482421,360982_495535,0,sampling_speaker1,-12.3195637456,-1.17469072342,a man in a baseball jersey to the ball
+476,360982_482421,360982_495535,0,sampling_speaker1,-8.28794944318,-2.60651135445,a man in the number bat
+477,360982_482421,360982_495535,0,sampling_speaker1,-8.70641313418,-1.22610378265,a man in a baseball player
+478,360982_482421,360982_495535,0,sampling_speaker1,-7.68384175457,-2.61949682236,a man in a baseball uniform
+479,360982_482421,360982_495535,0,sampling_speaker1,-15.7713590713,-1.14025783539,a man in the number uniform in the number ball
+480,502756_460070,502756_442481,0,sampling_speaker1,-23.4040128097,-0.159254550934,a man in a black shirt and black shorts and black pants , playing with a frisbee
+481,502756_460070,502756_442481,0,sampling_speaker1,-19.6752234299,-0.0542740821838,a man in a black shirt playing black cane
+482,502756_460070,502756_442481,0,sampling_speaker1,-10.4263301216,-0.0863275527954,a man in black color shirt
+483,502756_460070,502756_442481,0,sampling_speaker1,-5.63517515465,-0.083179473877,a man in a black shirt
+484,502756_460070,502756_442481,0,sampling_speaker1,-12.9342018721,-0.113739967346,a man in a white shirt and black shorts and black shorts
+485,502756_460070,502756_442481,0,sampling_speaker1,-9.83212152041,-0.610120296478,a man in a red shirt playing a frisbee
+486,502756_460070,502756_442481,0,sampling_speaker1,-13.258403432,-0.147473335266,a man with a white shirt playing black
+487,502756_460070,502756_442481,0,sampling_speaker1,-13.3994905202,-0.131177902222,a man in a black shirt and black shorts playing to the frisbee
+488,502756_460070,502756_442481,0,sampling_speaker1,-11.1185620272,-0.155516624451,a woman wearing a black shirt playing a frisbee
+489,502756_460070,502756_442481,0,sampling_speaker1,-15.2335171417,-0.120107650757,a man in a black shirt and black shorts , playing the frisbee
+490,557609_1039067,557609_1039512,0,sampling_speaker1,-12.359654779,-0.097718000412,a white and white bowl
+491,557609_1039067,557609_1039512,0,sampling_speaker1,-18.4852634847,-1.28705692291,a container of a yellow and cheese container
+492,557609_1039067,557609_1039512,0,sampling_speaker1,-22.9263454472,-1.015006423,a yellow of a yellow of a yellow of it
+493,557609_1039067,557609_1039512,0,sampling_speaker1,-17.7823214448,-2.62312531471,a bowl of food , with a bowl
+494,557609_1039067,557609_1039512,0,sampling_speaker1,-15.4637061616,-0.471708297729,a white container with a yellow box
+495,557609_1039067,557609_1039512,0,sampling_speaker1,-10.5566790988,-0.753659248352,a yellow of container
+496,557609_1039067,557609_1039512,0,sampling_speaker1,-27.3002369903,-2.12464118004,a dish of a bowl of a bowl of cheese and orange
+497,557609_1039067,557609_1039512,0,sampling_speaker1,-13.1334035922,-1.10840010643,a dish with cheese in it
+498,557609_1039067,557609_1039512,0,sampling_speaker1,-20.2136959238,-0.303273200989,a yellow and yellow and white of tomatoes
+499,557609_1039067,557609_1039512,0,sampling_speaker1,-21.1947735609,-0.248134374619,a white tray with a white of yellow food
+500,188991_344066,188991_453663,0,sampling_speaker1,-9.66892670794,-0.00921413302422,the bicycle that is parked
+501,188991_344066,188991_453663,0,sampling_speaker1,-9.52343618263,-0.00846913456917,a bicycle parked parked
+502,188991_344066,188991_453663,0,sampling_speaker1,-18.1861764085,-0.0239148139954,the bicycle that is not is riding the road
+503,188991_344066,188991_453663,0,sampling_speaker1,-19.9354261814,-0.052800655365,the bike that is the cycle is on the right
+504,188991_344066,188991_453663,0,sampling_speaker1,-14.9850491247,-0.0599524974823,the bicycle with the bicycle to the street
+505,188991_344066,188991_453663,0,sampling_speaker1,-4.89412483444,-0.0423894524574,the bike
+506,188991_344066,188991_453663,0,sampling_speaker1,-14.9857070861,-0.0615208148956,a bike with a bike with a basket
+507,188991_344066,188991_453663,0,sampling_speaker1,-11.109101772,-0.0469529628754,the bicycle is the bicycle
+508,188991_344066,188991_453663,0,sampling_speaker1,-11.6356107319,-0.0371358990669,the bike that to the road
+509,188991_344066,188991_453663,0,sampling_speaker1,-24.027670609,-0.0213782787323,a bicycle with a motor bike on the road with a bicycle
+510,501177_513015,501177_513811,0,sampling_speaker1,-13.7359511565,-0.218266963959,the man with the cat in the right hand picture
+511,501177_513015,501177_513811,0,sampling_speaker1,-14.9783117363,-3.76304864883,the man in front of a man in the right hand picture
+512,501177_513015,501177_513811,0,sampling_speaker1,-8.69376755744,-0.97798871994,the man on the right right
+513,501177_513015,501177_513811,0,sampling_speaker1,-9.56664127043,-3.92720174789,a man with a man ' s head
+514,501177_513015,501177_513811,0,sampling_speaker1,-9.75275582684,-4.26423215866,the man in a man ' s face
+515,501177_513015,501177_513811,0,sampling_speaker1,-9.2362699028,-1.66902542114,the man in the left hand picture
+516,501177_513015,501177_513811,0,sampling_speaker1,-21.2472985264,-0.871690511703,a man with a black shirt , sitting on a dog
+517,501177_513015,501177_513811,0,sampling_speaker1,-9.61108768325,-4.08277511597,the man with a man ' s head
+518,501177_513015,501177_513811,0,sampling_speaker1,-9.0243581498,-1.0526278019,the man on the right right picture
+519,501177_513015,501177_513811,0,sampling_speaker1,-13.2425539277,-2.44193410873,the woman with a man ' s head
+520,279147_177357,279147_178600,0,sampling_speaker1,-5.14114660409,-0.197661399841,a boat with blue boat
+521,279147_177357,279147_178600,0,sampling_speaker1,-9.45843168019,-0.428534120321,a blue boat with a blue hand
+522,279147_177357,279147_178600,0,sampling_speaker1,-6.26019150923,-0.573558688164,a blue boat with blue boat
+523,279147_177357,279147_178600,0,sampling_speaker1,-6.24870003352,-0.312766671181,the boat in blue
+524,279147_177357,279147_178600,0,sampling_speaker1,-6.32454767189,-0.355292320251,boat in blue boat
+525,279147_177357,279147_178600,0,sampling_speaker1,-6.24870003352,-0.312766671181,the boat in blue
+526,279147_177357,279147_178600,0,sampling_speaker1,-4.84639992491,-0.248086929321,boat with blue boat
+527,279147_177357,279147_178600,0,sampling_speaker1,-4.73186415285,-0.344537377357,boat with water
+528,279147_177357,279147_178600,0,sampling_speaker1,-4.84639992491,-0.248086929321,boat with blue boat
+529,279147_177357,279147_178600,0,sampling_speaker1,-4.84639992491,-0.248086929321,boat with blue boat
+530,320125_1977955,320125_1977193,0,sampling_speaker1,-16.9813460959,-0.0405633449554,a cell phone in the bottom hand of the phone
+531,320125_1977955,320125_1977193,0,sampling_speaker1,-12.6717357411,-0.0176191329956,a silver phone to the right hand to the phone
+532,320125_1977955,320125_1977193,0,sampling_speaker1,-8.65267044802,-0.0892252922058,a silver phone in the phone
+533,320125_1977955,320125_1977193,0,sampling_speaker1,-17.6516259732,-0.0132825374603,the cell cell phone in the right hand on the right hand picture
+534,320125_1977955,320125_1977193,0,sampling_speaker1,-17.0709661115,-0.0759661197662,a cell phone in the cell phone in a cell phone
+535,320125_1977955,320125_1977193,0,sampling_speaker1,-14.7342963961,-0.0260066986084,the phone on the left hand in the picture
+536,320125_1977955,320125_1977193,0,sampling_speaker1,-13.6799032789,-0.0413343906403,the phone to the right hand in the right hand
+537,320125_1977955,320125_1977193,0,sampling_speaker1,-12.3620196897,-0.00868940353394,a silver phone on the right hand of the phone
+538,320125_1977955,320125_1977193,0,sampling_speaker1,-12.3620196897,-0.00868940353394,a silver phone on the right hand of the phone
+539,320125_1977955,320125_1977193,0,sampling_speaker1,-9.21915877345,-0.146624565125,a black cell phone
+540,113_1207747,113_505536,0,sampling_speaker1,-8.06834107562,-0.775270462036,the man in a blue shirt
+541,113_1207747,113_505536,0,sampling_speaker1,-8.01101982833,-0.775270462036,a man in the blue shirt
+542,113_1207747,113_505536,0,sampling_speaker1,-9.198647901,-0.503519535065,man in the right hand
+543,113_1207747,113_505536,0,sampling_speaker1,-13.269758689,-1.83403873444,a man with a blue shirt holding a wii
+544,113_1207747,113_505536,0,sampling_speaker1,-7.09133624131,-0.18504858017,man in blue pants
+545,113_1207747,113_505536,0,sampling_speaker1,-24.7814712897,-1.40755939484,a man with a blue jacket holding a bottle in blue shirt
+546,113_1207747,113_505536,0,sampling_speaker1,-7.01504712107,-0.920341491699,a man in a blue shirt
+547,113_1207747,113_505536,0,sampling_speaker1,-10.1400121207,-0.0696210861206,a woman in the blue shirt
+548,113_1207747,113_505536,0,sampling_speaker1,-10.5563079273,-1.5432510376,a man wearing a black shirt and blue pants
+549,113_1207747,113_505536,0,sampling_speaker1,-16.4795576689,-1.18894958496,a man in blue pants and a black t shirt
+550,74421_2149675,74421_186985,0,sampling_speaker1,-19.897848219,-1.25788211823,a man wearing a blue shirt and blue hair , sitting on the camera
+551,74421_2149675,74421_186985,0,sampling_speaker1,-24.7257202744,-0.933095932007,a man with a blue shirt sitting at a red of blue shirt wearing a red shirt
+552,74421_2149675,74421_186985,0,sampling_speaker1,-24.2109032623,-1.46577835083,a man wearing a blue shirt and a blue shirt with a blue scarf , wearing a blue shirt
+553,74421_2149675,74421_186985,0,sampling_speaker1,-24.0629650694,-0.860931396484,a man wearing a blue shirt sitting at a large blue shirt and a blue shirt with a yellow
+554,74421_2149675,74421_186985,0,sampling_speaker1,-15.3330520655,-0.0643014907837,a man wearing a blue shirt , sitting at a woman
+555,74421_2149675,74421_186985,0,sampling_speaker1,-15.5857758686,-0.509560585022,a man wearing a blue shirt with a blue sweater on it
+556,74421_2149675,74421_186985,0,sampling_speaker1,-16.6840992416,-0.876393795013,a man wearing a blue shirt sitting at a red of blue shirt
+557,74421_2149675,74421_186985,0,sampling_speaker1,-23.7046318324,-1.74639034271,a man with a blue shirt sitting at a man wearing a yellow shirt and a blue vest
+558,74421_2149675,74421_186985,0,sampling_speaker1,-20.7279004023,-0.120513677597,a old boy wearing a blue shirt sitting to the right of the photo
+559,74421_2149675,74421_186985,0,sampling_speaker1,-25.5523773373,-0.526232719421,a man in a blue shirt and blue hair and yellow and yellow and yellow shirt
+560,261349_116245,261349_112446,0,sampling_speaker1,-11.4670341175,-0.050812959671,a woman in a red color - shirt
+561,261349_116245,261349_112446,0,sampling_speaker1,-7.88639537247,-1.33789145947,the sofa on the right
+562,261349_116245,261349_112446,0,sampling_speaker1,-10.8792870471,-0.00819444656372,a red couch with a red jacket
+563,261349_116245,261349_112446,0,sampling_speaker1,-8.62769663324,-0.0611999034882,a woman in a red blanket
+564,261349_116245,261349_112446,0,sampling_speaker1,-10.1623173907,-0.1520216465,a woman in a red blanket sitting on
+565,261349_116245,261349_112446,0,sampling_speaker1,-8.0739053065,-2.00398993492,the couch on the left
+566,261349_116245,261349_112446,0,sampling_speaker1,-14.6016220583,-0.0436248779297,a couch with a red color - jacket
+567,261349_116245,261349_112446,0,sampling_speaker1,-13.8847800294,-0.00683522224426,a woman in a red jacket and a red blanket
+568,261349_116245,261349_112446,0,sampling_speaker1,-10.1508636568,-0.0426988601685,a red chair with a red blanket
+569,261349_116245,261349_112446,0,sampling_speaker1,-18.1287962255,-0.00140810012817,a red couch with a red and red - blanket
+570,254706_418150,254706_418299,0,sampling_speaker1,-4.66134042377,-0.920368671417,a parking meter with a parking meter
+571,254706_418150,254706_418299,0,sampling_speaker1,-4.66134042377,-0.920368671417,a parking meter with a parking meter
+572,254706_418150,254706_418299,0,sampling_speaker1,-4.09045898856,-0.84436416626,a meter meter
+573,254706_418150,254706_418299,0,sampling_speaker1,-4.66134042377,-0.920368671417,a parking meter with a parking meter
+574,254706_418150,254706_418299,0,sampling_speaker1,-8.7198402785,-0.987431049347,a parking meter with a parking meter with a parking meter
+575,254706_418150,254706_418299,0,sampling_speaker1,-2.9483185198,-0.835856437683,a parking meter
+576,254706_418150,254706_418299,0,sampling_speaker1,-5.59886913735,-0.807057857513,a parking meter with it
+577,254706_418150,254706_418299,0,sampling_speaker1,-6.26756038578,-0.935520410538,the parking meter with a parking meter
+578,254706_418150,254706_418299,0,sampling_speaker1,-7.34331729959,-0.974740982056,the parking meter in the parking meter
+579,254706_418150,254706_418299,0,sampling_speaker1,-4.66134042377,-0.920368671417,a parking meter with a parking meter
+580,17153_1071154,17153_1070887,0,sampling_speaker1,-9.79369745701,-0.938420295715,the pizza on the left of pizza
+581,17153_1071154,17153_1070887,0,sampling_speaker1,-8.6655529485,-2.05119943619,the pizza on the left
+582,17153_1071154,17153_1070887,0,sampling_speaker1,-6.86163178964,-0.932235240936,the pizza with pizza
+583,17153_1071154,17153_1070887,0,sampling_speaker1,-9.8704037708,-0.758899688721,a pizza on the pizza
+584,17153_1071154,17153_1070887,0,sampling_speaker1,-6.86163178964,-0.932235240936,the pizza with pizza
+585,17153_1071154,17153_1070887,0,sampling_speaker1,-19.1957774921,-0.336404800415,large pizza on the woman in the pizza
+586,17153_1071154,17153_1070887,0,sampling_speaker1,-11.2342153676,-1.52426731586,a slice of pizza on the right
+587,17153_1071154,17153_1070887,0,sampling_speaker1,-12.855049593,-1.72291278839,a pizza on a plate with pizza
+588,17153_1071154,17153_1070887,0,sampling_speaker1,-26.0021876788,-3.34148144722,a pizza in a white pizza with cheese and a cheese dish
+589,17153_1071154,17153_1070887,0,sampling_speaker1,-12.5082228381,-1.36697721481,the pizza with pizza in the pizza
+590,410378_444297,410378_461150,0,sampling_speaker1,-5.3741470349,-0.163282394409,a man wearing a blue shirt
+591,410378_444297,410378_461150,0,sampling_speaker1,-5.3741470349,-0.163282394409,a man wearing a blue shirt
+592,410378_444297,410378_461150,0,sampling_speaker1,-6.38571689245,-0.0265665054321,a young boy wearing a blue shirt
+593,410378_444297,410378_461150,0,sampling_speaker1,-17.4387182884,-0.596536636353,a man wearing a blue shirt and blue shirt holding a green shirt
+594,410378_444297,410378_461150,0,sampling_speaker1,-7.2150583364,-0.1466588974,the man wearing a blue shirt
+595,410378_444297,410378_461150,0,sampling_speaker1,-16.1281504128,-0.0537719726562,a young young boy wearing a blue hat holding a tie
+596,410378_444297,410378_461150,0,sampling_speaker1,-10.9987180173,-0.093921661377,a young boy wearing a blue shirt holding a blue shirt
+597,410378_444297,410378_461150,0,sampling_speaker1,-9.77311446986,-0.155393600464,a man in a blue shirt and blue shirt
+598,410378_444297,410378_461150,0,sampling_speaker1,-11.4444706517,-0.0455522537231,a young girl wearing a blue shirt and blue shirt
+599,410378_444297,410378_461150,0,sampling_speaker1,-9.89547114617,-0.0424194335938,a young boy wearing a blue shirt and blue shirt
+600,172813_115855,172813_98169,0,sampling_speaker1,-12.550993729,-0.0407752990723,a table with a woman and glasses
+601,172813_115855,172813_98169,0,sampling_speaker1,-12.2800049484,-0.978244662285,a table with red and glasses
+602,172813_115855,172813_98169,0,sampling_speaker1,-10.2812966154,-0.367575645447,the table with the man
+603,172813_115855,172813_98169,0,sampling_speaker1,-11.9274067532,-0.274943351746,the table on the left of the woman
+604,172813_115855,172813_98169,0,sampling_speaker1,-13.2933585514,-0.0372791290283,person with woman in glasses
+605,172813_115855,172813_98169,0,sampling_speaker1,-11.1015727295,-0.0233683586121,the table with a woman wearing glasses
+606,172813_115855,172813_98169,0,sampling_speaker1,-6.49308042912,-0.657221198082,a man with glasses
+607,172813_115855,172813_98169,0,sampling_speaker1,-7.95501163859,-0.771639585495,the man with glasses
+608,172813_115855,172813_98169,0,sampling_speaker1,-6.49308042912,-0.657221198082,a man with glasses
+609,172813_115855,172813_98169,0,sampling_speaker1,-9.83664682833,-0.414631843567,a man in front of the woman
+610,336660_1109602,336660_1111166,0,sampling_speaker1,-16.6151974076,-0.770034849644,a remote that the wii , remote
+611,336660_1109602,336660_1111166,0,sampling_speaker1,-20.2126703602,-0.431902527809,the remote remote with a cell control with a blue remote
+612,336660_1109602,336660_1111166,0,sampling_speaker1,-12.3707437923,-0.487272024155,the wii remote with a white remote
+613,336660_1109602,336660_1111166,0,sampling_speaker1,-20.4988458778,-0.589356839657,the remote and silver remote control with a wii
+614,336660_1109602,336660_1111166,0,sampling_speaker1,-21.5974761774,-0.371059656143,the remote with a remote with a remote on a purple remote
+615,336660_1109602,336660_1111166,0,sampling_speaker1,-11.3465073754,-0.411403536797,a remote with a remote with a remote
+616,336660_1109602,336660_1111166,0,sampling_speaker1,-11.3465073754,-0.411403536797,a remote with a remote with a remote
+617,336660_1109602,336660_1111166,0,sampling_speaker1,-7.91544220945,-0.406377196312,a remote with a remote
+618,336660_1109602,336660_1111166,0,sampling_speaker1,-7.91544220945,-0.406377196312,a remote with a remote
+619,336660_1109602,336660_1111166,0,sampling_speaker1,-15.0561845643,-0.251148939133,a remote with a white remote with a wii remote
+620,66337_2211816,66337_444419,0,sampling_speaker1,-13.7084584542,-0.00387930870056,a bed on the right of the white bag
+621,66337_2211816,66337_444419,0,sampling_speaker1,-22.0089107471,-0.552328109741,a green - chair on the right of a man on it
+622,66337_2211816,66337_444419,0,sampling_speaker1,-11.4910435357,-0.000188231468201,the bottom of the white chair
+623,66337_2211816,66337_444419,0,sampling_speaker1,-6.43140504183,-0.0419120788574,a gray bag
+624,66337_2211816,66337_444419,0,sampling_speaker1,-17.5042348678,-0.00385761260986,a white color bag on the right of a white blanket
+625,66337_2211816,66337_444419,0,sampling_speaker1,-10.3663932232,-0.099648475647,the old bag
+626,66337_2211816,66337_444419,0,sampling_speaker1,-9.38870448199,-0.00150585174561,a white and white chair
+627,66337_2211816,66337_444419,0,sampling_speaker1,-7.14360609356,-0.019229888916,a green bench
+628,66337_2211816,66337_444419,0,sampling_speaker1,-8.55222405328,-0.049437046051,a white and white bag
+629,66337_2211816,66337_444419,0,sampling_speaker1,-17.4344446555,-0.00457715988159,a white and white bag on the right of the white
+630,222003_2103777,222003_1158176,0,sampling_speaker1,-10.0492270324,-1.41554784775,the knife that knife
+631,222003_2103777,222003_1158176,0,sampling_speaker1,-15.6610452781,-0.51826274395,the right of the knife in the left
+632,222003_2103777,222003_1158176,0,sampling_speaker1,-11.8754845691,-0.467814862728,a knife on the left of the handle
+633,222003_2103777,222003_1158176,0,sampling_speaker1,-15.9230123587,-0.707607626915,a pair of scissors in the right hand
+634,222003_2103777,222003_1158176,0,sampling_speaker1,-18.2170169041,-2.30379223824,the knife , with two other book
+635,222003_2103777,222003_1158176,0,sampling_speaker1,-21.6715635545,-0.856669723988,the book that is in a fork in the other knife
+636,222003_2103777,222003_1158176,0,sampling_speaker1,-13.0853691574,-2.81769680977,the knife with a blue book
+637,222003_2103777,222003_1158176,0,sampling_speaker1,-13.150282991,-1.5409579277,a knife in a knife in the right
+638,222003_2103777,222003_1158176,0,sampling_speaker1,-12.992491743,-0.477385371923,a knife on the right of the other knife
+639,222003_2103777,222003_1158176,0,sampling_speaker1,-19.6023367638,-0.373487830162,the book on the left side of the side of the other knife
+640,320308_2159755,320308_228681,0,sampling_speaker1,-23.3315800557,-0.0432498455048,a man in a brown hat and a brown shirt and a brown teddy bear
+641,320308_2159755,320308_228681,0,sampling_speaker1,-13.2015068501,-0.0805913209915,a man in a sheep in the teddy bear
+642,320308_2159755,320308_228681,0,sampling_speaker1,-14.565831193,-0.089099407196,man in the teddy bear sitting down
+643,320308_2159755,320308_228681,0,sampling_speaker1,-13.5304971537,-0.0502545833588,a man in a brown bear is sitting down
+644,320308_2159755,320308_228681,0,sampling_speaker1,-23.0511943291,-0.0194601155818,man in the brown teddy bear is sitting in the two sheep
+645,320308_2159755,320308_228681,0,sampling_speaker1,-15.0299380052,-0.0669240951538,a man in a black shirt wearing a brown shirt
+646,320308_2159755,320308_228681,0,sampling_speaker1,-15.4989499412,-0.235156536102,a man with a black hat and brown hat
+647,320308_2159755,320308_228681,0,sampling_speaker1,-15.5607699021,-0.0210609436035,a man in a black animal sitting behind a sheep
+648,320308_2159755,320308_228681,0,sampling_speaker1,-17.0554533167,-0.145336866379,man in a blue bear sitting next to the sheep
+649,320308_2159755,320308_228681,0,sampling_speaker1,-17.1900587102,-0.0330625921488,the man in the sheep ' s head in the sheep
+650,58171_528317,58171_2011072,0,sampling_speaker1,-17.487688379,-0.00903272628784,a girl smiling her her phone
+651,58171_528317,58171_2011072,0,sampling_speaker1,-9.54937816784,-0.238529443741,a girl in a blue dress
+652,58171_528317,58171_2011072,0,sampling_speaker1,-8.55453746357,-0.139825820923,a woman in a white shirt
+653,58171_528317,58171_2011072,0,sampling_speaker1,-18.5692295615,-0.22669506073,a girl in a blue dress top at a sandwich
+654,58171_528317,58171_2011072,0,sampling_speaker1,-9.54937816784,-0.238529443741,a girl in a blue dress
+655,58171_528317,58171_2011072,0,sampling_speaker1,-9.65486264387,-0.342057228088,a woman in the blue shirt
+656,58171_528317,58171_2011072,0,sampling_speaker1,-22.1406980702,-0.0101137161255,a girl in a white shirt and white hair cutting her her table
+657,58171_528317,58171_2011072,0,sampling_speaker1,-15.0032990728,-1.21459889412,a girl in the blue and white dress
+658,58171_528317,58171_2011072,0,sampling_speaker1,-29.8147197016,-0.122200965881,a girl in a white shirt and white hair and a white sweater top of a young girl
+659,58171_528317,58171_2011072,0,sampling_speaker1,-10.8340265748,-0.136282444,a girl wearing a white dress
+660,467799_482980,467799_521804,0,sampling_speaker1,-20.9564588901,-2.40762042999,a baseball player wearing a blue shirt and white jersey to the right
+661,467799_482980,467799_521804,0,sampling_speaker1,-11.4731574559,-0.807824611664,the baseball player wearing the number uniform
+662,467799_482980,467799_521804,0,sampling_speaker1,-9.93913454324,-0.76474905014,a baseball player with the number bat
+663,467799_482980,467799_521804,0,sampling_speaker1,-9.86095587683,-0.909008026123,a baseball player behind a baseball bat
+664,467799_482980,467799_521804,0,sampling_speaker1,-9.31276924482,-0.23598575592,a baseball player standing to the left
+665,467799_482980,467799_521804,0,sampling_speaker1,-20.2454734685,-0.213537454605,the boy with a red shirt and a white uniform
+666,467799_482980,467799_521804,0,sampling_speaker1,-18.5712499304,-1.28423023224,a baseball player with number the back of a baseball ball
+667,467799_482980,467799_521804,0,sampling_speaker1,-12.4577715009,-0.39574432373,a baseball player with the back of the bat
+668,467799_482980,467799_521804,0,sampling_speaker1,-31.8865110007,-0.788446426392,a baseball player wearing a red uniform and blue pants and a white uniform and a blue uniform
+669,467799_482980,467799_521804,0,sampling_speaker1,-23.4171093802,-2.79591464996,a baseball player wearing a white shirt wearing a blue hat and baseball
+670,189278_1122855,189278_1980372,0,sampling_speaker1,-19.5595307636,-0.471595406532,a oven hummus with a stove
+671,189278_1122855,189278_1980372,0,sampling_speaker1,-12.9842803041,-1.25856506824,a oven oven in the oven in the oven
+672,189278_1122855,189278_1980372,0,sampling_speaker1,-12.9765619148,-0.825873672962,a oven oven in a microwave oven
+673,189278_1122855,189278_1980372,0,sampling_speaker1,-9.79844091561,-0.488015770912,a oven oven on the oven
+674,189278_1122855,189278_1980372,0,sampling_speaker1,-13.077957355,-0.593792319298,the oven oven facing the stove
+675,189278_1122855,189278_1980372,0,sampling_speaker1,-11.2965845946,-0.938740849495,a stove oven in a stove
+676,189278_1122855,189278_1980372,0,sampling_speaker1,-12.814951124,-0.529396176338,a oven on the right of the oven
+677,189278_1122855,189278_1980372,0,sampling_speaker1,-14.6502803678,-0.779376149178,a oven oven the stove in the oven
+678,189278_1122855,189278_1980372,0,sampling_speaker1,-9.41593171828,-0.513672709465,a oven that the oven
+679,189278_1122855,189278_1980372,0,sampling_speaker1,-8.30255396546,-0.606543242931,a stove oven oven
+680,123757_104237,123757_102388,0,sampling_speaker1,-16.4191498376,-0.829482078552,a silver chair with the pink bus
+681,123757_104237,123757_102388,0,sampling_speaker1,-11.8843436982,-0.0539075434208,a red car in the right
+682,123757_104237,123757_102388,0,sampling_speaker1,-29.0229927578,-0.230825662613,a white chair with a blue shirt and dark blue shirt and red
+683,123757_104237,123757_102388,0,sampling_speaker1,-24.5760095913,-0.105545401573,a white chair with a white shirt holding a chair to the window
+684,123757_104237,123757_102388,0,sampling_speaker1,-21.5433693646,-0.123549222946,a dark black car in the right side of the camera
+685,123757_104237,123757_102388,0,sampling_speaker1,-23.515516505,-0.295175552368,a red car in the blue shirt is sitting in the table
+686,123757_104237,123757_102388,0,sampling_speaker1,-15.5557485273,-0.697323977947,a dark black chair in the right
+687,123757_104237,123757_102388,0,sampling_speaker1,-11.810414945,-1.42293047905,the white chair chair
+688,123757_104237,123757_102388,0,sampling_speaker1,-17.3672182946,-0.770198822021,a chair with the girl in the right side
+689,123757_104237,123757_102388,0,sampling_speaker1,-13.1669745852,-0.724968552589,a bench in the red shirt
+690,57491_1278248,57491_521312,0,sampling_speaker1,-19.7254589027,-1.66389036179,a person holding the hands of an hands holding a white shirt
+691,57491_1278248,57491_521312,0,sampling_speaker1,-26.4380322123,-0.869435310364,a girl holding a person holding a fork on a table with a white shirt
+692,57491_1278248,57491_521312,0,sampling_speaker1,-19.3824763357,-0.430123329163,a person holding a dog holding a hot shirt holding a fork
+693,57491_1278248,57491_521312,0,sampling_speaker1,-13.9022403519,-2.22159194946,a person holding the hands of a dog
+694,57491_1278248,57491_521312,0,sampling_speaker1,-21.9535811007,-0.191154122353,a hand holding a food with a dog ' s hands
+695,57491_1278248,57491_521312,0,sampling_speaker1,-19.5668156915,-0.449377059937,a person holding a person holding a dog ' s hands holding a dog
+696,57491_1278248,57491_521312,0,sampling_speaker1,-12.0935487969,-1.68291854858,the person holding a black dog
+697,57491_1278248,57491_521312,0,sampling_speaker1,-22.8072744291,-0.681188583374,a person holding a dog holding a person ' s face holding a dog
+698,57491_1278248,57491_521312,0,sampling_speaker1,-28.8383195983,-0.60545873642,a hand of a person and a chocolate shirt holding a dog on a table
+699,57491_1278248,57491_521312,0,sampling_speaker1,-27.0266734082,-2.03089761734,a person holding a person ' s hands holding the right of a person ' s hands on it
+700,66420_463391,66420_1951279,0,sampling_speaker1,-23.8568738881,-0.0171279907227,a person in a blue shirt on top of her head and black shirt
+701,66420_463391,66420_1951279,0,sampling_speaker1,-23.4165834726,-0.0419139862061,a person in a white shirt and white shirt and her shirt and a blue shirt
+702,66420_463391,66420_1951279,0,sampling_speaker1,-14.5972606236,-0.00643968582153,a woman in a white shirt and a green shirt
+703,66420_463391,66420_1951279,0,sampling_speaker1,-12.8270355644,-0.00495386123657,a woman in a blue shirt in a blue shirt
+704,66420_463391,66420_1951279,0,sampling_speaker1,-19.7041156718,-0.00610208511353,a woman in a blue shirt and white shirt and other umbrella
+705,66420_463391,66420_1951279,0,sampling_speaker1,-16.6534080282,-0.0132336616516,a woman in a blue shirt and white shirt and a blue shirt
+706,66420_463391,66420_1951279,0,sampling_speaker1,-6.99085354951,-0.00581884384155,a woman in a white shirt
+707,66420_463391,66420_1951279,0,sampling_speaker1,-13.3191734325,-0.161353588104,a man in a white shirt and a white shirt
+708,66420_463391,66420_1951279,0,sampling_speaker1,-17.5886429462,-0.0507297515869,a man in a long shirt and long shirt
+709,66420_463391,66420_1951279,0,sampling_speaker1,-23.2537237766,-0.00155067443848,a woman in a white shirt looking at a woman on her hands
+710,33669_179173,33669_177957,0,sampling_speaker1,-13.8621595361,-0.257750272751,a wooden skis with a white skis
+711,33669_179173,33669_177957,0,sampling_speaker1,-12.2868675446,-0.060201883316,a white white skis on the skis
+712,33669_179173,33669_177957,0,sampling_speaker1,-5.06478182499,-0.133375763893,a white skis
+713,33669_179173,33669_177957,0,sampling_speaker1,-17.4978544878,-0.28193295002,a skis that is not on a skis
+714,33669_179173,33669_177957,0,sampling_speaker1,-15.2054692213,-0.128210008144,a white white skis of a white stripe
+715,33669_179173,33669_177957,0,sampling_speaker1,-5.06478182499,-0.133375763893,a white skis
+716,33669_179173,33669_177957,0,sampling_speaker1,-11.2347224001,-0.0819348096848,a skis in the snow
+717,33669_179173,33669_177957,0,sampling_speaker1,-6.86701996145,-0.0787184238434,a white white skis
+718,33669_179173,33669_177957,0,sampling_speaker1,-13.8636920236,-0.0759301185608,a white skis of a white white skis
+719,33669_179173,33669_177957,0,sampling_speaker1,-5.06478182499,-0.133375763893,a white skis
+720,9095_1536638,9095_84845,0,sampling_speaker1,-17.6730126642,-4.41074371338e-06,a small brown of red and red bowl
+721,9095_1536638,9095_84845,0,sampling_speaker1,-25.8629662201,0.0,a red dish with a red and red and red bowl of a red dish
+722,9095_1536638,9095_84845,0,sampling_speaker1,-24.5149171628,0.0,a red and large red and red and red bowl of a pink bowl
+723,9095_1536638,9095_84845,0,sampling_speaker1,-34.6216086765,0.0,a yellow and red and red and green bowl of a red and red and yellow bowl
+724,9095_1536638,9095_84845,0,sampling_speaker1,-23.6239884347,0.0,large red and red and red and red and red bowl
+725,9095_1536638,9095_84845,0,sampling_speaker1,-22.2205925109,0.0,a red and red and red and white and red bowl of it
+726,9095_1536638,9095_84845,0,sampling_speaker1,-31.1257299444,0.0,a red and green and red and white bowl with a red , rice on it
+727,9095_1536638,9095_84845,0,sampling_speaker1,-22.4982687698,-1.19209289551e-06,a large white bowl of a red bowl that is in it
+728,9095_1536638,9095_84845,0,sampling_speaker1,-31.156409391,0.0,a red and red and red bowl of a red bowl with a red and red and red ,
+729,9095_1536638,9095_84845,0,sampling_speaker1,-20.9019864756,-1.19209289551e-07,a red full and red and red and red dish
+730,307352_1796324,307352_395785,0,sampling_speaker1,-8.4180109904,-0.740947008133,yellow and yellow and yellow and yellow bus
+731,307352_1796324,307352_395785,0,sampling_speaker1,-9.11013985549,-0.814897060394,yellow and yellow yellow and yellow bus
+732,307352_1796324,307352_395785,0,sampling_speaker1,-8.22154129286,-0.486639738083,orange and yellow and yellow bus
+733,307352_1796324,307352_395785,0,sampling_speaker1,-5.78525232886,-0.260429382324,a yellow and yellow bus
+734,307352_1796324,307352_395785,0,sampling_speaker1,-8.4180109904,-0.740947008133,yellow and yellow and yellow and yellow bus
+735,307352_1796324,307352_395785,0,sampling_speaker1,-6.08035409872,-0.327986001968,a yellow and yellow and yellow bus
+736,307352_1796324,307352_395785,0,sampling_speaker1,-8.23342235675,-0.67188334465,yellow yellow and yellow bus
+737,307352_1796324,307352_395785,0,sampling_speaker1,-8.56160900619,-0.108257219195,a yellow and yellow and yellow
+738,307352_1796324,307352_395785,0,sampling_speaker1,-4.90976911285,-0.404017686844,yellow and yellow bus
+739,307352_1796324,307352_395785,0,sampling_speaker1,-6.0388208836,-0.522679805756,yellow and yellow and yellow bus
+740,107425_128414,107425_126083,0,sampling_speaker1,-10.9542544808,-1.67171907425,a pink bike with a pink bicycle
+741,107425_128414,107425_126083,0,sampling_speaker1,-28.2425727939,-0.680922627449,a bicycle with a pink and pink bike with a pink basket of a pink of it
+742,107425_128414,107425_126083,0,sampling_speaker1,-19.6756079421,-1.38138341904,a pink bicycle with a pink and basket with a pink bike
+743,107425_128414,107425_126083,0,sampling_speaker1,-20.480948087,-0.476202905178,a wooden basket of a pink bicycle behind it
+744,107425_128414,107425_126083,0,sampling_speaker1,-19.674162795,-1.58959841728,a pink bike with a basket of a bike with a pink bicycle
+745,107425_128414,107425_126083,0,sampling_speaker1,-31.4326795445,-1.03938281536,a bottle of a bike with a pink bike with a yellow and bicycle with a pink and pink
+746,107425_128414,107425_126083,0,sampling_speaker1,-26.1416861179,-2.29469799995,a bike with a pink bicycle with a pink bike with a basket of a bicycle with a basket
+747,107425_128414,107425_126083,0,sampling_speaker1,-29.6528769326,-2.78820347786,a black and pink bicycle with a pink and bicycle with a pink and bicycle with a pink and
+748,107425_128414,107425_126083,0,sampling_speaker1,-22.3277788518,-1.19853258133,a pink bike on the right of a pink and basket with a pink bike
+749,107425_128414,107425_126083,0,sampling_speaker1,-20.1456150815,-2.8848118782,a bicycle with a pink bike with a pink and bicycle with a bicycle
+750,132038_2152765,132038_551635,0,sampling_speaker1,-10.50733411,-0.366053581238,a boy in a red shirt and white shorts
+751,132038_2152765,132038_551635,0,sampling_speaker1,-17.2652920644,-0.0635061264038,a boy in a white shirt and white shorts and gray shorts
+752,132038_2152765,132038_551635,0,sampling_speaker1,-18.71984213,-0.567801475525,a woman in a red shirt and white shorts playing a tennis
+753,132038_2152765,132038_551635,0,sampling_speaker1,-15.2901635775,-0.0336813926697,a woman in a white shirt and white shorts and white shorts
+754,132038_2152765,132038_551635,0,sampling_speaker1,-15.2051627734,-0.0117454528809,a boy in a red shirt and white pants and white shorts
+755,132038_2152765,132038_551635,0,sampling_speaker1,-18.2940735494,-0.143301486969,a boy with a blue and white shirt and tennis shorts
+756,132038_2152765,132038_551635,0,sampling_speaker1,-13.3405709434,-0.0846180915833,a woman with a white jacket
+757,132038_2152765,132038_551635,0,sampling_speaker1,-19.4203534619,-1.57501983643,the little man in a blue shirt and tan shorts
+758,132038_2152765,132038_551635,0,sampling_speaker1,-18.1589108224,-0.495990753174,a small young girl in a red shirt and white shorts
+759,132038_2152765,132038_551635,0,sampling_speaker1,-16.5079612177,-0.489256858826,a boy in a blue shirt and white pants playing frisbee
+760,304093_674605,304093_678682,0,sampling_speaker1,-16.7447190024,-2.40808677673,a small mug with water in front of a table
+761,304093_674605,304093_678682,0,sampling_speaker1,-10.2459000537,-1.65838944912,a small bottle with water
+762,304093_674605,304093_678682,0,sampling_speaker1,-10.0696323738,-1.48097908497,a clear cup with water
+763,304093_674605,304093_678682,0,sampling_speaker1,-6.57402975378,-2.42853713036,a glass of water
+764,304093_674605,304093_678682,0,sampling_speaker1,-6.57402975378,-2.42853713036,a glass of water
+765,304093_674605,304093_678682,0,sampling_speaker1,-15.746182498,-2.1598200798,a drink with water in the middle
+766,304093_674605,304093_678682,0,sampling_speaker1,-6.57402975378,-2.42853713036,a glass of water
+767,304093_674605,304093_678682,0,sampling_speaker1,-6.80675826046,-2.30523014069,glass of water
+768,304093_674605,304093_678682,0,sampling_speaker1,-9.79728467302,-2.84268712997,a glass of water with water
+769,304093_674605,304093_678682,0,sampling_speaker1,-11.8150732287,-2.27905273438,a silver glass of water
+770,115681_587083,115681_587196,0,sampling_speaker1,-11.6067620078,-0.568110466003,a brown bear lying at the camera
+771,115681_587083,115681_587196,0,sampling_speaker1,-7.11752123445,-0.750400781631,a bear on the right
+772,115681_587083,115681_587196,0,sampling_speaker1,-15.3649177981,-0.435978889465,a white bear standing behind the bear
+773,115681_587083,115681_587196,0,sampling_speaker1,-6.76302553429,-1.06829786301,a bear bear
+774,115681_587083,115681_587196,0,sampling_speaker1,-7.11752123445,-0.750400781631,a bear on the right
+775,115681_587083,115681_587196,0,sampling_speaker1,-9.20743382339,-0.588599681854,a brown bear in the left
+776,115681_587083,115681_587196,0,sampling_speaker1,-14.9564803757,-0.51756811142,a brown bear is is in the left
+777,115681_587083,115681_587196,0,sampling_speaker1,-7.84946425555,-1.06130361557,a large bear bear
+778,115681_587083,115681_587196,0,sampling_speaker1,-11.1941402655,-0.575951576233,a bear is at the camera
+779,115681_587083,115681_587196,0,sampling_speaker1,-6.88169549883,-0.590785503387,a brown bear on the left
+780,533484_453065,533484_449192,0,sampling_speaker1,-10.0558739205,-4.76837158203e-05,a woman wearing a black shirt and black pants
+781,533484_453065,533484_449192,0,sampling_speaker1,-7.69796638661,-0.000822067260742,a woman in black dress
+782,533484_453065,533484_449192,0,sampling_speaker1,-20.2725791901,-0.0163044929504,the woman in red , sitting in the hand
+783,533484_453065,533484_449192,0,sampling_speaker1,-10.1010451797,-0.000519752502441,woman in black and red shirt
+784,533484_453065,533484_449192,0,sampling_speaker1,-9.58953005472,-0.000428199768066,the woman wearing black shirt
+785,533484_453065,533484_449192,0,sampling_speaker1,-12.2031820456,-0.00239276885986,a woman in a black shirt and red hair
+786,533484_453065,533484_449192,0,sampling_speaker1,-5.69145136435,-0.0014066696167,a woman in a black shirt
+787,533484_453065,533484_449192,0,sampling_speaker1,-13.4733932589,-9.6321105957e-05,a woman in black hair and black dress
+788,533484_453065,533484_449192,0,sampling_speaker1,-11.0878561147,-0.000319480895996,a woman sitting in front of another man
+789,533484_453065,533484_449192,0,sampling_speaker1,-8.10711287628,-4.76837158203e-05,woman in black jacket
+790,91130_1535308,91130_711343,0,sampling_speaker1,-32.5667389328,-0.0749777555466,the sandwich with a white container with a small plastic container with a red container
+791,91130_1535308,91130_711343,0,sampling_speaker1,-21.9505092828,-0.00251817703247,a piece of a pink bowl with a bowl of food
+792,91130_1535308,91130_711343,0,sampling_speaker1,-22.8963951548,-0.0171165466309,the small sandwich with a red container with a white plate
+793,91130_1535308,91130_711343,0,sampling_speaker1,-32.3687665828,-0.0112233161926,the small red bowl of a small small plate next to a red container
+794,91130_1535308,91130_711343,0,sampling_speaker1,-16.1288317835,-0.00185441970825,a small bowl of a sandwich in the plate
+795,91130_1535308,91130_711343,0,sampling_speaker1,-27.1968370745,-0.0127477645874,a small red bowl of the red of the food with a red plate
+796,91130_1535308,91130_711343,0,sampling_speaker1,-28.359008266,-0.00378751754761,the small small red cup of a plate of a red bowl on it
+797,91130_1535308,91130_711343,0,sampling_speaker1,-13.3001127668,-0.00957655906677,the plate with red food
+798,91130_1535308,91130_711343,0,sampling_speaker1,-20.4023531715,-0.00729036331177,the plate of a red piece of a red container
+799,91130_1535308,91130_711343,0,sampling_speaker1,-28.1457140623,-0.0257449150085,a small red full of a plate with a red container of a plate
+800,254981_312927,254981_312974,0,sampling_speaker1,-28.2447997213,-3.22564148903,the piece of a piece of a slice of a white slice of a piece of a white piece
+801,254981_312927,254981_312974,0,sampling_speaker1,-24.7469551779,-3.98901867867,a piece piece of a piece of a piece of a white piece of a banana on it
+802,254981_312927,254981_312974,0,sampling_speaker1,-19.8669259856,-0.546412110329,a piece of bread on the right of white other white plate
+803,254981_312927,254981_312974,0,sampling_speaker1,-27.8148705128,-4.11038446426,a small slice of a slice of a piece of a piece of a piece of a white piece
+804,254981_312927,254981_312974,0,sampling_speaker1,-28.8913087624,-4.62059402466,a piece of a piece of a piece of a small top of a piece of a plate on
+805,254981_312927,254981_312974,0,sampling_speaker1,-27.3986170358,-4.11795186996,a piece of a large slice of a piece of a small piece of a white piece of a
+806,254981_312927,254981_312974,0,sampling_speaker1,-27.6119743806,-4.0836186409,a piece of a white piece of a chocolate piece of a piece of a small slice of a
+807,254981_312927,254981_312974,0,sampling_speaker1,-24.6409848406,-3.59658050537,a piece of a piece of a piece of a white piece of a piece of a white piece
+808,254981_312927,254981_312974,0,sampling_speaker1,-26.8080728903,-2.51916265488,a piece of a white piece of a slice of a white piece of a piece of a black
+809,254981_312927,254981_312974,0,sampling_speaker1,-26.4208548392,-4.03891658783,a piece of a piece piece of a white piece of the other piece of a plate
+810,408407_179632,408407_176837,0,sampling_speaker1,-10.0555216565,-0.466372191906,an boat with a white boat
+811,408407_179632,408407_176837,0,sampling_speaker1,-10.0555216565,-0.466372191906,an boat with a white boat
+812,408407_179632,408407_176837,0,sampling_speaker1,-16.5068065991,-1.3812994957,an large white ship with a white and white boat
+813,408407_179632,408407_176837,0,sampling_speaker1,-18.9442163116,-2.26290225983,a large large white and white boat in a large white boat
+814,408407_179632,408407_176837,0,sampling_speaker1,-11.0190779535,-0.988506793976,a large boat with a large boat
+815,408407_179632,408407_176837,0,sampling_speaker1,-19.933619313,-1.17376065254,an white boat with a large blue and white ship
+816,408407_179632,408407_176837,0,sampling_speaker1,-18.3386596241,-2.45175290108,a large white - and white and white and white ship
+817,408407_179632,408407_176837,0,sampling_speaker1,-23.0637389698,-2.09541153908,a white and white , and white and white ship that is
+818,408407_179632,408407_176837,0,sampling_speaker1,-12.0512277867,-0.662178993225,a large large double boat
+819,408407_179632,408407_176837,0,sampling_speaker1,-20.9211121451,-2.2490696907,an large big white and white and white and white airplane
+820,566301_1732000,566301_1262110,0,sampling_speaker1,-18.3605843215,-2.13018488884,the person sitting to the right hand of the image
+821,566301_1732000,566301_1262110,0,sampling_speaker1,-13.3232395183,-1.35943031311,a man in the slice of a black shirt
+822,566301_1732000,566301_1262110,0,sampling_speaker1,-6.44202098949,-1.66302394867,a man with a black shirt
+823,566301_1732000,566301_1262110,0,sampling_speaker1,-6.71443838961,-1.72329175472,a person with a black shirt
+824,566301_1732000,566301_1262110,0,sampling_speaker1,-16.4466859075,-3.22977995872,a person wearing a black shirt is holding a knife
+825,566301_1732000,566301_1262110,0,sampling_speaker1,-8.05217832364,-1.7529232502,the person with a black shirt
+826,566301_1732000,566301_1262110,0,sampling_speaker1,-13.0474251836,-0.320838928223,a man in a white shirt with a blue shirt
+827,566301_1732000,566301_1262110,0,sampling_speaker1,-6.71443838961,-1.72329175472,a person with a black shirt
+828,566301_1732000,566301_1262110,0,sampling_speaker1,-6.49408359791,-0.608868598938,a man in a blue shirt
+829,566301_1732000,566301_1262110,0,sampling_speaker1,-8.05217832364,-1.7529232502,the person with a black shirt
+830,205858_600088,205858_594665,0,sampling_speaker1,-10.9235251049,-0.27971124649,a giraffe standing standing down
+831,205858_600088,205858_594665,0,sampling_speaker1,-16.7739336015,-0.152760505676,the giraffe that is head up to the right
+832,205858_600088,205858_594665,0,sampling_speaker1,-10.0670010406,-0.333812713623,a giraffe standing standing at the camera
+833,205858_600088,205858_594665,0,sampling_speaker1,-15.1475233845,-4.9723906517,a giraffe with a giraffe with the middle
+834,205858_600088,205858_594665,0,sampling_speaker1,-12.8616714739,-4.14748096466,the giraffe that the left of the giraffe
+835,205858_600088,205858_594665,0,sampling_speaker1,-17.056496877,-0.207916259766,the giraffe standing to the left hand to the right
+836,205858_600088,205858_594665,0,sampling_speaker1,-15.6769459522,-7.53068637848,a giraffe standing with the brown zebra
+837,205858_600088,205858_594665,0,sampling_speaker1,-10.7221284554,-5.17801141739,a giraffe standing in the other giraffe
+838,205858_600088,205858_594665,0,sampling_speaker1,-11.1010215674,-0.156940937042,the giraffe that is looking to the right
+839,205858_600088,205858_594665,0,sampling_speaker1,-8.6641243513,-0.19162273407,a giraffe standing at the camera
+840,185862_1706261,185862_462190,0,sampling_speaker1,-8.61299754334,-0.0154342651367,a man sitting at a table
+841,185862_1706261,185862_462190,0,sampling_speaker1,-9.24592977931,-0.601603507996,a man in a white shirt sitting on a table
+842,185862_1706261,185862_462190,0,sampling_speaker1,-16.0150657422,-0.485829353333,a man in a white shirt sitting on her right hand picture
+843,185862_1706261,185862_462190,0,sampling_speaker1,-9.97238626547,-0.168272018433,a man in a white shirt sitting at a pizza
+844,185862_1706261,185862_462190,0,sampling_speaker1,-7.80268372063,-0.124618530273,a man wearing a blue shirt
+845,185862_1706261,185862_462190,0,sampling_speaker1,-13.9710616324,-0.140847206116,a man in the white shirt standing at a table
+846,185862_1706261,185862_462190,0,sampling_speaker1,-11.101826012,-0.128525733948,a man wearing a white shirt sitting at a pizza
+847,185862_1706261,185862_462190,0,sampling_speaker1,-16.2613747799,-0.162070274353,the man in a white t shirt sitting at a table
+848,185862_1706261,185862_462190,0,sampling_speaker1,-9.24592977931,-0.601603507996,a man in a white shirt sitting on a table
+849,185862_1706261,185862_462190,0,sampling_speaker1,-9.23097924498,-0.363921165466,a man in a white shirt sitting at a table
+850,222251_214545,222251_223550,0,sampling_speaker1,-9.5330967573,-0.647669792175,the couch in a black shirt
+851,222251_214545,222251_223550,0,sampling_speaker1,-11.2719424215,-0.00072979927063,a black couch is sitting on the couch
+852,222251_214545,222251_223550,0,sampling_speaker1,-8.91768743184,-2.93233680725,woman in black shirt
+853,222251_214545,222251_223550,0,sampling_speaker1,-14.4923684112,-0.0109939575195,a woman sitting on the couch and man
+854,222251_214545,222251_223550,0,sampling_speaker1,-15.1790667085,-0.00395202636719,a woman sitting on the couch in a man sitting on
+855,222251_214545,222251_223550,0,sampling_speaker1,-8.74293024747,-3.49434709549,a woman in a black shirt
+856,222251_214545,222251_223550,0,sampling_speaker1,-6.60847807354,-0.0347862243652,a woman sitting on the couch
+857,222251_214545,222251_223550,0,sampling_speaker1,-15.2662464304,-0.00170016288757,a couch with a black sweater sitting on a couch
+858,222251_214545,222251_223550,0,sampling_speaker1,-17.5551248376,-0.0113353729248,a woman in blue jeans sitting sitting at the couch
+859,222251_214545,222251_223550,0,sampling_speaker1,-10.9990110696,-1.79797077179,a sofa in a black sweater
+860,205875_2225560,205875_1957039,0,sampling_speaker1,-9.11172419365,-0.0409979820251,the wooden chair with the wall
+861,205875_2225560,205875_1957039,0,sampling_speaker1,-5.72465971957,-0.0497162342072,the wooden chair
+862,205875_2225560,205875_1957039,0,sampling_speaker1,-6.13335724073,-0.0395174026489,a wooden chair
+863,205875_2225560,205875_1957039,0,sampling_speaker1,-7.53184461672,-0.0142066478729,a red wooden chair
+864,205875_2225560,205875_1957039,0,sampling_speaker1,-17.6053910683,-0.0179011821747,a light chair with a red love
+865,205875_2225560,205875_1957039,0,sampling_speaker1,-5.72465971957,-0.0497162342072,the wooden chair
+866,205875_2225560,205875_1957039,0,sampling_speaker1,-6.13335724073,-0.0395174026489,a wooden chair
+867,205875_2225560,205875_1957039,0,sampling_speaker1,-11.5280899552,-0.0376167297363,the wooden chair with a tv
+868,205875_2225560,205875_1957039,0,sampling_speaker1,-10.2447497886,-0.0376167297363,a wooden chair with the tv
+869,205875_2225560,205875_1957039,0,sampling_speaker1,-10.3263384321,-0.0413258075714,a wooden chair with the door
+870,400744_54973,400744_56109,0,sampling_speaker1,-23.045393375,-0.000306129455566,a a white horse with a white and white horse and a white and white and white and white
+871,400744_54973,400744_56109,0,sampling_speaker1,-23.4647150763,-0.000608921051025,a horse with a white horse in the right and white and white and white and white and white
+872,400744_54973,400744_56109,0,sampling_speaker1,-16.1488338717,-0.0345231294632,a white horse with a white and white horse with a tree
+873,400744_54973,400744_56109,0,sampling_speaker1,-17.045229489,-0.121027946472,a white horse walking behind a baby and white horse
+874,400744_54973,400744_56109,0,sampling_speaker1,-24.0547147559,-1.07749271393,a white horse with a white horse with its head looking between a white horse
+875,400744_54973,400744_56109,0,sampling_speaker1,-13.3801939508,-0.419815421104,a horse with a white horse and a white horse
+876,400744_54973,400744_56109,0,sampling_speaker1,-24.4117475999,-0.00280284881592,a white horse with a white horse and white and white horse and a white and white and white
+877,400744_54973,400744_56109,0,sampling_speaker1,-15.1974208507,-0.115141034126,a white horse in a white horse and a white horse
+878,400744_54973,400744_56109,0,sampling_speaker1,-17.7504412117,-0.249997287989,a small white horse with a white horse with a white horse
+879,400744_54973,400744_56109,0,sampling_speaker1,-21.8168110081,-7.86781311035e-05,a cow on the right of a white and white and white and white and white and white and
+880,377926_2107014,377926_1068594,0,sampling_speaker1,-13.7157043602,-0.174449324608,a chocolate chocolate on top of the plate
+881,377926_2107014,377926_1068594,0,sampling_speaker1,-16.2449349893,-0.349610567093,a chocolate plate with a slice on the plate
+882,377926_2107014,377926_1068594,0,sampling_speaker1,-9.35079348737,-0.0259609222412,a plate with a white plate
+883,377926_2107014,377926_1068594,0,sampling_speaker1,-9.48104524957,-0.2275826931,a chocolate plate on the plate
+884,377926_2107014,377926_1068594,0,sampling_speaker1,-14.114427761,-0.0405602455139,a piece of a white plate with a white plate
+885,377926_2107014,377926_1068594,0,sampling_speaker1,-9.69745212268,-0.0261343717575,a donut with a white plate on top
+886,377926_2107014,377926_1068594,0,sampling_speaker1,-11.1592637227,-0.0335142612457,a chocolate plate with a white plate on top
+887,377926_2107014,377926_1068594,0,sampling_speaker1,-13.0279287591,-0.0558161735535,the plate on top of a white plate on it
+888,377926_2107014,377926_1068594,0,sampling_speaker1,-10.0319423917,-0.17445909977,a plate on a plate on top
+889,377926_2107014,377926_1068594,0,sampling_speaker1,-11.7657376289,-0.0418401956558,a small chocolate donut on it
+890,369736_588945,369736_590238,0,sampling_speaker1,-12.8679385278,-1.200912714,the zebra on the left of the group
+891,369736_588945,369736_590238,0,sampling_speaker1,-10.3415057897,-0.848624229431,a zebra on the right of the zebra
+892,369736_588945,369736_590238,0,sampling_speaker1,-6.88920781025,-1.22883629799,the zebra on the left
+893,369736_588945,369736_590238,0,sampling_speaker1,-16.0073143117,-0.909573554993,the zebra walking to the left of two other zebra
+894,369736_588945,369736_590238,0,sampling_speaker1,-9.6981882383,-0.872375488281,the zebra with the tree
+895,369736_588945,369736_590238,0,sampling_speaker1,-11.7430418955,-0.851449489594,a zebra facing the fence
+896,369736_588945,369736_590238,0,sampling_speaker1,-9.66380988514,-0.777842521667,a zebra standing in front of the zebra
+897,369736_588945,369736_590238,0,sampling_speaker1,-9.02949204534,-0.995279312134,the zebra on the left of another zebra
+898,369736_588945,369736_590238,0,sampling_speaker1,-10.1201067075,-0.636532783508,a zebra standing to the left of a zebra
+899,369736_588945,369736_590238,0,sampling_speaker1,-8.53961828916,-0.745985031128,a zebra in front of a zebra
+900,17483_69890,17483_74294,0,sampling_speaker1,-6.89341347085,-1.44638824463,cow with the cow
+901,17483_69890,17483_74294,0,sampling_speaker1,-11.5522239783,-0.552687168121,a cow that is with a cow
+902,17483_69890,17483_74294,0,sampling_speaker1,-7.45827733338,-0.141825437546,a cow with a black cow
+903,17483_69890,17483_74294,0,sampling_speaker1,-4.51739918543,-1.03584444523,a cow cow
+904,17483_69890,17483_74294,0,sampling_speaker1,-8.41205317593,-0.500895261765,a cow with a white cow
+905,17483_69890,17483_74294,0,sampling_speaker1,-15.2734555012,-0.0387546271086,cow with a cow is in cow
+906,17483_69890,17483_74294,0,sampling_speaker1,-11.3818599738,-0.864028096199,cow that is near a cow
+907,17483_69890,17483_74294,0,sampling_speaker1,-4.7573480054,-1.36056482792,cow cow
+908,17483_69890,17483_74294,0,sampling_speaker1,-10.8675820629,-1.4338953495,a cow that is between the cow
+909,17483_69890,17483_74294,0,sampling_speaker1,-7.74729726337,-1.07354664803,a cow standing to the cow
+910,197718_209951,197718_191857,0,sampling_speaker1,-13.5445163682,-0.28914642334,a man in a white shirt and orange shirt and a white shirt
+911,197718_209951,197718_191857,0,sampling_speaker1,-13.8696083923,-0.229315757751,a man in a white shirt in a red shirt and orange shirt
+912,197718_209951,197718_191857,0,sampling_speaker1,-14.1650363174,-0.477774620056,a man in a red shirt and a red shirt with a white shirt
+913,197718_209951,197718_191857,0,sampling_speaker1,-22.969913184,-0.713681221008,a man in a pink shirt in a black shirt and a white shirt and a red shirt with
+914,197718_209951,197718_191857,0,sampling_speaker1,-23.3334902901,-0.72755241394,a man in a red shirt with a orange shirt and orange shirt with a man with a pink
+915,197718_209951,197718_191857,0,sampling_speaker1,-24.8120639033,-0.469009399414,a man in a white shirt with a black shirt and a blue shirt playing a drink
+916,197718_209951,197718_191857,0,sampling_speaker1,-19.2308483887,-0.290586471558,a man in a red shirt and a white shirt and green shirt and a white shirt
+917,197718_209951,197718_191857,0,sampling_speaker1,-20.5710156147,-0.414608001709,a man in a white shirt in a white shirt and orange shirt in a white shirt and glasses
+918,197718_209951,197718_191857,0,sampling_speaker1,-20.142455633,-0.571643829346,a man in a white shirt in a red shirt and a white shirt and orange shirt on a
+919,197718_209951,197718_191857,0,sampling_speaker1,-13.2025882578,-0.489786148071,a man in a black shirt with a white shirt with a red shirt
+920,222305_1723527,222305_215584,0,sampling_speaker1,-23.9404508926,-0.522996664047,a woman in a red and red shirt and a red and white shirt and her face
+921,222305_1723527,222305_215584,0,sampling_speaker1,-22.3124821454,-0.000942289829254,a woman in a white and white shirt and a red and white and white shirt and a pink
+922,222305_1723527,222305_215584,0,sampling_speaker1,-21.4056290434,-0.0144786834717,girl in a red and black shirt and a pink and white shirt sitting on a couch
+923,222305_1723527,222305_215584,0,sampling_speaker1,-16.123434528,-0.00203990936279,a woman in a black and white shirt and her hair sitting on it
+924,222305_1723527,222305_215584,0,sampling_speaker1,-26.4065513417,-0.0579013824463,a girl in a white and white hair and black and black and black and black and black and
+925,222305_1723527,222305_215584,0,sampling_speaker1,-19.2696318666,-0.0111665725708,a woman in a blue and white shirt and her hair and a woman
+926,222305_1723527,222305_215584,0,sampling_speaker1,-11.7318465503,-0.0834746360779,a woman in a black and white shirt and black pants
+927,222305_1723527,222305_215584,0,sampling_speaker1,-17.8872591149,-0.0038423538208,the woman in a black and white shirt and pink hair sitting on a couch
+928,222305_1723527,222305_215584,0,sampling_speaker1,-14.2488140261,-0.0173854827881,a woman in a red and white shirt and black pants sitting on a couch
+929,222305_1723527,222305_215584,0,sampling_speaker1,-25.5822817911,-0.11509513855,a woman in a pink and white - shirt and a red and black shirt and her pants
+930,148583_489717,148583_1731138,0,sampling_speaker1,-7.17479331168,-0.352043151855,a man in a green shirt
+931,148583_489717,148583_1731138,0,sampling_speaker1,-25.493205901,-0.526902198792,a man playing a man in her hand playing a table
+932,148583_489717,148583_1731138,0,sampling_speaker1,-14.7815034976,-1.30313968658,the man walking at a man
+933,148583_489717,148583_1731138,0,sampling_speaker1,-12.5581977865,-0.0693173408508,a man sitting in the camera
+934,148583_489717,148583_1731138,0,sampling_speaker1,-8.23717637905,-0.0396332740784,the girl in the background
+935,148583_489717,148583_1731138,0,sampling_speaker1,-10.3391466549,-0.136754989624,the person wearing a black shirt
+936,148583_489717,148583_1731138,0,sampling_speaker1,-13.2560580686,-0.0989203453064,a man without a laptop
+937,148583_489717,148583_1731138,0,sampling_speaker1,-7.73300070433,-0.0428819656372,person in the background
+938,148583_489717,148583_1731138,0,sampling_speaker1,-7.17479331168,-0.352043151855,a man in a green shirt
+939,148583_489717,148583_1731138,0,sampling_speaker1,-9.04444517783,-0.675981521606,the man wearing a green shirt
+940,443496_1040464,443496_1538466,0,sampling_speaker1,-12.2621806753,-0.204103469849,bowl of white and white and white plate
+941,443496_1040464,443496_1538466,0,sampling_speaker1,-11.6204323002,-0.30789899826,a white bowl of food and a white plate
+942,443496_1040464,443496_1538466,0,sampling_speaker1,-10.7404413999,-0.169261351228,white bowl of white and white dish
+943,443496_1040464,443496_1538466,0,sampling_speaker1,-10.1575249152,-0.0921890735626,bowl of white and white dish
+944,443496_1040464,443496_1538466,0,sampling_speaker1,-6.98306103531,-0.220351338387,the white bowl of food
+945,443496_1040464,443496_1538466,0,sampling_speaker1,-5.86829742233,-0.170490980148,white bowl of food
+946,443496_1040464,443496_1538466,0,sampling_speaker1,-9.70344835102,-0.184375166893,white bowl of white and white bowl
+947,443496_1040464,443496_1538466,0,sampling_speaker1,-21.984270457,-0.0759468078613,white bowl of food in a white bowl of some yellow
+948,443496_1040464,443496_1538466,0,sampling_speaker1,-8.607147103,-0.136482596397,bowl of white dish
+949,443496_1040464,443496_1538466,0,sampling_speaker1,-13.1311821209,-0.141394138336,white bowl of food and white and white bowl
+950,197739_2164648,197739_212545,0,sampling_speaker1,-13.7934865136,-0.819415092468,a woman in a green shirt is holding a green shirt
+951,197739_2164648,197739_212545,0,sampling_speaker1,-22.5876236738,-0.212307929993,a woman is eating a donut is holding a woman in a black shirt
+952,197739_2164648,197739_212545,0,sampling_speaker1,-19.1401880482,-0.836305618286,the woman in the green shirt is up a man
+953,197739_2164648,197739_212545,0,sampling_speaker1,-14.1142611768,-0.949146747589,the woman in a green shirt is wearing a green shirt
+954,197739_2164648,197739_212545,0,sampling_speaker1,-6.55587206015,-0.884043216705,a woman in a black shirt
+955,197739_2164648,197739_212545,0,sampling_speaker1,-18.1599530918,-0.516948699951,a woman in a brown shirt is holding a banana in a green shirt
+956,197739_2164648,197739_212545,0,sampling_speaker1,-16.9766430788,-0.4221534729,a woman is holding a black shirt in a brown shirt
+957,197739_2164648,197739_212545,0,sampling_speaker1,-13.6559093293,-0.353417396545,a woman in a black shirt , holding a black shirt
+958,197739_2164648,197739_212545,0,sampling_speaker1,-22.9395493434,-0.384163856506,a woman in a black shirt with a green shirt up at the table
+959,197739_2164648,197739_212545,0,sampling_speaker1,-25.3160964182,-0.610142707825,a woman in a green shirt is holding a banana to the right of the right of a man
+960,222344_56425,222344_56276,0,sampling_speaker1,-8.05656884708,-9.89040184021,a horse with brown horse
+961,222344_56425,222344_56276,0,sampling_speaker1,-13.1832150491,-8.34224319458,a horse in the left of a brown horse
+962,222344_56425,222344_56276,0,sampling_speaker1,-7.54164141179,-7.68038082123,a horse with a horse
+963,222344_56425,222344_56276,0,sampling_speaker1,-9.91980753107,-9.29119777679,a cow with a brown horse
+964,222344_56425,222344_56276,0,sampling_speaker1,-7.67465525506,-9.70532608032,a horse with a brown horse
+965,222344_56425,222344_56276,0,sampling_speaker1,-11.5439519428,-7.90198659897,a horse walking with the horse
+966,222344_56425,222344_56276,0,sampling_speaker1,-10.8516810485,-8.97895240784,a horse to the left of a brown horse
+967,222344_56425,222344_56276,0,sampling_speaker1,-7.67465525506,-9.70532608032,a horse with a brown horse
+968,222344_56425,222344_56276,0,sampling_speaker1,-16.4047728881,-1.85485672951,a horse in the background that is on the left
+969,222344_56425,222344_56276,0,sampling_speaker1,-10.8741229242,-9.30273151398,a cow of a brown horse
+970,369801_2074485,369801_1204147,0,sampling_speaker1,-19.5164621693,-8.07095718384,the umbrella that is held over a man with a man with a man
+971,369801_2074485,369801_1204147,0,sampling_speaker1,-11.1400193186,-3.35526442528,a table with a man with a man on it
+972,369801_2074485,369801_1204147,0,sampling_speaker1,-13.4928437708,-0.00700044631958,a pair of the man is on it
+973,369801_2074485,369801_1204147,0,sampling_speaker1,-15.2257647349,-8.17667007446,the umbrella with a man with a man with a man ' s hand
+974,369801_2074485,369801_1204147,0,sampling_speaker1,-9.73234521428,-0.00622773170471,a umbrella with two umbrella
+975,369801_2074485,369801_1204147,0,sampling_speaker1,-12.4867780198,-6.14819717407,the umbrella with a man with a man ' s head
+976,369801_2074485,369801_1204147,0,sampling_speaker1,-12.6886751348,-9.51409912109,a umbrella with a man with a man with a man
+977,369801_2074485,369801_1204147,0,sampling_speaker1,-16.8211208429,-10.9137907028,the umbrella with a man with a man with a man with a man with a man
+978,369801_2074485,369801_1204147,0,sampling_speaker1,-12.6789003546,-4.94728851318,the right of the man with a man with a man
+979,369801_2074485,369801_1204147,0,sampling_speaker1,-18.5686999455,-8.52788448334,the umbrella that is wearing a man with a man with a man ' s
+980,500890_56271,500890_273929,0,sampling_speaker1,-8.42007241056,-3.30269527435,a white cow
+981,500890_56271,500890_273929,0,sampling_speaker1,-13.4458966436,-0.288143515587,a cow with the brown and brown horse
+982,500890_56271,500890_273929,0,sampling_speaker1,-21.5434152964,-0.996718883514,a brown dog on the left of two other other two other
+983,500890_56271,500890_273929,0,sampling_speaker1,-18.9379989753,-0.162357091904,a brown cow with the other other and brown cow
+984,500890_56271,500890_273929,0,sampling_speaker1,-13.0226926663,-2.44255781174,a large brown cow in the other
+985,500890_56271,500890_273929,0,sampling_speaker1,-19.5092933384,-0.63384771347,a cow with a brown and brown and brown and cows
+986,500890_56271,500890_273929,0,sampling_speaker1,-14.6157707448,-3.30539369583,a horse standing at the other
+987,500890_56271,500890_273929,0,sampling_speaker1,-16.8658524519,-1.85194981098,the large brown horse standing behind the right
+988,500890_56271,500890_273929,0,sampling_speaker1,-12.299358204,-2.88684511185,a dog standing in the other
+989,500890_56271,500890_273929,0,sampling_speaker1,-14.0914887446,-0.610873818398,a cow with the brown and black horse
+990,550056_323979,550056_373893,0,sampling_speaker1,-6.92746327614,-0.00747060775757,the chair chair
+991,550056_323979,550056_373893,0,sampling_speaker1,-12.6572529555,-0.0211610794067,chair in the left hand
+992,550056_323979,550056_373893,0,sampling_speaker1,-5.25713626353,-0.0732679367065,the chair
+993,550056_323979,550056_373893,0,sampling_speaker1,-5.81433120665,-0.0532970428467,the chair on the left
+994,550056_323979,550056_373893,0,sampling_speaker1,-5.81433120665,-0.0532970428467,the chair on the left
+995,550056_323979,550056_373893,0,sampling_speaker1,-9.97545691995,-0.19318151474,a blue chair on the left
+996,550056_323979,550056_373893,0,sampling_speaker1,-7.19793440861,-0.00940465927124,the chair in the chair
+997,550056_323979,550056_373893,0,sampling_speaker1,-5.81433120665,-0.0532970428467,the chair on the left
+998,550056_323979,550056_373893,0,sampling_speaker1,-7.39867133462,-0.052884221077,a chair on the left
+999,550056_323979,550056_373893,0,sampling_speaker1,-9.95264864796,-0.00340270996094,the chair of a chair
